@@ -10,9 +10,6 @@ from django.http import HttpResponseRedirect
 
 @admin.register(Boleto)
 class BoletoAdmin(admin.ModelAdmin):
-    # fields = ("origem", "data_vencimento", "status")
-    # list_display = fields
-    # list_filter = fields
-    # search_fields = fields
+
 
     exclude = ("deletado_em",)
