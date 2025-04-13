@@ -1,0 +1,1211 @@
+[
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 1,
+      "nome": "ABRJ",
+      "site": "https://abrj.superlogica.net/clients/areadocondomino",
+      "email": "marcele.triani@abrj.com.br;heloisa.silva@rochameirelles.com.br;contato@abrj.com.br",
+      "telefones": "3253 7001",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 2,
+      "nome": "ACIR ",
+      "site": "https://www.aciradm.com.br/",
+      "email": "dianakeli@aciradm.com.br",
+      "telefones": "2212-5300 ",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 3,
+      "nome": "Acpl - PAULO LUCIO LTDA",
+      "site": "https://acpladm.icondo.com.br/",
+      "email": "aline@paulolucio.com.br",
+      "telefones": "3189-0404 - 99979-0404",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 4,
+      "nome": "ADEM",
+      "site": "https://adem.com.br/area-do-cliente/",
+      "email": "contato@adem.com.br",
+      "telefones": "3183-0691 / 99795-7534",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 5,
+      "nome": "ADIPLANTEC",
+      "site": "https://adiplantec.icondo.com.br/",
+      "email": "adiplantec@adiplantec.com.br",
+      "telefones": "2524-1844",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 6,
+      "nome": "ADRIO",
+      "site": "https://www.adrio.com.br/ahreas/index.php",
+      "email": "cobranca1@adrio.com.br",
+      "telefones": "2262-3774 / 3410-3404",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 7,
+      "nome": "ADVENGER",
+      "site": "www.advenger.com.br/home/index.php",
+      "email": "contato@advenger.com.br",
+      "telefones": "11 3847-8400",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 8,
+      "nome": "AG RIO",
+      "site": "https://www.agrioimoveis.com.br/",
+      "email": "atendimento@agrioimoveis.com.br",
+      "telefones": "2114-0150 / 96700-6399 (Jorge)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 9,
+      "nome": "APSA",
+      "site": "https://areaexclusiva.apsa.com.br/digital/login",
+      "email": "atendimento.condominio1@apsa.com.br",
+      "telefones": "3233-3001",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 10,
+      "nome": "ATLANTIDA",
+      "site": " www.atlantida-adm.com.br ",
+      "email": "cassio@atlantida-adm.com.br;lane@atlantida-adm.com.br",
+      "telefones": "2277-9696",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 11,
+      "nome": "BAP",
+      "site": "www.bap.com.br",
+      "email": "claudia.taveira@bap.com.br;amanda.albuquerque@bap.com.br;katia.souto@bap.com.br",
+      "telefones": "4501-2310",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 12,
+      "nome": "BCF",
+      "site": "https://app.bcfadm.com.br/Index.aspx",
+      "email": " hugo.mattos@bcfadm.com.br;alisson.santos@bcfadm.com.br;bcfadm@bcfadm.com.br",
+      "telefones": "2509-9002",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 13,
+      "nome": "BERVEL",
+      "site": "https://bervelcondomin.superlogica.net/clients/areadocondomino",
+      "email": "mychelle.mota@bervel.com.br",
+      "telefones": "3525-7800",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 14,
+      "nome": "BNI",
+      "site": "https://facicond1012.superlogica.net/clients/areadocondomino",
+      "email": "admcondo@bnionline.com.br",
+      "telefones": "97017-3021",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 15,
+      "nome": "BR CONDOS",
+      "site": "ssl.brcondos.com.br",
+      "email": "contato@brcondos.com.br",
+      "telefones": "0800 603 0023",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 16,
+      "nome": "BV GARANTIA",
+      "site": "https://condado.sytes.net:7443/AppCounty/login.jsf?GR=NzU=",
+      "email": "administrativo@bvgarantia.com.br",
+      "telefones": "08008000000 / 41 3232-4242",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 17,
+      "nome": "CELISA",
+      "site": "https://site.celisa.com.br/areacliente/index.php",
+      "email": "leticiamedeiros@celisa.com.br (Juridico)",
+      "telefones": "2526-8350",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 18,
+      "nome": "CENTRIMOVEIS",
+      "site": "https://centrimoveisadm.superlogica.net/clients/areadocondomino",
+      "email": "eliane.silva@centrimoveis.com.br",
+      "telefones": "3978-6021 R:4001",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 19,
+      "nome": "CHINDLER",
+      "site": "https://chindler.icondo.com.br/",
+      "email": "ruben@chindler.com.br",
+      "telefones": "2221-6453",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 20,
+      "nome": "CINOCRED",
+      "site": "http://cinocred.org",
+      "email": "cinocred@cinocred.com.br;adriana@cinocred.com.br",
+      "telefones": "2199-0600",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 21,
+      "nome": "CIPA",
+      "site": "https://cipafacil.digital/dashboard",
+      "email": "atendimento@cipa.com.br",
+      "telefones": "2196-5000 (WhatsApp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 22,
+      "nome": "CONAC",
+      "site": "https://www.conacimoveis.com.br/",
+      "email": "atendimento@conacimoveis.com.br",
+      "telefones": "3797-3797 ramal 1771",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 23,
+      "nome": "CONTABRAS",
+      "site": "https://contabras.superlogica.net/clients/areadocondomino",
+      "email": "contabil@contabrasrio.com.br;condominio@contabrasrio.com.br",
+      "telefones": "2423-1760 / 2423-5498 / 3217-5732",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 24,
+      "nome": "COUTINHO CARNEIRO",
+      "site": "https://www.ccadministradora.com.br/",
+      "email": "condominio03@ccadministradora.com.br",
+      "telefones": "3259-1071/3259-1072",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 25,
+      "nome": "CRASE-SIGMA",
+      "site": "https://admin.crasesigma.com.br/",
+      "email": "crase@crasesigma.com.br",
+      "telefones": "2525-0900",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 26,
+      "nome": "CS ADMINISTRADORA",
+      "site": "https://csimobiliaria.com.br/",
+      "email": "csimobiliaria@csimobiliaria.com.br;malote@csimobiliaria.com.br",
+      "telefones": "2548-2426",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 27,
+      "nome": "CUSHMAN & WAKEFIELD (Tx Associativa)",
+      "site": "",
+      "email": "paula.silva@sa.cushwake.com",
+      "telefones": "3535-9103 / 3535-9465 / 98028-1418",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 28,
+      "nome": "ENGEPRED",
+      "site": "https://engepred.com.br/",
+      "email": "engepred@engepred.com.br;financeiro.cond@engepred.com.br",
+      "telefones": "3554-3775",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 29,
+      "nome": "ESAB",
+      "site": "https://www.esabadm.com.br/cliente_.php",
+      "email": "leandro@esabadm.com.br",
+      "telefones": "2575-6686",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 30,
+      "nome": "ESTASA",
+      "site": "https://estasa.icondo.com.br/",
+      "email": "cac@estasa.com.br",
+      "telefones": "2323-4400",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 31,
+      "nome": "EXP/MURY",
+      "site": "https://www.grupomury.com.br/",
+      "email": "adm.condominios@exp.adm.br",
+      "telefones": " 12 99190-8599 / 12 3954-3040",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 32,
+      "nome": "FERNANDO E FERNANDES",
+      "site": "www.fernandoefernandes.com.br/",
+      "email": "nilda@fernandoefernandes.com.br",
+      "telefones": "Filial Recreio 2497-9150 / 2575-0880",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 33,
+      "nome": "FVK BRASIL",
+      "site": "https://facicond976.superlogica.net/clients/areadocondomino",
+      "email": "",
+      "telefones": "3449-0643 / 3018-3265",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 34,
+      "nome": "GARANTE DO VALE",
+      "site": "https://garantedovale.app.br/cobcondo/login",
+      "email": "atendimento@garantedovale.com.br",
+      "telefones": "12 3209-6512",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 35,
+      "nome": "GARANTIZA ",
+      "site": "https://www.garantiza.com.br/",
+      "email": "cobranca@garantiza.com.br",
+      "telefones": "2391-4383 / 41 99879-4989",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 36,
+      "nome": "GECON",
+      "site": "https://www.geconcondominios.com.br/",
+      "email": "",
+      "telefones": "14 3012-1010 / 0800-580-3225",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 37,
+      "nome": "GRUPO FRAN\u00c7A",
+      "site": "https://painel.immobileweb.com.br/grupofranca/Login",
+      "email": "contato@grupofranca.com.br",
+      "telefones": "99122-9430 / 3298-6239",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 38,
+      "nome": "GRUPO LIDER",
+      "site": "https://admin107095.superlogica.net/clients/areadocondomino",
+      "email": "wagner.bastos@grlider.com.br",
+      "telefones": "2139-6000",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 39,
+      "nome": "GRUPO RM NEGOCIOS",
+      "site": "https://www.icondev.com.br/portal/#/",
+      "email": "condominio@grupormnegocios.com.br",
+      "telefones": "3900-9490 / 99334-8042(Whatsapp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 40,
+      "nome": "HFLEX",
+      "site": "https://www.hflex.net.br/area-do-cliente",
+      "email": "cac@hflex.net.br;atendimento.rj@hflex.net.br",
+      "telefones": "3282-5068",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 41,
+      "nome": "HOUSE",
+      "site": "https://www.immobileweb.com.br/login/house",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 42,
+      "nome": "HR DIGITAL",
+      "site": "https://painel.classecon.com.br/login/entrar/condomino",
+      "email": "ge.rj@newpred.com",
+      "telefones": "97204-0385 (whatsapp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 43,
+      "nome": "I.C.A. ADM DE IMOVEIS",
+      "site": "https://www.immobileweb.com.br/login/icaadministradoradeimoveis",
+      "email": "contato@icaadm.com.br",
+      "telefones": "3520-1001 / 99330-6227",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 44,
+      "nome": "Igu\u00e1 - Maria Celeste",
+      "site": "",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 45,
+      "nome": "IMOBILIARIA MAUA",
+      "site": "www.imobiliariamaua.com.br",
+      "email": "cobranca@imobiliariamaua.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 46,
+      "nome": "IMODATA",
+      "site": "https://imodata.net/",
+      "email": "jorgeluiz@imodata.net",
+      "telefones": "2431-6111",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 47,
+      "nome": "JB ANDRADE",
+      "site": "https://www.jbandrade.com.br/",
+      "email": "condominioadm@jbandrade.com.br",
+      "telefones": "3139-9700",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 48,
+      "nome": "JCSF ADMINISTRACAO",
+      "site": "https://www.immobileweb.com.br/login/jcsf",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 49,
+      "nome": "JLL",
+      "site": "https://www.jll.com.br/",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 50,
+      "nome": "JRW",
+      "site": "https://jrw.com.br/#/",
+      "email": "jrw@jrw.com.br,\u00a0atendimento@jrw.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 51,
+      "nome": "JUA",
+      "site": "https://www.jua.com.br/",
+      "email": "",
+      "telefones": "3622-7640  /99778-1969",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 52,
+      "nome": "L RODRIGUES",
+      "site": "https://lrodrigues.superlogica.net/clients/areadocondomino",
+      "email": "condominio@lrodrigues.com.br;lrodrigues@lrodrigues.com.br",
+      "telefones": "3217-3284 / 99284-6209 (WhatsApp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 53,
+      "nome": "LIDERAN\u00c7A IMOBILIARIA",
+      "site": "https://www.liderancaimobiliaria.com/",
+      "email": "condominio@liderancaimobiliaria.com",
+      "telefones": "2215-0219 / 98448-0219",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 54,
+      "nome": "LLOYD",
+      "site": "https://app.winker.com.br/intra/default/login?wl=lloyd",
+      "email": "",
+      "telefones": "11 2182-8282 ",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 55,
+      "nome": "LLZ GARANTIDORA",
+      "site": "https://llzgarantidora.com.br/\u00a0\u00a0\u00a0\u00a0",
+      "email": "contatosp@llzgarantidora.com.br",
+      "telefones": "11 97818-4401 / 11 2476-9457",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 56,
+      "nome": "LOWNDES",
+      "site": "http://www.lowndes.com.br",
+      "email": "atendimento@lowndes.com.br",
+      "telefones": "99525-3071 (WhatsApp) / 3213-3700",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 57,
+      "nome": "LTM ADMINISTRACAO IMOBILIARIA",
+      "site": "https://www.immobileweb.com.br/login/ltm",
+      "email": "administracao@grupoltmrj.com.br",
+      "telefones": "2435-4659/ 3268-6864/ 99468-3513",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 58,
+      "nome": "MARK BUILDING",
+      "site": "www.markbuilding.com.br",
+      "email": "mari.carvalho@markbuilding.com.br",
+      "telefones": "2213-9955 / 98511-3831",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 59,
+      "nome": "MARLENE LEMA ASS CONTABIL",
+      "site": "",
+      "email": "gilsonlema6@gmail.com",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 60,
+      "nome": "ML ADMINISTRADORA",
+      "site": "https://www.mlimoveis.com.br/",
+      "email": "michelle.massena@mlimoveis.com.br",
+      "telefones": "3861-6400 / 3032-6400",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 61,
+      "nome": "MORAR BEM",
+      "site": "https://www.morarbemadm.com.br/espelho-sindico-condominio/",
+      "email": "condominio@morarbemadm.com.br",
+      "telefones": "2544-8463 / 2544-0273",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 62,
+      "nome": "MORETTI SERVI\u00c7OS",
+      "site": "https://www.immobileweb.com.br/login/moretti",
+      "email": "estagio@moretti.adm.br;contato@moretti.adm.br",
+      "telefones": " 2433-6518  / 2437-1712",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 63,
+      "nome": "NACIONAL ADMINISTRADORA",
+      "site": "https://www.admnacional.com.br/",
+      "email": "contasareceber@admnacional.com.br",
+      "telefones": "3212-1935",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 64,
+      "nome": "NOBRE RIO GARANTIA CONDOMINIAL",
+      "site": "",
+      "email": "contato@garantidoranobre.com.br",
+      "telefones": "99546-0335",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 65,
+      "nome": "NOTA10X ADMINISTRADORA",
+      "site": "https://app.condomob.net/?administradora=4566022178996224",
+      "email": "comercial@nota10xadm.com.br",
+      "telefones": "2220-6643 / 96412-4833",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 66,
+      "nome": "NOVI",
+      "site": "https://www.condominionovi.com.br/",
+      "email": "juliana.cortes@novi.adm.br;andreiza.souza@novi.adm.br;boletos@novi.adm.br",
+      "telefones": "3297-8686",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 67,
+      "nome": "NOVO LEBLON",
+      "site": "",
+      "email": "cpd@novoleblon.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 68,
+      "nome": "PALMARES",
+      "site": "https://palmaresadm.com.br/",
+      "email": "palmaresadm@palmaresadm.com.br",
+      "telefones": "2548-9045 (Copa) / 3147-6666 (Centro) / 3978-6688 (Tijuca)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 69,
+      "nome": "PRECISAO",
+      "site": "https://precisao.icondo.com.br",
+      "email": "condominio4@precisaoadm.com.br",
+      "telefones": "97138-6638",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 70,
+      "nome": "PRO ATIVA",
+      "site": "http://www.proativaimobiliaria.com.br/",
+      "email": "proativa@proativaimobiliaria.com.br",
+      "telefones": "2283-2432 / 99297-2974 (WhatsApp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 71,
+      "nome": "PRO ESTATE",
+      "site": "https://proestateadm.superlogica.net/clients/areadocondomino//index",
+      "email": "contato@proestateadm.com.br ",
+      "telefones": "97026-0107 (Natasha)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 72,
+      "nome": "PROHOME",
+      "site": "https://prohome.superlogica.net/clients/areadocondomino//index",
+      "email": "karina.fernandes@prohomeimoveis.com.br;talita.dias@prohomeimoveis.com.br",
+      "telefones": "2516-4199",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 73,
+      "nome": "PROMENADE",
+      "site": "https://promenadecond.superlogica.net/clients/areadocondomino",
+      "email": "vania.martins@promenade.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 74,
+      "nome": "PROTEL",
+      "site": "https://condominio.protel.com.br/login",
+      "email": "gerencia5@protel.com.br",
+      "telefones": "3722-5000 / 3924-6300",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 75,
+      "nome": "PROTEST",
+      "site": "https://protest.icondo.com.br/",
+      "email": " cobranca.barra@protest.'com.br;alessandra.oliveira@protest.com.br",
+      "telefones": "3154-9100 / 2525-0520 / 2525-0512",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 76,
+      "nome": "QUALITY HOUSE",
+      "site": "https://qualityhousecon.superlogica.net/clients/areadocondomino//index",
+      "email": "norimar@qualityhouse.com.br ",
+      "telefones": "3266-0800",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 77,
+      "nome": "REINVENTTA",
+      "site": "https://reinventaadm.superlogica.net/clients/areadocondomino",
+      "email": "contato@reinventta.com.br",
+      "telefones": " 3689-9663",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 78,
+      "nome": "ROCIS",
+      "site": "http://rocis.com.br/",
+      "email": "rocisadm@rocis.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 79,
+      "nome": "SANTOS VAHLIS",
+      "site": "https://www.immobileweb.com.br/login/085633",
+      "email": "sac@santosvahlis.com.br",
+      "telefones": "2240-0687",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 80,
+      "nome": "Sem Condom\u00ednio",
+      "site": "",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 81,
+      "nome": "SINDACOM",
+      "site": "http://www.residencialbellevie.com.br/",
+      "email": "administracao@residencialbellevie.com.br",
+      "telefones": "3269-9337",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 82,
+      "nome": "SITUACIONAL ",
+      "site": "https://situacional.superlogica.net/clients/areadocondomino",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 83,
+      "nome": "SITUACIONAL",
+      "site": "https://situacional.superlogica.net/clients/areadocondomino",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 84,
+      "nome": "SMART",
+      "site": "https://www.smartcondominio.adm.br/",
+      "email": "caminodelmar@upper.adm.br",
+      "telefones": "99448-6657",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 85,
+      "nome": "Tbrio Elevadores ",
+      "site": "https://tbrioelevadores.com.br/",
+      "email": "tbrio@tbrioelevadores.com.br",
+      "telefones": "99554-9392 (WhatsApp) / 2501-0742",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 86,
+      "nome": "UPPER",
+      "site": "https://www.uppercondominio.com.br/",
+      "email": "",
+      "telefones": "99448-6657",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 87,
+      "nome": "VERONEZE",
+      "site": "https://www.immobileweb.com.br/login/veroneze",
+      "email": "cbpaulovi@gmail.com",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 88,
+      "nome": "VIVENDAS CENTER",
+      "site": "https://vivendacenter.superlogica.net/clients/areadocondomino",
+      "email": "vivendacenter@vivendacenter.com.br",
+      "telefones": "3486-8887",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 89,
+      "nome": "VOGUE SQUARE",
+      "site": "",
+      "email": "financeiro@voguesquare.com.br",
+      "telefones": "96686-9739 (WhatsApp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 90,
+      "nome": "VORTEX",
+      "site": "www.vortexadm.com.br",
+      "email": "acorrea@vortexadm.com.br; contato@vortexadm.com.br",
+      "telefones": "3431-3200",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 91,
+      "nome": "WEINBERG",
+      "site": "https://www.weinberg.com.br/default.asp",
+      "email": "sos@weinberg.com.br",
+      "telefones": "2263-9210",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 92,
+      "nome": "XCON",
+      "site": "https://portal.xcon-adm.com.br/acesso",
+      "email": "condominio@xcon-adm.com.br",
+      "telefones": "2524-5400 / 99999-0597",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  },
+  {
+    "model": "administradoracondominios",
+    "fields": {
+      "id": 93,
+      "nome": "ZIRTAEB",
+      "site": "https://zirtaeb.icondo.com.br/",
+      "email": "andre.recreio@zirtaeb.com;fabiana.condominio@zirtaeb.com;silvana.condominio@zirtaeb.com",
+      "telefones": "3233-3500",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47",
+      "qtdeimoveis": null
+    }
+  }
+]

@@ -1,0 +1,4386 @@
+[
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 1,
+      "administradoracondominio_id": 1,
+      "nome": "Barra One",
+      "endereco": "Rua Jornalista Henrique Cordeiro     ",
+      "complemento_endereco": "",
+      "numero": "350",
+      "cep": "",
+      "email": "condominio@residencialbarraone.com.br",
+      "telefones": "2491-2636 / 97907-2552 (Nicole)",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 2,
+      "administradoracondominio_id": 1,
+      "nome": "Blue Houses",
+      "endereco": "Rua Dina Sfat   ",
+      "complemento_endereco": "",
+      "numero": "428",
+      "cep": "22793-338",
+      "email": "atendimento@associacaoblue.com.br",
+      "telefones": "2433-7166 (Associa\u00e7\u00e3o)",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 3,
+      "administradoracondominio_id": 1,
+      "nome": "Blue One",
+      "endereco": "Rua Cesar Lattes    ",
+      "complemento_endereco": "",
+      "numero": "560",
+      "cep": "22793-329",
+      "email": "condominioblueone@gmail.com ",
+      "telefones": "3325-8076",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 4,
+      "administradoracondominio_id": 1,
+      "nome": "Blue Vision",
+      "endereco": "Rua Cesar Lattes",
+      "complemento_endereco": "",
+      "numero": "260",
+      "cep": "22793-329",
+      "email": "assistente@condominiobluevision.com.br;sindico@condominiobluevision.com.br",
+      "telefones": "2498-4620 / 99458-4890",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 5,
+      "administradoracondominio_id": 1,
+      "nome": "Borges de Medeiros",
+      "endereco": "Av Lucio Costa  ",
+      "complemento_endereco": "",
+      "numero": "3600",
+      "cep": "22630-010",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 6,
+      "administradoracondominio_id": 1,
+      "nome": "Mar de Prata",
+      "endereco": "Rua Jornalista Henrique Cordeiro   ",
+      "complemento_endereco": "",
+      "numero": "30",
+      "cep": "22631-450",
+      "email": "assistentemardeprata@gmail.com",
+      "telefones": " 2483-1812",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 7,
+      "administradoracondominio_id": 1,
+      "nome": "Rio Mar 13",
+      "endereco": "Rua Procurador Machado Guimar\u00e3es   ",
+      "complemento_endereco": "",
+      "numero": "635",
+      "cep": "22793-326",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 8,
+      "administradoracondominio_id": 1,
+      "nome": "Rio Mar III",
+      "endereco": "Rua Augusto Camossa Saldanha   ",
+      "complemento_endereco": "",
+      "numero": "450",
+      "cep": "22793-310",
+      "email": "",
+      "telefones": "3253 7001 / 2498-4620",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 9,
+      "administradoracondominio_id": 1,
+      "nome": "Royal Blue",
+      "endereco": "Rua Cesar Lattes    ",
+      "complemento_endereco": "",
+      "numero": "480",
+      "cep": "22793-329",
+      "email": "adm1@condominioroyalblue.com.br;adm2@condominioroyalblue.com.br",
+      "telefones": " 3597-0054 - Adm Royal - Aline (8:00 as 17:00)",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 10,
+      "administradoracondominio_id": 1,
+      "nome": "Vision Offices",
+      "endereco": "Av Embaixador Abelardo Bueno   ",
+      "complemento_endereco": "",
+      "numero": "3500",
+      "cep": "22775-040",
+      "email": "\u00a0administracao@visionoffices.com.br",
+      "telefones": "3613-9401",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 11,
+      "administradoracondominio_id": 2,
+      "nome": "Acqua Ville",
+      "endereco": "Rua da Passagem   ",
+      "complemento_endereco": "",
+      "numero": "143",
+      "cep": "22290-031",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 12,
+      "administradoracondominio_id": 3,
+      "nome": "Conjunto Residencial Estacio de As",
+      "endereco": "Rua Dona Romana  ",
+      "complemento_endereco": "",
+      "numero": "309",
+      "cep": "20710-200",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 13,
+      "administradoracondominio_id": 3,
+      "nome": "Residencial Ilan",
+      "endereco": "Rua Campos Sales   ",
+      "complemento_endereco": "",
+      "numero": "94",
+      "cep": "20270-213",
+      "email": "",
+      "telefones": "2565-5268 / 98623-8716 (Sindica)",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 14,
+      "administradoracondominio_id": 3,
+      "nome": "Residencial Splendor",
+      "endereco": "Rua Ribeiro Guimaraes    ",
+      "complemento_endereco": "",
+      "numero": "35",
+      "cep": "20541-038",
+      "email": "admsplendor@yahoo.com.br",
+      "telefones": "2284-6201",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 15,
+      "administradoracondominio_id": 4,
+      "nome": "Meta Office Building I",
+      "endereco": "Estrada de Jacarepagua",
+      "complemento_endereco": "",
+      "numero": "7187",
+      "cep": "22755-155",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 16,
+      "administradoracondominio_id": 5,
+      "nome": "Grand Araguaia",
+      "endereco": "Rua Araguaia  ",
+      "complemento_endereco": "",
+      "numero": "1345",
+      "cep": "22745-271",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 17,
+      "administradoracondominio_id": 6,
+      "nome": "Edificio San Filippo",
+      "endereco": "Av. Evandro Lins e Silva   ",
+      "complemento_endereco": "",
+      "numero": "440",
+      "cep": "22631-470",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 18,
+      "administradoracondominio_id": 6,
+      "nome": "Sunplace",
+      "endereco": "Pra\u00e7a Tele Santana    ",
+      "complemento_endereco": "",
+      "numero": "85",
+      "cep": "22793-298",
+      "email": " condominiosunplaceadm@gmail.com",
+      "telefones": "3410-3404",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 19,
+      "administradoracondominio_id": 6,
+      "nome": "Varandas de Botafogo",
+      "endereco": "Rua Visconde de Silva   ",
+      "complemento_endereco": "",
+      "numero": "33",
+      "cep": "22271-090",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 20,
+      "administradoracondominio_id": 7,
+      "nome": "Contemporaneo",
+      "endereco": "Rua Bras Cardoso ",
+      "complemento_endereco": "",
+      "numero": "654",
+      "cep": "04510-030",
+      "email": "contemporaneo1adm@gmail.com",
+      "telefones": "11 98191-7964 /11 3736-4450",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 21,
+      "administradoracondominio_id": 8,
+      "nome": "Parque da Pedra",
+      "endereco": "Estada do Rio Grande/1   ",
+      "complemento_endereco": "",
+      "numero": "2123",
+      "cep": "22720-010",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 22,
+      "administradoracondominio_id": 9,
+      "nome": "Alfa",
+      "endereco": "Rua Voluntarios da Patria   ",
+      "complemento_endereco": "",
+      "numero": "166",
+      "cep": "22270-010",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 23,
+      "administradoracondominio_id": 9,
+      "nome": "Aquarela Peninsula",
+      "endereco": "Rua Jacarandas da Peninsula    ",
+      "complemento_endereco": "",
+      "numero": "880",
+      "cep": "22776-050",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 24,
+      "administradoracondominio_id": 9,
+      "nome": "Borgonha",
+      "endereco": "Rua Mario Agostinelli     ",
+      "complemento_endereco": "",
+      "numero": "150",
+      "cep": "22775-046",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 25,
+      "administradoracondominio_id": 9,
+      "nome": "Bosque de Mirataia",
+      "endereco": "Rua Mirataia    ",
+      "complemento_endereco": "",
+      "numero": "350",
+      "cep": "22770-190",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 26,
+      "administradoracondominio_id": 9,
+      "nome": "Centro Profissional da Barra",
+      "endereco": "Av Comandante Julio de Moura   ",
+      "complemento_endereco": "",
+      "numero": "188",
+      "cep": "22620-012",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 27,
+      "administradoracondominio_id": 9,
+      "nome": "Citta Office Mall ",
+      "endereco": "Av das Americas    ",
+      "complemento_endereco": "",
+      "numero": "700",
+      "cep": "22640-100",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 28,
+      "administradoracondominio_id": 9,
+      "nome": "Condado de Cascais",
+      "endereco": "Av Armando Lombardi   ",
+      "complemento_endereco": "",
+      "numero": "800",
+      "cep": "22640-000",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 29,
+      "administradoracondominio_id": 9,
+      "nome": "Ideale Offices",
+      "endereco": "Estrada dos Tres Rios   ",
+      "complemento_endereco": "",
+      "numero": "1200",
+      "cep": "22745-005",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 30,
+      "administradoracondominio_id": 9,
+      "nome": "Jardim de Allah",
+      "endereco": "Rua Ataulfo de Paiva   ",
+      "complemento_endereco": "",
+      "numero": "50",
+      "cep": "22440-033",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 31,
+      "administradoracondominio_id": 9,
+      "nome": "Joia Rara Residenciais",
+      "endereco": "Rua Firmino do Amaral   ",
+      "complemento_endereco": "",
+      "numero": "71",
+      "cep": " 22745- 310",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 32,
+      "administradoracondominio_id": 9,
+      "nome": "Magnific",
+      "endereco": "Rua Tirol   ",
+      "complemento_endereco": "",
+      "numero": "921",
+      "cep": "22750-008",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 33,
+      "administradoracondominio_id": 9,
+      "nome": "Maison Du Jardim",
+      "endereco": "Av Borges de Medeiros   ",
+      "complemento_endereco": "",
+      "numero": "83",
+      "cep": "22430-042",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 34,
+      "administradoracondominio_id": 9,
+      "nome": "Michelozzo",
+      "endereco": "Rua Guimaraes Rosa   ",
+      "complemento_endereco": "",
+      "numero": "203",
+      "cep": "22793-912",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 35,
+      "administradoracondominio_id": 9,
+      "nome": "Moradas do Itanhanga",
+      "endereco": "Av Sao Josemaria Escriva    ",
+      "complemento_endereco": "",
+      "numero": "560",
+      "cep": "22753-200",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 36,
+      "administradoracondominio_id": 9,
+      "nome": "Perola Recreio I",
+      "endereco": "Rua Condessa Pereira Carneiro   ",
+      "complemento_endereco": "",
+      "numero": "49",
+      "cep": "22795-470",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 37,
+      "administradoracondominio_id": 9,
+      "nome": "Quintas das Camelias",
+      "endereco": "Rua Maxwell   ",
+      "complemento_endereco": "",
+      "numero": "80",
+      "cep": "20511-120",
+      "email": "",
+      "telefones": "3233-3000",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 38,
+      "administradoracondominio_id": 9,
+      "nome": "Riviera Dei Fiori",
+      "endereco": "Av Prefeito Dulcidio Cardoso    ",
+      "complemento_endereco": "",
+      "numero": "2500",
+      "cep": "22631-051",
+      "email": "condominiogeranio8@gmail.com",
+      "telefones": "2439-1068",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 39,
+      "administradoracondominio_id": 9,
+      "nome": "Serzedelo Correia",
+      "endereco": "Avenida Nossa Senhora de Copacabana",
+      "complemento_endereco": "",
+      "numero": "534",
+      "cep": "22020-001",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 40,
+      "administradoracondominio_id": 9,
+      "nome": "Soul Peninsula",
+      "endereco": "Rua Jacarandas da Peninsula    ",
+      "complemento_endereco": "",
+      "numero": "900",
+      "cep": "22776-050",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 41,
+      "administradoracondominio_id": 9,
+      "nome": "Ville Montagne",
+      "endereco": "Estrada do Bananal   ",
+      "complemento_endereco": "",
+      "numero": "1546",
+      "cep": "22750-013",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 42,
+      "administradoracondominio_id": 10,
+      "nome": "Portal da Tijuca",
+      "endereco": "Rua Morais e Silva    ",
+      "complemento_endereco": "",
+      "numero": "51",
+      "cep": "20271-030",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 43,
+      "administradoracondominio_id": 11,
+      "nome": "Atol Atlantico",
+      "endereco": "Rua Advogado Heleno Claudio Fragoso   ",
+      "complemento_endereco": "",
+      "numero": "4",
+      "cep": "22793-078",
+      "email": "atolatlantico@gmail.com",
+      "telefones": "2433-7297",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 44,
+      "administradoracondominio_id": 11,
+      "nome": "Dos Bourbon",
+      "endereco": "Av General Olyntho Pillar    ",
+      "complemento_endereco": "",
+      "numero": "355",
+      "cep": "22631-052",
+      "email": "",
+      "telefones": "2438-8852 / 2438-8953",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 45,
+      "administradoracondominio_id": 11,
+      "nome": "Golden Hills",
+      "endereco": "Rua Antonio Cordeiro    ",
+      "complemento_endereco": "",
+      "numero": "445",
+      "cep": "22750-310",
+      "email": "",
+      "telefones": "2196-5015 /  2196-5101",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 46,
+      "administradoracondominio_id": 11,
+      "nome": "Jatiuca",
+      "endereco": "Av Prefeito Dulcidio Cardoso    ",
+      "complemento_endereco": "",
+      "numero": "1400",
+      "cep": "22620-311",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 47,
+      "administradoracondominio_id": 11,
+      "nome": "Jequitiba",
+      "endereco": "Av Vice Presidente Jose de Alencar    ",
+      "complemento_endereco": "",
+      "numero": "1500",
+      "cep": "22775-033",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 48,
+      "administradoracondominio_id": 11,
+      "nome": "Lagoa de Itauna",
+      "endereco": "Rua Lagoa das Gar\u00e7as   ",
+      "complemento_endereco": "",
+      "numero": "120",
+      "cep": "22793-400",
+      "email": "lagoaitauna.adm@gmail.com;Itauna@easyline.com.br",
+      "telefones": "2480-1343 (Clarissa)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 49,
+      "administradoracondominio_id": 11,
+      "nome": "Mandala",
+      "endereco": "Rua Firmo Ribeiro Dutra   ",
+      "complemento_endereco": "",
+      "numero": "180",
+      "cep": "22793-590",
+      "email": "",
+      "telefones": "2438-2615 / 96481-3096 (whatsapp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 50,
+      "administradoracondominio_id": 11,
+      "nome": "Mar de Marmara",
+      "endereco": "Av Lucio Costa    ",
+      "complemento_endereco": "",
+      "numero": "3300",
+      "cep": "22630-901",
+      "email": "adm.barramares.marmara@gmail.com",
+      "telefones": "2491-4898",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 51,
+      "administradoracondominio_id": 11,
+      "nome": "Open Mall Shopping Center",
+      "endereco": "Av das Americas    ",
+      "complemento_endereco": "",
+      "numero": "7907",
+      "cep": "22793-081",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 52,
+      "administradoracondominio_id": 11,
+      "nome": "Porto Felice",
+      "endereco": "Av Gastao Senges   ",
+      "complemento_endereco": "",
+      "numero": "245",
+      "cep": "22631-280",
+      "email": "portofeliceadm@gmail.com",
+      "telefones": "2106-4165",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 53,
+      "administradoracondominio_id": 11,
+      "nome": "Porto Fino - Mediterraneo",
+      "endereco": "Av Gastao Senges   ",
+      "complemento_endereco": "",
+      "numero": "327",
+      "cep": "22631-280",
+      "email": "",
+      "telefones": " 96440-4693/ 4501-2310",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 54,
+      "administradoracondominio_id": 11,
+      "nome": "Praia de Itauna ",
+      "endereco": "Av Prefeito Dulcidio Cardoso    ",
+      "complemento_endereco": "",
+      "numero": "11100",
+      "cep": "2240-085",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 55,
+      "administradoracondominio_id": 11,
+      "nome": "Reserva Jardim",
+      "endereco": "Av Vice Presidente Jose de Alencar    ",
+      "complemento_endereco": "",
+      "numero": "1500",
+      "cep": "22775-033",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 56,
+      "administradoracondominio_id": 12,
+      "nome": "Bayside Shopping",
+      "endereco": "Av das Americas    ",
+      "complemento_endereco": "",
+      "numero": "3120",
+      "cep": "22640-102",
+      "email": "operacional@shoppingbayside.com.br",
+      "telefones": "2431-7776",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 57,
+      "administradoracondominio_id": 12,
+      "nome": "Blue Land",
+      "endereco": "Rua Cesar Lattes    ",
+      "complemento_endereco": "",
+      "numero": "700",
+      "cep": "22793-329",
+      "email": "adm@condominioblueland.com.br / http://condominioblueland.com.br/",
+      "telefones": "2421-7131",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 58,
+      "administradoracondominio_id": 12,
+      "nome": "Felicitta",
+      "endereco": "Rua Professor Henrique Costa    ",
+      "complemento_endereco": "",
+      "numero": "550",
+      "cep": "22770-232",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 59,
+      "administradoracondominio_id": 12,
+      "nome": "Garden Up",
+      "endereco": "Estrada do Pau Ferro    ",
+      "complemento_endereco": "",
+      "numero": "1100",
+      "cep": "22745-056",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 60,
+      "administradoracondominio_id": 12,
+      "nome": "Gloria",
+      "endereco": "Rua Jose Americo de Almeida   ",
+      "complemento_endereco": "",
+      "numero": "1375",
+      "cep": "22795-045",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 61,
+      "administradoracondominio_id": 12,
+      "nome": "Majestic",
+      "endereco": "Av Vice Presidente Jose de Alencar    ",
+      "complemento_endereco": "",
+      "numero": "1455",
+      "cep": "22775-033",
+      "email": "gerente@residencialmajestic.com.br;adm2@residencialmajestic.com.br",
+      "telefones": "2051-0490 / 2051-0480",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 62,
+      "administradoracondominio_id": 12,
+      "nome": "Mundo Novo Club Platinum",
+      "endereco": "Av das Americas    ",
+      "complemento_endereco": "",
+      "numero": "7899",
+      "cep": "22793-081",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 63,
+      "administradoracondominio_id": 12,
+      "nome": "Reserva da Praia II ",
+      "endereco": "Estrada dos Bandeirantes    ",
+      "complemento_endereco": "",
+      "numero": "15501",
+      "cep": "22783-025",
+      "email": "",
+      "telefones": "96688-5391",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 64,
+      "administradoracondominio_id": 12,
+      "nome": "Riviera Dei Fiori",
+      "endereco": "Av Prefeito Dulcidio Cardoso    ",
+      "complemento_endereco": "",
+      "numero": "2500",
+      "cep": "22631-051",
+      "email": "rivieradeifiori.gerencia@gmail.com;rivierafinanceiro2@gmail.com",
+      "telefones": "2439-2661 / 2439-2713 (Genilson) / 2439-8163 / 2439-8068 / 2439-1363",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 65,
+      "administradoracondominio_id": 12,
+      "nome": "Saint Martin",
+      "endereco": "Rua Jacarandas da Peninsula    ",
+      "complemento_endereco": "",
+      "numero": "300",
+      "cep": "22776-050",
+      "email": "financeiro@saintmartinrj.com",
+      "telefones": "3434-6069 (Recep\u00e7\u00e3o)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 66,
+      "administradoracondominio_id": 12,
+      "nome": "Terrazo Di Venezia",
+      "endereco": "Rua Professor Hermes Lima   ",
+      "complemento_endereco": "",
+      "numero": "91",
+      "cep": "22795-061",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 67,
+      "administradoracondominio_id": 12,
+      "nome": "Via Alto Mapendi",
+      "endereco": "Rua Mapendi    ",
+      "complemento_endereco": "",
+      "numero": "550",
+      "cep": "22710-255",
+      "email": "admmapendi22@gmail.com",
+      "telefones": "2456-8709",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 68,
+      "administradoracondominio_id": 12,
+      "nome": "Villa Aqua",
+      "endereco": "Rua Aroazes   ",
+      "complemento_endereco": "",
+      "numero": "615",
+      "cep": "22775-060",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 69,
+      "administradoracondominio_id": 13,
+      "nome": "Midtown Nova Ipanema",
+      "endereco": "Av das Americas   ",
+      "complemento_endereco": "",
+      "numero": "5001",
+      "cep": "22631-004",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 70,
+      "administradoracondominio_id": 14,
+      "nome": "Shopping Main Street ",
+      "endereco": "Estrada dos Tres Rios    ",
+      "complemento_endereco": "",
+      "numero": "200",
+      "cep": "22745-004",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 71,
+      "administradoracondominio_id": 14,
+      "nome": "Today Modern Residences",
+      "endereco": "Estrada do Bananal    ",
+      "complemento_endereco": "",
+      "numero": "615",
+      "cep": "22750-013",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 72,
+      "administradoracondominio_id": 15,
+      "nome": "Peninsula Life",
+      "endereco": "Rua Bauhineas da Peninsula   ",
+      "complemento_endereco": "",
+      "numero": "150",
+      "cep": "22776-090",
+      "email": "",
+      "telefones": "3325-2754",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 73,
+      "administradoracondominio_id": 16,
+      "nome": "Completo Jacarepagua II",
+      "endereco": "Estrada do Rio Grande    ",
+      "complemento_endereco": "",
+      "numero": "4804",
+      "cep": "22720-002",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 74,
+      "administradoracondominio_id": 16,
+      "nome": "Dez Jacarepagua",
+      "endereco": "Estrada do Engenho D'agua    ",
+      "complemento_endereco": "",
+      "numero": "687",
+      "cep": "22765-240",
+      "email": "",
+      "telefones": "99650-6336",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 75,
+      "administradoracondominio_id": 16,
+      "nome": "Praia Park Sol",
+      "endereco": "Estrada Jose Duarte A   ",
+      "complemento_endereco": "",
+      "numero": "78",
+      "cep": "22783-240",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 76,
+      "administradoracondominio_id": 16,
+      "nome": "Praia Park Sol    ",
+      "endereco": "Estrada Jose Duarte    ",
+      "complemento_endereco": "",
+      "numero": "78",
+      "cep": "22785-240",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 77,
+      "administradoracondominio_id": 16,
+      "nome": "Praia Park Sol",
+      "endereco": "Estrada Jose Duarte    ",
+      "complemento_endereco": "",
+      "numero": "78",
+      "cep": "22785-240",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 78,
+      "administradoracondominio_id": 17,
+      "nome": "Park Palace - Kensington Gardens",
+      "endereco": "Av Prefeito Dulcidio Cardoso    ",
+      "complemento_endereco": "",
+      "numero": "3080",
+      "cep": "22631-054",
+      "email": "saparkpalace@gmail.com",
+      "telefones": "2438-1917 (WhatsApp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 79,
+      "administradoracondominio_id": 18,
+      "nome": "Blue Houses",
+      "endereco": "Rua Dina Sfat   ",
+      "complemento_endereco": "",
+      "numero": "428",
+      "cep": "22793-338",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 80,
+      "administradoracondominio_id": 18,
+      "nome": "Jardins de Maria",
+      "endereco": "Av Aldemir Martins   ",
+      "complemento_endereco": "",
+      "numero": "77",
+      "cep": "22790-707",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 81,
+      "administradoracondominio_id": 18,
+      "nome": "Ministro Lafayette Andrada",
+      "endereco": "Rua Ministro Lafayette Andrada    ",
+      "complemento_endereco": "",
+      "numero": "",
+      "cep": "22793-331",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 82,
+      "administradoracondominio_id": 18,
+      "nome": "Solar das Acacias",
+      "endereco": "Rua Almirante Cochrane   ",
+      "complemento_endereco": "",
+      "numero": "81",
+      "cep": "20550-040",
+      "email": "",
+      "telefones": "99367-2544 (Ana Carolina - Sindica)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 83,
+      "administradoracondominio_id": 18,
+      "nome": "Top Residencial",
+      "endereco": "Estrada do Pau Ferro   ",
+      "complemento_endereco": "",
+      "numero": "231",
+      "cep": "22743-050",
+      "email": "TOPRESIDENCIAL231@GMAIL.COM",
+      "telefones": " 3489-5203",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 84,
+      "administradoracondominio_id": 19,
+      "nome": "Vila do Mar",
+      "endereco": "Rua Origenes Lessa   ",
+      "complemento_endereco": "",
+      "numero": "4545",
+      "cep": "22795-215",
+      "email": "condominio@chindler.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 85,
+      "administradoracondominio_id": 20,
+      "nome": "Tulipa Garden",
+      "endereco": "Av Geremario Dantas   ",
+      "complemento_endereco": "",
+      "numero": "1330",
+      "cep": "22760-401",
+      "email": "condominiotulipagarden@gmail.com",
+      "telefones": "96523-3926 (Sindica - Fatima)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 86,
+      "administradoracondominio_id": 21,
+      "nome": "A4 Offices",
+      "endereco": "Av das Americassubsolo 107   ",
+      "complemento_endereco": "",
+      "numero": "13685",
+      "cep": "22631-000",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 87,
+      "administradoracondominio_id": 21,
+      "nome": "Denise - 205",
+      "endereco": "Rua Laura Teles   Jacarepagua    ",
+      "complemento_endereco": "",
+      "numero": "123",
+      "cep": "22730-305",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 88,
+      "administradoracondominio_id": 21,
+      "nome": "Enseada Ville",
+      "endereco": "Rua Bar\u00e3o do Itambi   ",
+      "complemento_endereco": "",
+      "numero": "28",
+      "cep": "22231-000",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 89,
+      "administradoracondominio_id": 21,
+      "nome": "High Residence",
+      "endereco": "Estrada do Bananal    ",
+      "complemento_endereco": "",
+      "numero": "956",
+      "cep": "22750-013",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 90,
+      "administradoracondominio_id": 21,
+      "nome": "High Residence ",
+      "endereco": "Estrada do Bananal    ",
+      "complemento_endereco": "",
+      "numero": "956",
+      "cep": "22750-350",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 91,
+      "administradoracondominio_id": 21,
+      "nome": "High Residence",
+      "endereco": "Estrada do Bananal    ",
+      "complemento_endereco": "",
+      "numero": "956",
+      "cep": "22750-013",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 92,
+      "administradoracondominio_id": 21,
+      "nome": "Jardim Europa",
+      "endereco": "Rua Zoila de Abreu Teixeira    ",
+      "complemento_endereco": "",
+      "numero": "4319",
+      "cep": "22631-380",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 93,
+      "administradoracondominio_id": 21,
+      "nome": "Le Parc",
+      "endereco": "Av Jornalista Tim Lopes apto 503    ",
+      "complemento_endereco": "",
+      "numero": "255",
+      "cep": "22640-105",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 94,
+      "administradoracondominio_id": 21,
+      "nome": "Liberty Place",
+      "endereco": "Av Jornalista Ricardo Marinho   ",
+      "complemento_endereco": "",
+      "numero": "300",
+      "cep": "22631-350",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 95,
+      "administradoracondominio_id": 21,
+      "nome": "Mare Vita",
+      "endereco": "Pra\u00e7a Antonio Callado   ",
+      "complemento_endereco": "",
+      "numero": "175",
+      "cep": "22793-084",
+      "email": "condominiomarevita@yahoo.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 96,
+      "administradoracondominio_id": 21,
+      "nome": "Ravenna",
+      "endereco": "Rua Mario Faustino   ",
+      "complemento_endereco": "",
+      "numero": "320",
+      "cep": "22795-225",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 97,
+      "administradoracondominio_id": 21,
+      "nome": "Residencias Di Firense",
+      "endereco": "Rua Comandante Rubens Silva    2270 054",
+      "complemento_endereco": "",
+      "numero": "596",
+      "cep": "",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 98,
+      "administradoracondominio_id": 21,
+      "nome": "Spazio Recriart    ",
+      "endereco": "Av Geremario Dantas     ",
+      "complemento_endereco": "",
+      "numero": "840",
+      "cep": "22743-010",
+      "email": "adm.recriart@gmail.com",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 99,
+      "administradoracondominio_id": 21,
+      "nome": "Wonderfull My Lifestyle Resort",
+      "endereco": "Rua Silvia Pozzano    ",
+      "complemento_endereco": "",
+      "numero": "2880",
+      "cep": "22790-671",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 100,
+      "administradoracondominio_id": 22,
+      "nome": "America Condominio Clube",
+      "endereco": "Estrada Adhemar Bebiano    ",
+      "complemento_endereco": "",
+      "numero": "257",
+      "cep": "21051-071",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 101,
+      "administradoracondominio_id": 22,
+      "nome": "Costa Blanca",
+      "endereco": "Av Prefeito Dulcidio Cardoso    ",
+      "complemento_endereco": "",
+      "numero": "1640",
+      "cep": "22620-311",
+      "email": "",
+      "telefones": "2495-4143 ",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 102,
+      "administradoracondominio_id": 22,
+      "nome": "Duque de Caxias",
+      "endereco": "Largo do Machado   ",
+      "complemento_endereco": "",
+      "numero": "30",
+      "cep": "22221-020",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 103,
+      "administradoracondominio_id": 22,
+      "nome": "Palacete de S\u00e3o Jorge",
+      "endereco": "Rua Senador Vergueiro   ",
+      "complemento_endereco": "",
+      "numero": "118",
+      "cep": "22230-001",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 104,
+      "administradoracondominio_id": 22,
+      "nome": "Parque Resid Marechal Rondon",
+      "endereco": "Av Marechal Rondon    ",
+      "complemento_endereco": "",
+      "numero": "1155",
+      "cep": "20950-006",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 105,
+      "administradoracondominio_id": 22,
+      "nome": "Residencial Le Jour",
+      "endereco": "Av Genaro de CarvalhoCob 304    ",
+      "complemento_endereco": "",
+      "numero": "3300",
+      "cep": "22795-077",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 106,
+      "administradoracondominio_id": 22,
+      "nome": "Sociedade Amigos Park Palace",
+      "endereco": "Av Prefeito Dulcidio Cardoso    ",
+      "complemento_endereco": "",
+      "numero": "3080",
+      "cep": "22631-054",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 107,
+      "administradoracondominio_id": 22,
+      "nome": "Village Grand Club Verdant ",
+      "endereco": "Rua Godofredo Marques    ",
+      "complemento_endereco": "",
+      "numero": "735",
+      "cep": "22783-130",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 108,
+      "administradoracondominio_id": 23,
+      "nome": "Assoc Amigos da Bothanica",
+      "endereco": "Rua Fritz Utzeri   ",
+      "complemento_endereco": "",
+      "numero": "41",
+      "cep": "22790-699",
+      "email": "admbothanicanature@gmail.com",
+      "telefones": "96539-8005",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 109,
+      "administradoracondominio_id": 23,
+      "nome": "Bar\u00e3o da Taquara 3",
+      "endereco": "Rua dos Prazeres bloco C8   ",
+      "complemento_endereco": "",
+      "numero": "144",
+      "cep": "22710-045",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 110,
+      "administradoracondominio_id": 23,
+      "nome": "Belle Epoque",
+      "endereco": "Estrada do Bananal    ",
+      "complemento_endereco": "",
+      "numero": "981",
+      "cep": "22750-012",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 111,
+      "administradoracondominio_id": 23,
+      "nome": "Itagua",
+      "endereco": "Rua Itagua    ",
+      "complemento_endereco": "",
+      "numero": "145",
+      "cep": "22710-270",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 112,
+      "administradoracondominio_id": 24,
+      "nome": "Milano VII   ",
+      "endereco": "Rua Edson S\u00e1   ",
+      "complemento_endereco": "",
+      "numero": "18",
+      "cep": "22795-443",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 113,
+      "administradoracondominio_id": 25,
+      "nome": "Castagneto",
+      "endereco": "Rua General Sidonio Dias Correia",
+      "complemento_endereco": "",
+      "numero": "451",
+      "cep": "",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 114,
+      "administradoracondominio_id": 25,
+      "nome": "Mar Grande",
+      "endereco": "Rua Bar\u00e3o da Torre   ",
+      "complemento_endereco": "",
+      "numero": "137",
+      "cep": "22411-001",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 115,
+      "administradoracondominio_id": 26,
+      "nome": "Res. Reserva do Rio Grande",
+      "endereco": "Estrada do Rio Grande    ",
+      "complemento_endereco": "",
+      "numero": "1240",
+      "cep": "22720-011",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 116,
+      "administradoracondominio_id": 27,
+      "nome": "Dimension Office & Park ",
+      "endereco": "Av Embaixador Abelardo Bueno    ",
+      "complemento_endereco": "",
+      "numero": "1",
+      "cep": "22775-040",
+      "email": "operacional@dimensionrio.com.br",
+      "telefones": "3449-1932",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 117,
+      "administradoracondominio_id": 28,
+      "nome": "Union Square",
+      "endereco": "Av. Jose Wilker    ",
+      "complemento_endereco": "",
+      "numero": "600",
+      "cep": "22775-024",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 118,
+      "administradoracondominio_id": 29,
+      "nome": "Mirian I",
+      "endereco": "Rua Itacuru\u00e7a    ",
+      "complemento_endereco": "",
+      "numero": "77",
+      "cep": "20510-150",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 119,
+      "administradoracondominio_id": 29,
+      "nome": "Shelly",
+      "endereco": "Rua S\u00e3o Francisco Xavier   ",
+      "complemento_endereco": "",
+      "numero": "2",
+      "cep": "20550-012",
+      "email": "",
+      "telefones": "2254-3859",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 120,
+      "administradoracondominio_id": 30,
+      "nome": "Avant Garde",
+      "endereco": "Estrada dos Tres Rios    ",
+      "complemento_endereco": "",
+      "numero": "965",
+      "cep": "22745-004",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 121,
+      "administradoracondominio_id": 30,
+      "nome": "Caminhos da Barra II",
+      "endereco": "Av Tenente Anil    ",
+      "complemento_endereco": "",
+      "numero": "",
+      "cep": "22765-007",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 122,
+      "administradoracondominio_id": 30,
+      "nome": "Concetto Bianco",
+      "endereco": "Rua Jose Mindlin    ",
+      "complemento_endereco": "",
+      "numero": "100",
+      "cep": "22790-686",
+      "email": "",
+      "telefones": "99599-2695 (D\u00e9bora)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 123,
+      "administradoracondominio_id": 30,
+      "nome": "Edificio Cruz Alta",
+      "endereco": "Rua Marques de Abrantes   ",
+      "complemento_endereco": "",
+      "numero": "172",
+      "cep": "22230-061",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 124,
+      "administradoracondominio_id": 30,
+      "nome": "Facile Jacarepagua",
+      "endereco": "Estrada Santa Efigenia   ",
+      "complemento_endereco": "",
+      "numero": "101",
+      "cep": "22775-780",
+      "email": "residencialfacile@gmail.com",
+      "telefones": "2146-0083",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 125,
+      "administradoracondominio_id": 30,
+      "nome": "Gran Village Freguesia Residencial Club",
+      "endereco": "Rua Itaverava    ",
+      "complemento_endereco": "",
+      "numero": "562",
+      "cep": "22750-006",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 126,
+      "administradoracondominio_id": 30,
+      "nome": "Lumina Offices",
+      "endereco": "Av Embaixador Abelardo Bueno   ",
+      "complemento_endereco": "",
+      "numero": "3300",
+      "cep": "22775-039",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 127,
+      "administradoracondominio_id": 30,
+      "nome": "Oceano Pacifico",
+      "endereco": "Av Claudio Besserman Vianna    ",
+      "complemento_endereco": "",
+      "numero": "3",
+      "cep": "22775-036",
+      "email": "oceanopacifico.vilapan@gmail.com",
+      "telefones": "98849-8157",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 128,
+      "administradoracondominio_id": 30,
+      "nome": "Residencial Taquara",
+      "endereco": "Estrada do Rio Grande    ",
+      "complemento_endereco": "",
+      "numero": "4001",
+      "cep": "22723-002",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 129,
+      "administradoracondominio_id": 30,
+      "nome": "Safira",
+      "endereco": "Rua Bar\u00e3o de S\u00e3o Francisco   ",
+      "complemento_endereco": "",
+      "numero": "64",
+      "cep": "22560-032",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 130,
+      "administradoracondominio_id": 30,
+      "nome": "Solar Real",
+      "endereco": "Rua Geminiano Gois   ",
+      "complemento_endereco": "",
+      "numero": "169",
+      "cep": "22743-670",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 131,
+      "administradoracondominio_id": 30,
+      "nome": "Sunrise",
+      "endereco": "Av Malibu    ",
+      "complemento_endereco": "",
+      "numero": "285",
+      "cep": "22793-295",
+      "email": "sunrise285edificio@gmail.com",
+      "telefones": "99149-0794 / 3474-3089",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 132,
+      "administradoracondominio_id": 30,
+      "nome": "Sunspecial",
+      "endereco": "Av Raymundo Moniz de Arag\u00e3o    ",
+      "complemento_endereco": "",
+      "numero": "7837",
+      "cep": "22793-302",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 133,
+      "administradoracondominio_id": 31,
+      "nome": "Parque Jericoacoara",
+      "endereco": "Rua Alian\u00e7a bl 10  Jacare\u00ed   SP    ",
+      "complemento_endereco": "",
+      "numero": "427",
+      "cep": "12307-720",
+      "email": "",
+      "telefones": "12 99711-9363",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 134,
+      "administradoracondominio_id": 32,
+      "nome": "Caribe",
+      "endereco": "Rua Joaquim Moreira Neves 265   ",
+      "complemento_endereco": "",
+      "numero": "",
+      "cep": "22795-465",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 135,
+      "administradoracondominio_id": 32,
+      "nome": "Edificio Leila",
+      "endereco": "Rua Mauricio da Costa Faria",
+      "complemento_endereco": "",
+      "numero": "720",
+      "cep": "22790-285",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 136,
+      "administradoracondominio_id": 32,
+      "nome": "Greenville",
+      "endereco": "Estrada do Pau Ferro   ",
+      "complemento_endereco": "",
+      "numero": "600",
+      "cep": "22745-056",
+      "email": "",
+      "telefones": "97094-9094 / 97663-1466",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 137,
+      "administradoracondominio_id": 32,
+      "nome": "Nova Ipanema XIV",
+      "endereco": "Av Lucio Costa   ",
+      "complemento_endereco": "",
+      "numero": "2360",
+      "cep": "22620-172",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 138,
+      "administradoracondominio_id": 32,
+      "nome": "Quintas das Peninsula",
+      "endereco": "Rua Jacarandas da Peninsula    ",
+      "complemento_endereco": "",
+      "numero": "1160",
+      "cep": "22776-050",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 139,
+      "administradoracondominio_id": 32,
+      "nome": "Residencial D'Ouro",
+      "endereco": "Estrada do Pau Ferro   ",
+      "complemento_endereco": "",
+      "numero": "171",
+      "cep": "22743-050",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 140,
+      "administradoracondominio_id": 32,
+      "nome": "Solar do Rio Residencial",
+      "endereco": "Rua Cadete Polonia      ",
+      "complemento_endereco": "",
+      "numero": "804",
+      "cep": "20961-050",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 141,
+      "administradoracondominio_id": 32,
+      "nome": "Special Beach Bali",
+      "endereco": "Rua Marlo da Costa e Souza  ",
+      "complemento_endereco": "",
+      "numero": "205",
+      "cep": "",
+      "email": "condominiospecial1@yahoo.com.br",
+      "telefones": "2480-9762",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 142,
+      "administradoracondominio_id": 32,
+      "nome": "Vilaggio Novara",
+      "endereco": "Estrada dos Bandeirantes",
+      "complemento_endereco": "",
+      "numero": "21189",
+      "cep": "22.783 550",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 143,
+      "administradoracondominio_id": 33,
+      "nome": "Vale das Acacias Imperial",
+      "endereco": "Rua Emilio Maurell Neto   ",
+      "complemento_endereco": "",
+      "numero": "134",
+      "cep": "21321-440",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 144,
+      "administradoracondominio_id": 34,
+      "nome": "Spazio Vale Belo",
+      "endereco": "Estrada do Limoeiro",
+      "complemento_endereco": "",
+      "numero": "465",
+      "cep": "12305-810",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 145,
+      "administradoracondominio_id": 35,
+      "nome": "Maximo Resort - Itacare",
+      "endereco": "Av Tim Maia ",
+      "complemento_endereco": "",
+      "numero": "7495",
+      "cep": "22790-669",
+      "email": "",
+      "telefones": "4113-6765",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 146,
+      "administradoracondominio_id": 35,
+      "nome": "Pedra Rosilha",
+      "endereco": "Rua Sylvio da Rocha Pollis    ",
+      "complemento_endereco": "",
+      "numero": "431",
+      "cep": "22793-395",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 147,
+      "administradoracondominio_id": 35,
+      "nome": "RG Personal Residences",
+      "endereco": "Av Tim Maia    ",
+      "complemento_endereco": "",
+      "numero": "7095",
+      "cep": "22790-669",
+      "email": "",
+      "telefones": "96480-2124",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 148,
+      "administradoracondominio_id": 35,
+      "nome": "Round Decks",
+      "endereco": "Av Tim Maia    ",
+      "complemento_endereco": "",
+      "numero": "7585",
+      "cep": "22790-669",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 149,
+      "administradoracondominio_id": 36,
+      "nome": "Estoril Sol",
+      "endereco": "Rua Alcides Lima   ",
+      "complemento_endereco": "",
+      "numero": "103",
+      "cep": "22750-320",
+      "email": "",
+      "telefones": "2436-3362 / 98852-1320 (Regina)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 150,
+      "administradoracondominio_id": 37,
+      "nome": "Village Ouro Preto I",
+      "endereco": "Estrada de Jacarepagua  ",
+      "complemento_endereco": "",
+      "numero": "7300",
+      "cep": "22755-158",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 151,
+      "administradoracondominio_id": 37,
+      "nome": "Village Ouro Preto I ",
+      "endereco": "Estrada de Jacarepagua ",
+      "complemento_endereco": "",
+      "numero": "7300",
+      "cep": "22755-158",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 152,
+      "administradoracondominio_id": 38,
+      "nome": "Alsacia",
+      "endereco": "Rua Mario Agostinelli  ",
+      "complemento_endereco": "",
+      "numero": "100",
+      "cep": "22775-046",
+      "email": "administrador@alsacialorena.com;sindico@alsacialorena.com",
+      "telefones": "2421-1735 / 2421-1737 / 2421-1769",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 153,
+      "administradoracondominio_id": 39,
+      "nome": "Americas Avenue",
+      "endereco": "Av das Americas  ",
+      "complemento_endereco": "",
+      "numero": "12900",
+      "cep": "22790-702",
+      "email": "administracao@americasavenue.com.br",
+      "telefones": "3613-6906",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 154,
+      "administradoracondominio_id": 40,
+      "nome": "Universe",
+      "endereco": "Av Almirante Julio de Sa Bierrenbach   ",
+      "complemento_endereco": "",
+      "numero": "65",
+      "cep": "22775-028",
+      "email": "adm2@universeempresarialrj.com.br",
+      "telefones": "3030-0223",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 155,
+      "administradoracondominio_id": 41,
+      "nome": "Bosque das Palmeiras",
+      "endereco": "Estrada dos Bandeirantes   ",
+      "complemento_endereco": "",
+      "numero": "24428",
+      "cep": "22785-010",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 156,
+      "administradoracondominio_id": 42,
+      "nome": "Apogeu Barra",
+      "endereco": "Estrada dos Bandeirantes    ",
+      "complemento_endereco": "",
+      "numero": "10333",
+      "cep": "22783-116",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 157,
+      "administradoracondominio_id": 42,
+      "nome": "Residencial Park Ritz",
+      "endereco": "Estrada do Mendanha    ",
+      "complemento_endereco": "",
+      "numero": "3600",
+      "cep": "23092-002",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 158,
+      "administradoracondominio_id": 43,
+      "nome": "Maria Quiteria",
+      "endereco": "Rua Pompeu Loureiro",
+      "complemento_endereco": "",
+      "numero": "32",
+      "cep": "22061-000",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 159,
+      "administradoracondominio_id": 44,
+      "nome": "023629577-21",
+      "endereco": "Rua Ipinambes",
+      "complemento_endereco": "",
+      "numero": "338",
+      "cep": "22730-210",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 160,
+      "administradoracondominio_id": 45,
+      "nome": "Golden Bali e Coral Bali",
+      "endereco": "Av Alfredo Baltazar da Silveira    ",
+      "complemento_endereco": "",
+      "numero": "339",
+      "cep": "22790-710",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 161,
+      "administradoracondominio_id": 46,
+      "nome": "Golfo do Mexico",
+      "endereco": "Av Claudio Besserman Viana    ",
+      "complemento_endereco": "",
+      "numero": "3",
+      "cep": "22775-036",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 162,
+      "administradoracondominio_id": 46,
+      "nome": "Marape",
+      "endereco": "Rua Domingos Ferreira   ",
+      "complemento_endereco": "",
+      "numero": "236",
+      "cep": "22050-012",
+      "email": "",
+      "telefones": "99247-8800 (Rose)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 163,
+      "administradoracondominio_id": 46,
+      "nome": "Minha Praia I",
+      "endereco": "Av Salvador Allende    ",
+      "complemento_endereco": "",
+      "numero": "1001",
+      "cep": "22780-160",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 164,
+      "administradoracondominio_id": 46,
+      "nome": "Rio Mar IX",
+      "endereco": "Rua Ivaldo de Azambuja   ",
+      "complemento_endereco": "",
+      "numero": "66",
+      "cep": "22793-316",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 165,
+      "administradoracondominio_id": 46,
+      "nome": "Saint Gottardo",
+      "endereco": "Av Genaro de Carvalho ",
+      "complemento_endereco": "",
+      "numero": "2827",
+      "cep": "22795-077",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 166,
+      "administradoracondominio_id": 46,
+      "nome": "Saul Perelberg",
+      "endereco": "Av Gilberto Amado",
+      "complemento_endereco": "",
+      "numero": "280",
+      "cep": "22620-062",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 167,
+      "administradoracondominio_id": 46,
+      "nome": "Topazio Recreio",
+      "endereco": "Rua Joaquim Moreira Neves   ",
+      "complemento_endereco": "",
+      "numero": "250",
+      "cep": "22795-465",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 168,
+      "administradoracondominio_id": 46,
+      "nome": "Varanda das Rosas",
+      "endereco": "Av Marechal Henrique Lott  ",
+      "complemento_endereco": "",
+      "numero": "270",
+      "cep": "22631-370",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 169,
+      "administradoracondominio_id": 46,
+      "nome": "Villa Di Genova",
+      "endereco": "Av Prefeito Dulcidio Cardoso   ",
+      "complemento_endereco": "",
+      "numero": "1600",
+      "cep": "22631-052",
+      "email": "",
+      "telefones": "2491-0690",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 170,
+      "administradoracondominio_id": 47,
+      "nome": "Sirius",
+      "endereco": "Rua General Guedes da Fontoura   ",
+      "complemento_endereco": "",
+      "numero": "246",
+      "cep": "22620-032",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 171,
+      "administradoracondominio_id": 48,
+      "nome": "Malaga",
+      "endereco": "Rua Pontes Correia   ",
+      "complemento_endereco": "",
+      "numero": "28",
+      "cep": "20541-142",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 172,
+      "administradoracondominio_id": 49,
+      "nome": "One World Offices",
+      "endereco": "Avenida Ator Jos\u00e9 Wilker",
+      "complemento_endereco": "",
+      "numero": "605",
+      "cep": "22.775-024",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 173,
+      "administradoracondominio_id": 49,
+      "nome": "Wordwide Offices",
+      "endereco": "Av. Almirante J\u00falio de S\u00e1 Bierrenbach",
+      "complemento_endereco": "",
+      "numero": "200",
+      "cep": "22775-028",
+      "email": "financeiro@wworj.com.br",
+      "telefones": "3514-2686",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 174,
+      "administradoracondominio_id": 50,
+      "nome": "Cassia Regina",
+      "endereco": "Rua Oliveira de Andrade   ",
+      "complemento_endereco": "",
+      "numero": "182",
+      "cep": "20751-030",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 175,
+      "administradoracondominio_id": 50,
+      "nome": "Green Coast",
+      "endereco": "Rua Mario Covas Junior   ",
+      "complemento_endereco": "",
+      "numero": "190",
+      "cep": "22631-030",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 176,
+      "administradoracondominio_id": 50,
+      "nome": "Rosa da Praia",
+      "endereco": "Av Prefeito Dulcidio Cardoso   ",
+      "complemento_endereco": "",
+      "numero": "3040",
+      "cep": "22631-052",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 177,
+      "administradoracondominio_id": 51,
+      "nome": "Vivendas de Marapendi",
+      "endereco": "Av Peregrino JuniorCob 504   ",
+      "complemento_endereco": "",
+      "numero": "380",
+      "cep": "22631-460",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 178,
+      "administradoracondominio_id": 52,
+      "nome": "Solar dos Ipes",
+      "endereco": "Estrada da Ligacao   ",
+      "complemento_endereco": "",
+      "numero": "246",
+      "cep": "22713-470",
+      "email": "",
+      "telefones": "99638-4878 (Renato - s\u00edndico)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 179,
+      "administradoracondominio_id": 53,
+      "nome": "Ponto Alto",
+      "endereco": "Rua Gustavo Sampaio   ",
+      "complemento_endereco": "",
+      "numero": "738",
+      "cep": "22010-010",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 180,
+      "administradoracondominio_id": 54,
+      "nome": "CEO Corporate",
+      "endereco": "Av Joao Cabral de Mello Neto    ",
+      "complemento_endereco": "",
+      "numero": "850",
+      "cep": "22775-057",
+      "email": "daniele.souza@ceorj.com.br",
+      "telefones": "3470-7730",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 181,
+      "administradoracondominio_id": 55,
+      "nome": "Frames Vila Midia",
+      "endereco": "Rua Teixeira Heizer    ",
+      "complemento_endereco": "",
+      "numero": "1965",
+      "cep": "22790-883",
+      "email": "atendimento@condominioframes.com.br",
+      "telefones": "3090-1965",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 182,
+      "administradoracondominio_id": 55,
+      "nome": "Portal Caminhos das Pedras",
+      "endereco": "Av. Carlos Lacerda  ",
+      "complemento_endereco": "",
+      "numero": "1433",
+      "cep": "24800-770",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 183,
+      "administradoracondominio_id": 55,
+      "nome": "Portal Caminhos dos Lagos",
+      "endereco": "Av Carlos Lacerda",
+      "complemento_endereco": "",
+      "numero": "1525",
+      "cep": "24800-770",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 184,
+      "administradoracondominio_id": 55,
+      "nome": "Reserva da Praia I",
+      "endereco": "Estrada dos Bandeirantes    ",
+      "complemento_endereco": "",
+      "numero": "15001",
+      "cep": "22783-025",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 185,
+      "administradoracondominio_id": 55,
+      "nome": "Ville Blanche",
+      "endereco": "Rua Rio da Prata    ",
+      "complemento_endereco": "",
+      "numero": "10",
+      "cep": "21820-097",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 186,
+      "administradoracondominio_id": 56,
+      "nome": "Joa",
+      "endereco": "Av Adolpho de Vasconcellos    ",
+      "complemento_endereco": "",
+      "numero": "245",
+      "cep": "22793-380",
+      "email": "condjoa@gmail.com",
+      "telefones": "3418-0131",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 187,
+      "administradoracondominio_id": 57,
+      "nome": "Demosthenes Madureira",
+      "endereco": "Rua Demosthenes Madureira Pinho  ",
+      "complemento_endereco": "",
+      "numero": "309",
+      "cep": "22795-090",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 188,
+      "administradoracondominio_id": 58,
+      "nome": "Mudra Full Living",
+      "endereco": "Av Candido Portinari    ",
+      "complemento_endereco": "",
+      "numero": "60",
+      "cep": "22793-312",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 189,
+      "administradoracondominio_id": 59,
+      "nome": "Maison D`Aline",
+      "endereco": "Rua Ernesto Nunes    ",
+      "complemento_endereco": "",
+      "numero": "62",
+      "cep": "20756-050",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 190,
+      "administradoracondominio_id": 60,
+      "nome": "Itauna Shopping",
+      "endereco": "Av das Americas   ",
+      "complemento_endereco": "",
+      "numero": "11391",
+      "cep": "22793-082",
+      "email": "",
+      "telefones": "99816-9000 (Ricardo - Sindico)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 191,
+      "administradoracondominio_id": 60,
+      "nome": "Paraiso de Iguaba",
+      "endereco": "Rodovia Amaral Peixoto ",
+      "complemento_endereco": "",
+      "numero": "95",
+      "cep": "28960-000",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 192,
+      "administradoracondominio_id": 60,
+      "nome": "Parque Residencial Tr\u00eas Rios",
+      "endereco": "Estrada dos Tr\u00eas Rios    ",
+      "complemento_endereco": "",
+      "numero": "240",
+      "cep": "22755-002",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 193,
+      "administradoracondominio_id": 60,
+      "nome": "Sundeck",
+      "endereco": "Av Malibu    ",
+      "complemento_endereco": "",
+      "numero": "260",
+      "cep": "22793-295",
+      "email": "",
+      "telefones": "3328-1797 / 96430-6795",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 194,
+      "administradoracondominio_id": 61,
+      "nome": "Parque Residencial Tijuca",
+      "endereco": "Rua Doutor Satamini",
+      "complemento_endereco": "",
+      "numero": "210",
+      "cep": "20270-231",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 195,
+      "administradoracondominio_id": 62,
+      "nome": "Bandeirante Jose Dias",
+      "endereco": "Rua Prudencia do Amaral   ",
+      "complemento_endereco": "",
+      "numero": "42",
+      "cep": "22620-240",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 196,
+      "administradoracondominio_id": 63,
+      "nome": "Geminus ",
+      "endereco": "Rua Francisco Acquarone    ",
+      "complemento_endereco": "",
+      "numero": "70",
+      "cep": "22755-170",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 197,
+      "administradoracondominio_id": 63,
+      "nome": "Ventanas Nature Resort",
+      "endereco": "Av Ruy Antunes Correa",
+      "complemento_endereco": "",
+      "numero": "150",
+      "cep": "22793-050",
+      "email": "",
+      "telefones": "3325-8575 / 96471-0389 (whatsapp)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 198,
+      "administradoracondominio_id": 64,
+      "nome": "Residencial Avenida",
+      "endereco": "Av Itaoca    ",
+      "complemento_endereco": "",
+      "numero": "1465",
+      "cep": "21061-021",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 199,
+      "administradoracondominio_id": 65,
+      "nome": "Evidence Quality Service",
+      "endereco": "Estrada do Guerengue    ",
+      "complemento_endereco": "",
+      "numero": "370",
+      "cep": "22713-004",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 200,
+      "administradoracondominio_id": 66,
+      "nome": "Bora Bora Hills",
+      "endereco": "Rua Joaquim Pinheiro    ",
+      "complemento_endereco": "",
+      "numero": "377",
+      "cep": "22743-660",
+      "email": "administracao@condominiobbh.com.br",
+      "telefones": "3258-5526",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 201,
+      "administradoracondominio_id": 67,
+      "nome": "Moretto - cota",
+      "endereco": "Rua Oscar Valdetaro   ",
+      "complemento_endereco": "",
+      "numero": "94",
+      "cep": "22793-670",
+      "email": "cpd@novoleblon.com.br",
+      "telefones": "2438-0515 Ramal 3",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 202,
+      "administradoracondominio_id": 68,
+      "nome": "Sileno",
+      "endereco": "Rua Dois de Dezembro   ",
+      "complemento_endereco": "",
+      "numero": "62",
+      "cep": "22220-040",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 203,
+      "administradoracondominio_id": 68,
+      "nome": "Village do Macico",
+      "endereco": "Estrada Boca do Mato   ",
+      "complemento_endereco": "",
+      "numero": "111",
+      "cep": "22783-325",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 204,
+      "administradoracondominio_id": 69,
+      "nome": "Edificio Monique",
+      "endereco": "Av. Pasteur   :",
+      "complemento_endereco": "",
+      "numero": "120",
+      "cep": "22290-240",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 205,
+      "administradoracondominio_id": 69,
+      "nome": "Rio",
+      "endereco": "Rua Domingos Ferreira   ",
+      "complemento_endereco": "",
+      "numero": "219",
+      "cep": "22050-011",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 206,
+      "administradoracondominio_id": 70,
+      "nome": "Itanhanga Hills",
+      "endereco": "Estrada da      ",
+      "complemento_endereco": "",
+      "numero": "1006",
+      "cep": "22641-003",
+      "email": "",
+      "telefones": "99652-2237 (Jofre)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 207,
+      "administradoracondominio_id": 71,
+      "nome": "Magic Garden Houses I e II",
+      "endereco": "Rua Geminiano Gois    ",
+      "complemento_endereco": "",
+      "numero": "882",
+      "cep": "22743-670",
+      "email": "",
+      "telefones": "96825-3540",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 208,
+      "administradoracondominio_id": 72,
+      "nome": "Espa\u00e7o Vip Residencial",
+      "endereco": "Rua Retiro dos Artistas",
+      "complemento_endereco": "",
+      "numero": "909",
+      "cep": "22770-102",
+      "email": "espacovip.res.adm@gmail.com",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 209,
+      "administradoracondominio_id": 72,
+      "nome": "Raro Design Residence",
+      "endereco": "Estrada do Bananal   ",
+      "complemento_endereco": "",
+      "numero": "74",
+      "cep": "22745-012",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 210,
+      "administradoracondominio_id": 73,
+      "nome": "Barra Tower",
+      "endereco": "Av das Americass ",
+      "complemento_endereco": "",
+      "numero": "8445",
+      "cep": "22793-081",
+      "email": "barratower@barratower.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 211,
+      "administradoracondominio_id": 73,
+      "nome": "Damai Residences",
+      "endereco": "Av Tim Maia    ",
+      "complemento_endereco": "",
+      "numero": "7285",
+      "cep": "22790-669",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 212,
+      "administradoracondominio_id": 73,
+      "nome": "Link Office Mall & Stay",
+      "endereco": "Av Ayrton Senna    ",
+      "complemento_endereco": "",
+      "numero": "2600",
+      "cep": "27775-003",
+      "email": "aux.adm@condominiolink.com, daniele.adm@condominiolink.com",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 213,
+      "administradoracondominio_id": 73,
+      "nome": "Villa Del Sol",
+      "endereco": "Estrada do Pontal   ",
+      "complemento_endereco": "",
+      "numero": "7100",
+      "cep": "22790-877",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 214,
+      "administradoracondominio_id": 74,
+      "nome": "Atmosfera",
+      "endereco": "Av das Acacias da Peninsula    ",
+      "complemento_endereco": "",
+      "numero": "540",
+      "cep": "22776-000",
+      "email": "atendimento@atmosferarj.com.br;adm2@atmosferarj.com.br",
+      "telefones": "2408-4479",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 215,
+      "administradoracondominio_id": 74,
+      "nome": "Barra Village House & Life ",
+      "endereco": "Av Cesar Morani    ",
+      "complemento_endereco": "",
+      "numero": "500",
+      "cep": "22790-705",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 216,
+      "administradoracondominio_id": 74,
+      "nome": "Blue Chip",
+      "endereco": "Av das Americas   ",
+      "complemento_endereco": "",
+      "numero": "3333",
+      "cep": "22631-003",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 217,
+      "administradoracondominio_id": 74,
+      "nome": "Concetto Nero Residenziale",
+      "endereco": "Rua Jose Mindlin    ",
+      "complemento_endereco": "",
+      "numero": "320",
+      "cep": "22790-686",
+      "email": "",
+      "telefones": "99128-0797",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 218,
+      "administradoracondominio_id": 74,
+      "nome": "Ecoway Mapendi",
+      "endereco": "Rua Mapendi    ",
+      "complemento_endereco": "",
+      "numero": "730",
+      "cep": "22710-255",
+      "email": "ecoway.adm@gmail.com",
+      "telefones": "3594-5683 / 3594-5685 (Eraldo)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 219,
+      "administradoracondominio_id": 74,
+      "nome": "Genova",
+      "endereco": "Rua Alfredo Ceschiatti    ",
+      "complemento_endereco": "",
+      "numero": "100",
+      "cep": "22775-045",
+      "email": "genovaadm100@gmail.com;genovasindico@gmail.com",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 220,
+      "administradoracondominio_id": 74,
+      "nome": "Living Sunset",
+      "endereco": "Estrada Coronel Pedro Correa ",
+      "complemento_endereco": "",
+      "numero": "130",
+      "cep": "22775-090",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 221,
+      "administradoracondominio_id": 74,
+      "nome": "Ocean Pontal Residence",
+      "endereco": "Rua Luiz Carlos Sarolli",
+      "complemento_endereco": "",
+      "numero": "1355",
+      "cep": "22790-880",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 222,
+      "administradoracondominio_id": 74,
+      "nome": "One Offices",
+      "endereco": "",
+      "complemento_endereco": "",
+      "numero": "",
+      "cep": "",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 223,
+      "administradoracondominio_id": 74,
+      "nome": "Rio Hotel Residencia",
+      "endereco": "Av Lucio Costa    ",
+      "complemento_endereco": "",
+      "numero": "6250",
+      "cep": "22630-012",
+      "email": "administracaorhr@uol.com.br;sindicorhr@uol.com.br",
+      "telefones": "3171-5106",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 224,
+      "administradoracondominio_id": 74,
+      "nome": "Rio II",
+      "endereco": "Rua Alfredo Ceschiatti    ",
+      "complemento_endereco": "",
+      "numero": "155",
+      "cep": "22775-045",
+      "email": "residencialbretanha@gmail.com",
+      "telefones": " ",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 225,
+      "administradoracondominio_id": 74,
+      "nome": "Rossi Barra Unico",
+      "endereco": "Rua Queiroz Junior    ",
+      "complemento_endereco": "",
+      "numero": "201",
+      "cep": "22775-170",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 226,
+      "administradoracondominio_id": 74,
+      "nome": "Sicilia",
+      "endereco": "Rua Mario Agostinelli     ",
+      "complemento_endereco": "",
+      "numero": "105",
+      "cep": "22775-046",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 227,
+      "administradoracondominio_id": 74,
+      "nome": "Summer Time",
+      "endereco": "Av Lucio Costa   ",
+      "complemento_endereco": "",
+      "numero": "16010",
+      "cep": "22795-008",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 228,
+      "administradoracondominio_id": 74,
+      "nome": "Weekend Bandeirantes",
+      "endereco": "Estrada dos Bandeirantes    ",
+      "complemento_endereco": "",
+      "numero": "8041",
+      "cep": "22783-115",
+      "email": "weekendbandeirantes.adm@gmail.com",
+      "telefones": "3412-0020 / 964334723 / 964337113",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 229,
+      "administradoracondominio_id": 75,
+      "nome": "Aslan",
+      "endereco": "Av Atlantica ",
+      "complemento_endereco": "",
+      "numero": "360",
+      "cep": "22010-000",
+      "email": "antoniofernandescondaslan@gmail.com",
+      "telefones": "98235-7780 (Antonio Fernandes - Porteiro) / 99988-7877 (Ricardo Os\u00f3rio - S\u00edndico) ",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 230,
+      "administradoracondominio_id": 75,
+      "nome": "Cielo Vita ",
+      "endereco": "Pra\u00e7a Antonio Callado   ",
+      "complemento_endereco": "",
+      "numero": "53",
+      "cep": "22793-084",
+      "email": "cielovitaadm@hotmail.com;deniseleal@lealsantosadv.com",
+      "telefones": "2487-6133/99567-5866",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 231,
+      "administradoracondominio_id": 75,
+      "nome": "Espacio Laguna ",
+      "endereco": "Rua Coronel Antonio Arthur Braga    ",
+      "complemento_endereco": "",
+      "numero": "370",
+      "cep": "22793-105",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 232,
+      "administradoracondominio_id": 75,
+      "nome": "Minha Praia III",
+      "endereco": "Av Salvador Allende ",
+      "complemento_endereco": "",
+      "numero": "931",
+      "cep": "22783-127",
+      "email": "2803minhapraia@gmail.com",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 233,
+      "administradoracondominio_id": 75,
+      "nome": "Mio Residencial Parque",
+      "endereco": "Av. dos Mananciais    ",
+      "complemento_endereco": "",
+      "numero": "1501",
+      "cep": "22720-000",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 234,
+      "administradoracondominio_id": 75,
+      "nome": "Nexus Offices",
+      "endereco": "Rua Marques de Abrantes   ",
+      "complemento_endereco": "",
+      "numero": "170",
+      "cep": "22230-061",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 235,
+      "administradoracondominio_id": 75,
+      "nome": "Pedra Grande",
+      "endereco": "Av Adolho de Vasconcelos     ",
+      "complemento_endereco": "",
+      "numero": "444",
+      "cep": "",
+      "email": "",
+      "telefones": "2498-0084 / 2498-8772 ",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 236,
+      "administradoracondominio_id": 75,
+      "nome": "Prince James",
+      "endereco": "Rua Miguel Lemos",
+      "complemento_endereco": "",
+      "numero": "77",
+      "cep": "",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 237,
+      "administradoracondominio_id": 75,
+      "nome": "Vernissage Residence & Club",
+      "endereco": "Rua Retiro dos Artistas ",
+      "complemento_endereco": "",
+      "numero": "855",
+      "cep": "",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 238,
+      "administradoracondominio_id": 76,
+      "nome": "Art Life",
+      "endereco": "Rua Historiador Ciro Flamarion ",
+      "complemento_endereco": "",
+      "numero": "61",
+      "cep": "22790-826",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 239,
+      "administradoracondominio_id": 76,
+      "nome": "Four Seasons",
+      "endereco": "Av Prefeito Dulcidio Cardoso    ",
+      "complemento_endereco": "",
+      "numero": "2848",
+      "cep": "22631-052",
+      "email": "adm@fsresidence.com.br",
+      "telefones": "2109-5664 / 2109-5656",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 240,
+      "administradoracondominio_id": 76,
+      "nome": "Tirol",
+      "endereco": "Rua Tirol  Jacarepagua    ",
+      "complemento_endereco": "",
+      "numero": "450",
+      "cep": "22750-230",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 241,
+      "administradoracondominio_id": 76,
+      "nome": "Vila de Espa\u00f1a",
+      "endereco": "Rua Aroazes    ",
+      "complemento_endereco": "",
+      "numero": "145",
+      "cep": "22775-060",
+      "email": "",
+      "telefones": "97022-8969",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 242,
+      "administradoracondominio_id": 77,
+      "nome": "Kauai",
+      "endereco": "Rua Antonio Cordeiro    ",
+      "complemento_endereco": "",
+      "numero": "264",
+      "cep": "22750-310",
+      "email": "rcavalcantedelourdes@yahoo.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 243,
+      "administradoracondominio_id": 78,
+      "nome": "Marialva",
+      "endereco": "Rua Raimundo Correia   ",
+      "complemento_endereco": "",
+      "numero": "41",
+      "cep": "22040-041",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 244,
+      "administradoracondominio_id": 78,
+      "nome": "Senador",
+      "endereco": "Rua Senador Vergueiro   ",
+      "complemento_endereco": "",
+      "numero": "148",
+      "cep": "22230-001",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 245,
+      "administradoracondominio_id": 79,
+      "nome": "Santos Vahlis",
+      "endereco": "Rua Senador Dantas   ",
+      "complemento_endereco": "",
+      "numero": "117",
+      "cep": "20031-204",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 246,
+      "administradoracondominio_id": 80,
+      "nome": "Sem condom\u00ednio",
+      "endereco": "Av Gaspar de Lemos",
+      "complemento_endereco": "",
+      "numero": "368E",
+      "cep": "23020-110",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 247,
+      "administradoracondominio_id": 80,
+      "nome": "Sem Condom\u00ednio",
+      "endereco": "Pra\u00e7a Professor Velho da Silva   ",
+      "complemento_endereco": "",
+      "numero": "22",
+      "cep": "22611-080",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 248,
+      "administradoracondominio_id": 81,
+      "nome": "Belle Vie",
+      "endereco": "Estrada dos Tres Rios    ",
+      "complemento_endereco": "",
+      "numero": "1245",
+      "cep": "22745-004",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 249,
+      "administradoracondominio_id": 81,
+      "nome": "Verano - Malaga [2122]",
+      "endereco": "Rua Escultor Sergio Camargo ",
+      "complemento_endereco": "",
+      "numero": "65",
+      "cep": "",
+      "email": "",
+      "telefones": "3118-0374 / 2137-4195 / 99594-9632",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 250,
+      "administradoracondominio_id": 82,
+      "nome": "Comercial Ocean Mall",
+      "endereco": "Av Sernambetiba   ",
+      "complemento_endereco": "",
+      "numero": "8000",
+      "cep": "22795-006",
+      "email": "oceanmall8000@gmail.com",
+      "telefones": "2433-1615 (Sindico - Guilherme Januzzi)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 251,
+      "administradoracondominio_id": 83,
+      "nome": "Pero Lopes ",
+      "endereco": "Rua Edgard Werneck  Jacarepagua    ",
+      "complemento_endereco": "",
+      "numero": "588",
+      "cep": "22763-197",
+      "email": "perolopesdesouza@gmail.com",
+      "telefones": "3342-7871",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 252,
+      "administradoracondominio_id": 84,
+      "nome": "Camino del Mar",
+      "endereco": "Av das Americas    ",
+      "complemento_endereco": "",
+      "numero": "13550",
+      "cep": "22790-702",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 253,
+      "administradoracondominio_id": 84,
+      "nome": "Residencial Dez Vista Alegre",
+      "endereco": "Av Meriti    ",
+      "complemento_endereco": "",
+      "numero": "4365",
+      "cep": "21250-391",
+      "email": "admdezvistaalegre@gmail.com",
+      "telefones": "97293-7265",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 254,
+      "administradoracondominio_id": 84,
+      "nome": "Summer Coast",
+      "endereco": "Rua Paulo Vianna de Araujo Filho   ",
+      "complemento_endereco": "",
+      "numero": "100",
+      "cep": "22631-040",
+      "email": "csummercoast@hotmail.com",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 255,
+      "administradoracondominio_id": 84,
+      "nome": "Vertice Mall",
+      "endereco": "Av Miguel Antonio Fernandes   ",
+      "complemento_endereco": "",
+      "numero": "1333",
+      "cep": "22790-682",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 256,
+      "administradoracondominio_id": 85,
+      "nome": "Manuten\u00e7\u00e3o do Elevador",
+      "endereco": "Rua Joao da Mata   ",
+      "complemento_endereco": "",
+      "numero": "138",
+      "cep": "20511-260",
+      "email": "amanda@tbrioelevadores.com.br;lucia@tbrioelevadores.com.br",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 257,
+      "administradoracondominio_id": 86,
+      "nome": "Sea Coast ",
+      "endereco": "Av das Americas    ",
+      "complemento_endereco": "",
+      "numero": "13554",
+      "cep": "22790-702",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 258,
+      "administradoracondominio_id": 87,
+      "nome": "Paulo VI",
+      "endereco": "Rua Tirol    ",
+      "complemento_endereco": "",
+      "numero": "861",
+      "cep": "22750-008",
+      "email": "cbpaulovi@gmail.com",
+      "telefones": "3392-2780",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 259,
+      "administradoracondominio_id": 88,
+      "nome": "Interlagos Quality  ",
+      "endereco": "Rua Pio Borges de Castro   ",
+      "complemento_endereco": "",
+      "numero": "5639",
+      "cep": "22793-325",
+      "email": "96760-0942",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 260,
+      "administradoracondominio_id": 89,
+      "nome": "Vogue Square Life",
+      "endereco": "Av das Americas   ",
+      "complemento_endereco": "",
+      "numero": "8585",
+      "cep": "22793-081",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 261,
+      "administradoracondominio_id": 90,
+      "nome": "Dimension Office & Park ",
+      "endereco": "Av Embaixador Abelardo Bueno    ",
+      "complemento_endereco": "",
+      "numero": "1",
+      "cep": "22775-040",
+      "email": "operacional@dimensionrio.com.br",
+      "telefones": "3449-1932",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 262,
+      "administradoracondominio_id": 90,
+      "nome": "FrontLake",
+      "endereco": "Rua Mario Agostinelli    ",
+      "complemento_endereco": "",
+      "numero": "50",
+      "cep": "22775-046",
+      "email": "operacional@frontlakerj.com.br",
+      "telefones": "2421-1957",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 263,
+      "administradoracondominio_id": 90,
+      "nome": "Like Residencial Club",
+      "endereco": "Estrada Coronel Pedro Correia    ",
+      "complemento_endereco": "",
+      "numero": "140",
+      "cep": "22775-090",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 264,
+      "administradoracondominio_id": 90,
+      "nome": "London Green - Royal Park",
+      "endereco": "Rua Cesar Lattes    ",
+      "complemento_endereco": "",
+      "numero": "1000",
+      "cep": "22793-329",
+      "email": "condlondongreen@gmail.com",
+      "telefones": " 3042-3795 / 97045-7198",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 265,
+      "administradoracondominio_id": 90,
+      "nome": "Seletto Business",
+      "endereco": "Av Embaixador Abelardo Bueno     ",
+      "complemento_endereco": "",
+      "numero": "1111",
+      "cep": "22775-039",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 266,
+      "administradoracondominio_id": 91,
+      "nome": "Conde dos Arcos",
+      "endereco": "Av Oswaldo Cruz   ",
+      "complemento_endereco": "",
+      "numero": "99",
+      "cep": "22250-060",
+      "email": "",
+      "telefones": "98303-7732 (Amilton)",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 267,
+      "administradoracondominio_id": 91,
+      "nome": "Red Bali",
+      "endereco": "Av Djalma Ribeiro   ",
+      "complemento_endereco": "",
+      "numero": "20",
+      "cep": "22790-790",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 268,
+      "administradoracondominio_id": 92,
+      "nome": "Braga J1",
+      "endereco": "Rua Zoila de Abreu Teixeira    ",
+      "complemento_endereco": "",
+      "numero": "4319",
+      "cep": "22631-380",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 269,
+      "administradoracondominio_id": 93,
+      "nome": "Angelica",
+      "endereco": "Rua Maria Angelica   ",
+      "complemento_endereco": "",
+      "numero": "326",
+      "cep": "22461-152",
+      "email": "",
+      "telefones": " 2286-8572",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 270,
+      "administradoracondominio_id": 93,
+      "nome": "Beatriz Chistine [6513]",
+      "endereco": "Rua Hugo Panasco Alvim   ",
+      "complemento_endereco": "",
+      "numero": "86",
+      "cep": "22795-306",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 271,
+      "administradoracondominio_id": 93,
+      "nome": "Fernanda [5631]",
+      "endereco": "Rua Joaquim Moreira Neves   ",
+      "complemento_endereco": "",
+      "numero": "85",
+      "cep": "22795-465",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 272,
+      "administradoracondominio_id": 93,
+      "nome": "Luara",
+      "endereco": "Rua Ana Silva   ",
+      "complemento_endereco": "",
+      "numero": "241",
+      "cep": "22740-300",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 273,
+      "administradoracondominio_id": 93,
+      "nome": "Mar Azul",
+      "endereco": "Rua Joaquim Cardoso ",
+      "complemento_endereco": "",
+      "numero": "104",
+      "cep": "22795-035",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "administracaocondominios",
+    "fields": {
+      "id": 274,
+      "administradoracondominio_id": 93,
+      "nome": "Solar das Palmeiras",
+      "endereco": "Rua Almirante Ary Rongel   ",
+      "complemento_endereco": "",
+      "numero": "370",
+      "cep": "22790-430",
+      "email": "",
+      "telefones": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  }
+]

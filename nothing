@@ -1,0 +1,91 @@
+from curses import OK
+
+
+python manage.py graph_models imoveis -o model_imoveis_diagram.png
+
+python manage.py graph_models -a -o model_diagram.png
+
+python manage.py graph_models -a --disable-abstract -o model_diagram.png
+
+python manage.py graph_models imoveis monitoramento_boletos --disable-abstract -o model_diagram.png
+
+
+{
+  "email": "example@example.com",
+  "nome": "João",
+  "sobrenome": "Silva",
+  "password": "StrongPassword123!"
+}
+
+
+==
+
+ssh-keygen -t ed25519 -C "propius-deploy" -f ~/.ssh/propius_github_deploy_key
+
+
+cat ~/.ssh/propius_github_deploy_key.pub
+
+
+# no serviddor
+mkdir -p ~/.ssh
+chmod 700 ~/.ssh
+
+vim ~/.ssh/authorized_keys
+
+cat github_actions_key.pub >> ~/.ssh/authorized_keys
+chmod 600 ~/.ssh/authorized_keys
+
+
+
+===
+
+
+easy connect server: 
+ssh -i ~/.ssh/propius_deploy_key root@212.56.42.99
+
+====
+
+enho esse aqui anotado:
+
+Contabo Server 4
+robôs/administramos:
+acesso root:
+login: root
+senha: gG1g02TI9Vxu4
+
+IP 212.56.42.99
+VPS 1 SSD (no setup)
+St. Louis (US-central)
+VNC IP and port: 209.126.5.91:63051
+VNC password: 963wBYNM
+login: root
+
+
+====
+
+
+'host' => '24.144.96.26',
+'login' => 'alugueseguro_admim',
+'password' => 'xGriWP!Ut#Hd1v9K',
+'database' => 'alugueseguro_admimo'
+
+
+python manage.py migrate_db \
+--source-type mysql \
+--host localhost \
+--database your_db \
+--user your_user \
+--password your_password \
+--output-file data.json
+
+python manage.py migrate_db \
+--source-type mysql \
+--host '24.144.96.26' \
+--database alugueseguro_admimo \
+--user 'alugueseguro_admim' \
+--password 'xGriWP!Ut#Hd1v9K' \
+--tables "administradoracondominios administracaocondominios" \
+--output-file mysql_fixture.json
+
+
+python manage.py migrate_db --source-type sqlite --source-file db.sqlite3 --output-file sqlite-data.json

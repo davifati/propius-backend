@@ -1,0 +1,16 @@
+[
+  {
+    "model": "usuarios_user",
+    "fields": {
+      "id": 1,
+      "password": "pbkdf2_sha256$1000000$IGLsOCM1U70KxGI0jA98qN$DsJ+HnUyXjLWMzkBwo9te2sodnEcp2XTkGG6DencK/4=",
+      "last_login": null,
+      "is_superuser": 0,
+      "email": "kavid175@gmail.com",
+      "name": "Davi",
+      "is_active": 1,
+      "is_staff": 0,
+      "date_joined": "2025-04-08 05:22:38.798091"
+    }
+  }
+]

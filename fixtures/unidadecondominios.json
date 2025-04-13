@@ -1,0 +1,6666 @@
+[
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 1,
+      "administracaocondominio_id": 1,
+      "bloco": "2",
+      "num_unidade": "1403",
+      "cep": "",
+      "num_pasta": "308",
+      "documento_proprietario": "1391235711",
+      "nome_proprietario": "MARCELO VAZ DE T BOMBANA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 2,
+      "administracaocondominio_id": 1,
+      "bloco": "1",
+      "num_unidade": "1008",
+      "cep": "22631-450",
+      "num_pasta": "718",
+      "documento_proprietario": "026797447-72",
+      "nome_proprietario": "LARA CARDOSO DE BARROS DUARTE",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 3,
+      "administracaocondominio_id": 2,
+      "bloco": "",
+      "num_unidade": "1",
+      "cep": "22793-338",
+      "num_pasta": "548",
+      "documento_proprietario": "135656197-75",
+      "nome_proprietario": "LUCCAS NETO FERREIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 4,
+      "administracaocondominio_id": 2,
+      "bloco": "",
+      "num_unidade": "2",
+      "cep": "22793-341",
+      "num_pasta": "743",
+      "documento_proprietario": "135656197-75",
+      "nome_proprietario": "LUCCAS NETO FERREIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 5,
+      "administracaocondominio_id": 3,
+      "bloco": "1",
+      "num_unidade": "806",
+      "cep": "22793-329",
+      "num_pasta": "206",
+      "documento_proprietario": "805758467-04",
+      "nome_proprietario": "REGIANE FERREIRA DE CARVALHO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 6,
+      "administracaocondominio_id": 3,
+      "bloco": "1",
+      "num_unidade": "807",
+      "cep": "22793-329",
+      "num_pasta": "264",
+      "documento_proprietario": "268631467-20",
+      "nome_proprietario": "DANIEL HENRIQUE DA SILVA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 7,
+      "administracaocondominio_id": 3,
+      "bloco": "1",
+      "num_unidade": "401",
+      "cep": "22793-329",
+      "num_pasta": "32",
+      "documento_proprietario": "179158647-34",
+      "nome_proprietario": "JANETE CORREIA DE MELO GOIS",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 8,
+      "administracaocondominio_id": 3,
+      "bloco": "2",
+      "num_unidade": "606",
+      "cep": "22793-329",
+      "num_pasta": "331",
+      "documento_proprietario": "624039237-53",
+      "nome_proprietario": "SERGIO SIQUEIRA MAGALHAES",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 9,
+      "administracaocondominio_id": 3,
+      "bloco": "1",
+      "num_unidade": "205",
+      "cep": "22793-329",
+      "num_pasta": "38",
+      "documento_proprietario": "5746584754",
+      "nome_proprietario": "LUIZA PALMI CASTAGNINO/ GABRIEL PALMI CASTAGNINO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 10,
+      "administracaocondominio_id": 3,
+      "bloco": "2",
+      "num_unidade": "304",
+      "cep": "22793-329",
+      "num_pasta": "74",
+      "documento_proprietario": "4555777735",
+      "nome_proprietario": "FERNANDO RAMALHO LAVIOLA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 11,
+      "administracaocondominio_id": 4,
+      "bloco": "5",
+      "num_unidade": "422",
+      "cep": "22793-329",
+      "num_pasta": "215",
+      "documento_proprietario": "106033347-33",
+      "nome_proprietario": "PAULA NEVES FERREIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 12,
+      "administracaocondominio_id": 4,
+      "bloco": "1",
+      "num_unidade": "101",
+      "cep": "22793-329",
+      "num_pasta": "217",
+      "documento_proprietario": "332339347-34",
+      "nome_proprietario": "RONALDO CASTILHO THOMAZ",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 13,
+      "administracaocondominio_id": 4,
+      "bloco": "1",
+      "num_unidade": "110",
+      "cep": "22793-329",
+      "num_pasta": "248",
+      "documento_proprietario": "672164807-59",
+      "nome_proprietario": "RENATO PROVENZA AMARAL",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 14,
+      "administracaocondominio_id": 4,
+      "bloco": "1",
+      "num_unidade": "1005",
+      "cep": "22793-329",
+      "num_pasta": "276",
+      "documento_proprietario": "900963207-53",
+      "nome_proprietario": "CLARISSA CAVALCANTI DE ALBUQUERQUE",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 15,
+      "administracaocondominio_id": 4,
+      "bloco": "",
+      "num_unidade": "105",
+      "cep": "22793-329",
+      "num_pasta": "345",
+      "documento_proprietario": "097742867-23",
+      "nome_proprietario": "CARLOS ALEXANDRE DA SILVA ESPINGARDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 16,
+      "administracaocondominio_id": 4,
+      "bloco": "",
+      "num_unidade": "206",
+      "cep": "22793-329",
+      "num_pasta": "353",
+      "documento_proprietario": "752024256-00",
+      "nome_proprietario": "MARCELO RODRIGUES VILELLA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 17,
+      "administracaocondominio_id": 4,
+      "bloco": "",
+      "num_unidade": "606",
+      "cep": "22793-329",
+      "num_pasta": "418",
+      "documento_proprietario": "10185863779",
+      "nome_proprietario": "ANNELISE CAVALCANTI FROTA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 18,
+      "administracaocondominio_id": 4,
+      "bloco": "",
+      "num_unidade": "228",
+      "cep": "22793-329",
+      "num_pasta": "436",
+      "documento_proprietario": "334332848-06",
+      "nome_proprietario": "FRANCINE GALVAO ABDALLA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 19,
+      "administracaocondominio_id": 4,
+      "bloco": "",
+      "num_unidade": "505",
+      "cep": "22793-329",
+      "num_pasta": "525",
+      "documento_proprietario": "1002072786",
+      "nome_proprietario": "MARCOS ALBERTO CORREIA TEIXEIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 20,
+      "administracaocondominio_id": 4,
+      "bloco": "5",
+      "num_unidade": "113",
+      "cep": "22793-329",
+      "num_pasta": "772",
+      "documento_proprietario": "111174687-71",
+      "nome_proprietario": "NATALIA DE SIQUEIRA PENNA QUINTAES",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 21,
+      "administracaocondominio_id": 5,
+      "bloco": "4",
+      "num_unidade": "1103",
+      "cep": "22630-010",
+      "num_pasta": "195",
+      "documento_proprietario": "204442066-04",
+      "nome_proprietario": "MARCIO LAEST DUARTE DOS SANTOS",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 22,
+      "administracaocondominio_id": 5,
+      "bloco": "4",
+      "num_unidade": "904",
+      "cep": "22630-010",
+      "num_pasta": "310",
+      "documento_proprietario": "076488217-10",
+      "nome_proprietario": "MAURO CARRINHO DE MOURA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 23,
+      "administracaocondominio_id": 6,
+      "bloco": "",
+      "num_unidade": "1009",
+      "cep": "22631-450",
+      "num_pasta": "391",
+      "documento_proprietario": "016379047-70",
+      "nome_proprietario": "GILSON BASTOS FERREIRA S JUNIOR",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 24,
+      "administracaocondominio_id": 6,
+      "bloco": "",
+      "num_unidade": "208",
+      "cep": "22631-450",
+      "num_pasta": "400",
+      "documento_proprietario": "271480097-15",
+      "nome_proprietario": "ANTONIO MAURICIO DE AMORIM",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 25,
+      "administracaocondominio_id": 6,
+      "bloco": "",
+      "num_unidade": "1510",
+      "cep": "22631-450",
+      "num_pasta": "455",
+      "documento_proprietario": "2394398728",
+      "nome_proprietario": "ISMERIA MARTINS CECILIANO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 26,
+      "administracaocondominio_id": 6,
+      "bloco": "",
+      "num_unidade": "307",
+      "cep": "22631-450",
+      "num_pasta": "493",
+      "documento_proprietario": "016787297-44",
+      "nome_proprietario": "ISABELLE BRANDAO AMARO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 27,
+      "administracaocondominio_id": 6,
+      "bloco": "",
+      "num_unidade": "904",
+      "cep": "22631-450",
+      "num_pasta": "578",
+      "documento_proprietario": "261049977-91",
+      "nome_proprietario": "ALCENI RODRIGUES JUNQUEIRA DE SOUZA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 28,
+      "administracaocondominio_id": 6,
+      "bloco": "",
+      "num_unidade": "710",
+      "cep": "22631-450",
+      "num_pasta": "727",
+      "documento_proprietario": "309008837-15",
+      "nome_proprietario": "SONIA APARECIDA DO CARMO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 29,
+      "administracaocondominio_id": 7,
+      "bloco": "",
+      "num_unidade": "1",
+      "cep": "22793-326",
+      "num_pasta": "530",
+      "documento_proprietario": "024889457-90",
+      "nome_proprietario": "ROBERTA JANSEN DE MELLO TRIANTAFIYLLIDIS",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 30,
+      "administracaocondominio_id": 7,
+      "bloco": "",
+      "num_unidade": "1",
+      "cep": "22793-326",
+      "num_pasta": "710",
+      "documento_proprietario": "041714117-34",
+      "nome_proprietario": "AMADEU DE CARVALHO ANDRADE",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 31,
+      "administracaocondominio_id": 8,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "22793-310",
+      "num_pasta": "121",
+      "documento_proprietario": "410284227-68",
+      "nome_proprietario": "JOSE ROBERTO BLASCHEK",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 32,
+      "administracaocondominio_id": 9,
+      "bloco": "1",
+      "num_unidade": "604",
+      "cep": "22793-329",
+      "num_pasta": "161",
+      "documento_proprietario": "116748247-69",
+      "nome_proprietario": "RODRIGO AYD MORAES",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 33,
+      "administracaocondominio_id": 9,
+      "bloco": "4",
+      "num_unidade": "602",
+      "cep": "22793-329",
+      "num_pasta": "282",
+      "documento_proprietario": "052782327-90",
+      "nome_proprietario": "PEDRO MAGALH\u00c3ES ASCEN\u00c7\u00c3O",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 34,
+      "administracaocondominio_id": 9,
+      "bloco": "2",
+      "num_unidade": "903",
+      "cep": "22793-329",
+      "num_pasta": "70",
+      "documento_proprietario": "131129637-92",
+      "nome_proprietario": "FRANCISCO ALVES RANGEL FILHO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 35,
+      "administracaocondominio_id": 9,
+      "bloco": "1",
+      "num_unidade": "901",
+      "cep": "22793-329",
+      "num_pasta": "75",
+      "documento_proprietario": "662396137-20",
+      "nome_proprietario": "ARY KOERNER LACOMBE SOBRAL",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 36,
+      "administracaocondominio_id": 9,
+      "bloco": "1",
+      "num_unidade": "602",
+      "cep": "22793-329",
+      "num_pasta": "756",
+      "documento_proprietario": "298503807-30",
+      "nome_proprietario": "CARLOS ANTONIO RIEDLINGER MONT ALVERNE",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 37,
+      "administracaocondominio_id": 10,
+      "bloco": "",
+      "num_unidade": "415",
+      "cep": "22775-040",
+      "num_pasta": "613",
+      "documento_proprietario": "06318832/0001-37",
+      "nome_proprietario": "FASTDOC DESP.CONSULT. E AUDIT EM",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 38,
+      "administracaocondominio_id": 10,
+      "bloco": "",
+      "num_unidade": "411",
+      "cep": "22775-040",
+      "num_pasta": "617",
+      "documento_proprietario": "06318832/0001-37",
+      "nome_proprietario": "FASTDOC DESP.CONSULT. E AUDIT EM",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 39,
+      "administracaocondominio_id": 11,
+      "bloco": "",
+      "num_unidade": "402",
+      "cep": "22290-031",
+      "num_pasta": "589",
+      "documento_proprietario": "237809167-20",
+      "nome_proprietario": "CARLOS ROBERTO CEZAR",
+      "login": "NA46QO6688",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 40,
+      "administracaocondominio_id": 12,
+      "bloco": "5",
+      "num_unidade": "102",
+      "cep": "20710-200",
+      "num_pasta": "754",
+      "documento_proprietario": "891717567-87",
+      "nome_proprietario": "SANDRA PEREIRA DOS SANTOS",
+      "login": "201570103",
+      "senha": "143",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 41,
+      "administracaocondominio_id": 13,
+      "bloco": "",
+      "num_unidade": "801",
+      "cep": "20270-213",
+      "num_pasta": "7",
+      "documento_proprietario": "870379397-49",
+      "nome_proprietario": "IZA DUARTE SOARES",
+      "login": "2023300015",
+      "senha": "8517",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 42,
+      "administracaocondominio_id": 14,
+      "bloco": "4",
+      "num_unidade": "207",
+      "cep": "20541-038",
+      "num_pasta": "224",
+      "documento_proprietario": "082462127-10",
+      "nome_proprietario": "JOSE LEANDRO GARCIA VIANA JUNIOR",
+      "login": "201880111",
+      "senha": "J62X",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 43,
+      "administracaocondominio_id": 15,
+      "bloco": "",
+      "num_unidade": "407",
+      "cep": "22755-155",
+      "num_pasta": "605",
+      "documento_proprietario": "040635406-50",
+      "nome_proprietario": "JULIANA RESENDE ROCHA",
+      "login": "02990047",
+      "senha": "437252",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 44,
+      "administracaocondominio_id": 16,
+      "bloco": "",
+      "num_unidade": "601",
+      "cep": "22745-271",
+      "num_pasta": "419",
+      "documento_proprietario": "939142707-30",
+      "nome_proprietario": "LILIAN MEDEIRO CARNEIRO SIM\u00d5ES",
+      "login": "2109400042",
+      "senha": "1184",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 45,
+      "administracaocondominio_id": 17,
+      "bloco": "",
+      "num_unidade": "1510",
+      "cep": "22631-470",
+      "num_pasta": "813 IA04",
+      "documento_proprietario": "353737488-70",
+      "nome_proprietario": "GABRIELA VELOSO FERNANDEZ CASADO",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 46,
+      "administracaocondominio_id": 18,
+      "bloco": "2",
+      "num_unidade": "601",
+      "cep": "22793-298",
+      "num_pasta": "279",
+      "documento_proprietario": "016681897-63",
+      "nome_proprietario": "EDUARDO WANTUIL FAVERO DE FREITAS JUNIOR",
+      "login": "EXCLUSIVEADM",
+      "senha": "CONDO1234",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 47,
+      "administracaocondominio_id": 18,
+      "bloco": "2",
+      "num_unidade": "502",
+      "cep": "22793-298",
+      "num_pasta": "348",
+      "documento_proprietario": "637765887-72",
+      "nome_proprietario": "IZA DE BRAGANCA PIMENTEL MARTINS",
+      "login": "EXCLUSIVEADM",
+      "senha": "CONDO1234",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 48,
+      "administracaocondominio_id": 19,
+      "bloco": "",
+      "num_unidade": "703",
+      "cep": "22271-090",
+      "num_pasta": "294",
+      "documento_proprietario": "757203707-06",
+      "nome_proprietario": "MARCO O DA COSTA FREITAS",
+      "login": "EXCLUSIVEADM",
+      "senha": "CONDO1234",
+      "created": "2025-02-25T16:23:46",
+      "updated": "2025-02-25T16:23:46"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 49,
+      "administracaocondominio_id": 20,
+      "bloco": "",
+      "num_unidade": "1168",
+      "cep": "04510-030",
+      "num_pasta": "733",
+      "documento_proprietario": "016681897-63",
+      "nome_proprietario": "EDUARDO WANTUIL FAVERO DE FREITAS JUNIOR",
+      "login": "YI82DE7145",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 50,
+      "administracaocondominio_id": 21,
+      "bloco": "",
+      "num_unidade": "32",
+      "cep": "22720-010",
+      "num_pasta": "291",
+      "documento_proprietario": "477359967-72",
+      "nome_proprietario": "JUCARA DE SOUZA MERO",
+      "login": "2009500005",
+      "senha": "4278",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 51,
+      "administracaocondominio_id": 22,
+      "bloco": "",
+      "num_unidade": "504",
+      "cep": "22270-010",
+      "num_pasta": "648",
+      "documento_proprietario": "10185863779",
+      "nome_proprietario": "ANNELISE CAVALCANTI FROTA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 52,
+      "administracaocondominio_id": 23,
+      "bloco": "1",
+      "num_unidade": "103",
+      "cep": "22776-050",
+      "num_pasta": "179",
+      "documento_proprietario": "23599081387",
+      "nome_proprietario": "HELIO PARENTE DE VASCONCELOS FILHO",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 53,
+      "administracaocondominio_id": 24,
+      "bloco": "1",
+      "num_unidade": "504",
+      "cep": "22775-046",
+      "num_pasta": "592",
+      "documento_proprietario": "827622607-87",
+      "nome_proprietario": "VANIA LUCIA DA COSTA MUNHOZ",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 54,
+      "administracaocondominio_id": 25,
+      "bloco": "4",
+      "num_unidade": "1208",
+      "cep": "22770-190",
+      "num_pasta": "811 AD18",
+      "documento_proprietario": "986309547-87",
+      "nome_proprietario": "NILZO ANTONIO GIGLIO CORREA",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 55,
+      "administracaocondominio_id": 26,
+      "bloco": "",
+      "num_unidade": "206",
+      "cep": "22620-012",
+      "num_pasta": "781",
+      "documento_proprietario": "101858637-79",
+      "nome_proprietario": "ANNELISE CAVALCANTI FROTA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 56,
+      "administracaocondominio_id": 27,
+      "bloco": "8",
+      "num_unidade": "113",
+      "cep": "22640-100",
+      "num_pasta": "741",
+      "documento_proprietario": "301958870001-81",
+      "nome_proprietario": "GEDOL ADMINISTRACAO E PARTICIPACOES LTDA ",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 57,
+      "administracaocondominio_id": 28,
+      "bloco": "",
+      "num_unidade": "340",
+      "cep": "22640-000",
+      "num_pasta": "363",
+      "documento_proprietario": "32003568000152",
+      "nome_proprietario": "ADRENALINA PROD. ARTISTICAS LTDA",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 58,
+      "administracaocondominio_id": 28,
+      "bloco": "",
+      "num_unidade": "213",
+      "cep": "22640-906",
+      "num_pasta": "442",
+      "documento_proprietario": "72239557753",
+      "nome_proprietario": "LUCY DE SA PEIXOTO ",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 59,
+      "administracaocondominio_id": 29,
+      "bloco": "",
+      "num_unidade": "412",
+      "cep": "22745-005",
+      "num_pasta": "604",
+      "documento_proprietario": "546272577-91",
+      "nome_proprietario": "LUSIA ANGELETE FERREIRA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 60,
+      "administracaocondominio_id": 30,
+      "bloco": "",
+      "num_unidade": "202",
+      "cep": "22440-033",
+      "num_pasta": "447",
+      "documento_proprietario": "3559793734",
+      "nome_proprietario": "LOUIS LAHOUDE",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 61,
+      "administracaocondominio_id": 31,
+      "bloco": "",
+      "num_unidade": "302",
+      "cep": " 22745- 310",
+      "num_pasta": "577",
+      "documento_proprietario": "467967387-72",
+      "nome_proprietario": "FRANCISCO DE ASSIS FILHO",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 62,
+      "administracaocondominio_id": 32,
+      "bloco": "",
+      "num_unidade": "610",
+      "cep": "22750-008",
+      "num_pasta": "720",
+      "documento_proprietario": "534015147-68",
+      "nome_proprietario": "SIDMAR RANGEL QUINTANILHA",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 63,
+      "administracaocondominio_id": 33,
+      "bloco": "",
+      "num_unidade": "402",
+      "cep": "22430-042",
+      "num_pasta": "101",
+      "documento_proprietario": "26581108553",
+      "nome_proprietario": "ANA CANDIDA CARDOSO MUNIZ",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 64,
+      "administracaocondominio_id": 34,
+      "bloco": "",
+      "num_unidade": "1904",
+      "cep": "22793-912",
+      "num_pasta": "355",
+      "documento_proprietario": "40426882768",
+      "nome_proprietario": "LUCIENE ZANOLINI DUBA ",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 65,
+      "administracaocondominio_id": 35,
+      "bloco": "3",
+      "num_unidade": "309",
+      "cep": "22753-200",
+      "num_pasta": "352",
+      "documento_proprietario": "624327887-53",
+      "nome_proprietario": "ALMIRA SILVA DE CASTRO PALMA",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 66,
+      "administracaocondominio_id": 36,
+      "bloco": "",
+      "num_unidade": "103",
+      "cep": "22795-470",
+      "num_pasta": "693",
+      "documento_proprietario": "094174607-06",
+      "nome_proprietario": "FRANCISCO COELHO DA GAMA",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 67,
+      "administracaocondominio_id": 37,
+      "bloco": "",
+      "num_unidade": "905",
+      "cep": "20511-120",
+      "num_pasta": "198",
+      "documento_proprietario": "66541565791",
+      "nome_proprietario": "FATIMA FERNANDES DE SOUZA",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 68,
+      "administracaocondominio_id": 38,
+      "bloco": "3",
+      "num_unidade": "1405",
+      "cep": "22631-051",
+      "num_pasta": "229",
+      "documento_proprietario": "49558463787",
+      "nome_proprietario": "VERA LUCIA MOLLICA LIMA E SILVA",
+      "login": "geranio1405",
+      "senha": "123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 69,
+      "administracaocondominio_id": 38,
+      "bloco": "3",
+      "num_unidade": "1503",
+      "cep": "22631-902",
+      "num_pasta": "334",
+      "documento_proprietario": "3026809772",
+      "nome_proprietario": "JOAO ROSA REIS",
+      "login": "giselereis",
+      "senha": "YFCnjhTPAL",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 70,
+      "administracaocondominio_id": 39,
+      "bloco": "",
+      "num_unidade": "703",
+      "cep": "22020-001",
+      "num_pasta": "641",
+      "documento_proprietario": "052272678-04",
+      "nome_proprietario": "VERA DE FATIMA CASTELO BRANCO",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 71,
+      "administracaocondominio_id": 40,
+      "bloco": "2",
+      "num_unidade": "601",
+      "cep": "22776-050",
+      "num_pasta": "687",
+      "documento_proprietario": "000452657-04",
+      "nome_proprietario": "CLAUDIO CARNEIRO BEZERRA PINTO COELHO",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 72,
+      "administracaocondominio_id": 41,
+      "bloco": "",
+      "num_unidade": "102",
+      "cep": "22750-013",
+      "num_pasta": "415",
+      "documento_proprietario": "1059884720",
+      "nome_proprietario": "FREDERICO BAETA NEVES MUSSA",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 73,
+      "administracaocondominio_id": 42,
+      "bloco": "2",
+      "num_unidade": "507",
+      "cep": "20271-030",
+      "num_pasta": "381",
+      "documento_proprietario": "785357867-91",
+      "nome_proprietario": "CLAUDIA MARIA MENEZES SOARES",
+      "login": "QA43QI6633",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 74,
+      "administracaocondominio_id": 43,
+      "bloco": "",
+      "num_unidade": "503",
+      "cep": "22793-078",
+      "num_pasta": "412",
+      "documento_proprietario": "045557777-35",
+      "nome_proprietario": "FERNANDO RAMALHO LAVIOLA",
+      "login": "fernando.ramalho",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 75,
+      "administracaocondominio_id": 44,
+      "bloco": "1",
+      "num_unidade": "206",
+      "cep": "22631-052",
+      "num_pasta": "298",
+      "documento_proprietario": "96187859715",
+      "nome_proprietario": "ARCHIDETTE DA SILVA SUPPO",
+      "login": "archidette.da",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 76,
+      "administracaocondominio_id": 45,
+      "bloco": "1",
+      "num_unidade": "303",
+      "cep": "22750-310",
+      "num_pasta": "655",
+      "documento_proprietario": "119017597-50",
+      "nome_proprietario": "GUSTAVO MELO GON\u00c7ALVES",
+      "login": "gustavo.melo",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 77,
+      "administracaocondominio_id": 46,
+      "bloco": "2",
+      "num_unidade": "601",
+      "cep": "22620-311",
+      "num_pasta": "118",
+      "documento_proprietario": "938212207-91",
+      "nome_proprietario": "RENATO SERGIO FERNANDES PINTO",
+      "login": "204440031",
+      "senha": "5866",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 78,
+      "administracaocondominio_id": 47,
+      "bloco": "4",
+      "num_unidade": "602",
+      "cep": "22775-033",
+      "num_pasta": "506",
+      "documento_proprietario": "412692687-91",
+      "nome_proprietario": "JORGE CARVALHO MORAIS E OUTROS",
+      "login": "jorge.carvalho",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 79,
+      "administracaocondominio_id": 48,
+      "bloco": "",
+      "num_unidade": "1305",
+      "cep": "22793-400",
+      "num_pasta": "31",
+      "documento_proprietario": "010020727-86",
+      "nome_proprietario": "MARCOS ALBERTO CORREA TEIXEIRA",
+      "login": "207640101",
+      "senha": "1523",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 80,
+      "administracaocondominio_id": 48,
+      "bloco": "",
+      "num_unidade": "2004",
+      "cep": "22793-400",
+      "num_pasta": "832",
+      "documento_proprietario": "624039237-53",
+      "nome_proprietario": "SERGIO SIQUEIRA MAGALHAES",
+      "login": "sergio.siqueira",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 81,
+      "administracaocondominio_id": 49,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "22793-590",
+      "num_pasta": "777",
+      "documento_proprietario": "119763887-32",
+      "nome_proprietario": "FELIPE NETO RODRIGUES VIEIRA",
+      "login": "felipe.neto",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 82,
+      "administracaocondominio_id": 50,
+      "bloco": "8",
+      "num_unidade": "1002",
+      "cep": "22630-901",
+      "num_pasta": "265",
+      "documento_proprietario": "296848977-15",
+      "nome_proprietario": "CLAUDIO HEGGENDORN MONNERAT JUNIOR ",
+      "login": "208080065",
+      "senha": "6721",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 83,
+      "administracaocondominio_id": 50,
+      "bloco": "8",
+      "num_unidade": "1407",
+      "cep": "22630-010",
+      "num_pasta": "371",
+      "documento_proprietario": "004047057-15",
+      "nome_proprietario": "OSWALDO DE OLIVEIRA",
+      "login": "oswaldo.de",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 84,
+      "administracaocondominio_id": 51,
+      "bloco": "2",
+      "num_unidade": "207",
+      "cep": "22793-081",
+      "num_pasta": "561",
+      "documento_proprietario": "073258287-30",
+      "nome_proprietario": "LUDMILA DE ALBERGARIA GODOY VENDRAMIN",
+      "login": "ludmila.de",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 85,
+      "administracaocondominio_id": 52,
+      "bloco": "",
+      "num_unidade": "1107",
+      "cep": "22631-280",
+      "num_pasta": "10",
+      "documento_proprietario": "031.623.117-72",
+      "nome_proprietario": "ROGERIO FERREIRA MORGADO",
+      "login": "rogerio.ferreiramorgado",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 86,
+      "administracaocondominio_id": 53,
+      "bloco": "",
+      "num_unidade": "507",
+      "cep": "22631-280",
+      "num_pasta": "165",
+      "documento_proprietario": "548412757-20",
+      "nome_proprietario": "SILVIA HELENA DE BRITO PAVEL",
+      "login": "204730039",
+      "senha": "6707",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 87,
+      "administracaocondominio_id": 54,
+      "bloco": "",
+      "num_unidade": "2004",
+      "cep": "2240-085",
+      "num_pasta": "423",
+      "documento_proprietario": "348560999-49",
+      "nome_proprietario": "NILTON MORO",
+      "login": "nilton.sergio",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 88,
+      "administracaocondominio_id": 55,
+      "bloco": "7",
+      "num_unidade": "904",
+      "cep": "22775-033",
+      "num_pasta": "477",
+      "documento_proprietario": "083001747-02",
+      "nome_proprietario": "CRISTIANE DE LIMA NOVAES VIEIRA",
+      "login": "208181086",
+      "senha": "0209",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 89,
+      "administracaocondominio_id": 55,
+      "bloco": "2",
+      "num_unidade": "903",
+      "cep": "22775-033",
+      "num_pasta": "658",
+      "documento_proprietario": "699421297-15",
+      "nome_proprietario": "LUIS FERNANDES MOREIRA",
+      "login": "208180201",
+      "senha": "6284",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 90,
+      "administracaocondominio_id": 55,
+      "bloco": "8",
+      "num_unidade": "501",
+      "cep": "22775-033",
+      "num_pasta": "662",
+      "documento_proprietario": "055087797-52",
+      "nome_proprietario": "YE SUYZHEN WANG",
+      "login": "208181215",
+      "senha": "7304",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 91,
+      "administracaocondominio_id": 55,
+      "bloco": "2",
+      "num_unidade": "212",
+      "cep": "22775-033",
+      "num_pasta": "744",
+      "documento_proprietario": "028198477-81",
+      "nome_proprietario": "CARLOS EDUARDO ABREU MARTINS E OUTROS",
+      "login": "208180126",
+      "senha": "8511",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 92,
+      "administracaocondominio_id": 56,
+      "bloco": "5",
+      "num_unidade": "111",
+      "cep": "22640-102",
+      "num_pasta": "346",
+      "documento_proprietario": "033590347-91",
+      "nome_proprietario": "RONNIE DE ARAUJO",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 93,
+      "administracaocondominio_id": 57,
+      "bloco": "2",
+      "num_unidade": "904",
+      "cep": "22793-329",
+      "num_pasta": "189",
+      "documento_proprietario": " 019321357-58",
+      "nome_proprietario": "VALESCA PERFEITO BASTOS",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 94,
+      "administracaocondominio_id": 57,
+      "bloco": "2",
+      "num_unidade": "204",
+      "cep": "22793-329",
+      "num_pasta": "235",
+      "documento_proprietario": "550164567-04",
+      "nome_proprietario": "JOAO CARLOS ALVES DE MONLEVAD",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 95,
+      "administracaocondominio_id": 57,
+      "bloco": "2",
+      "num_unidade": "303",
+      "cep": "22793-329",
+      "num_pasta": "249",
+      "documento_proprietario": " 074359957-89",
+      "nome_proprietario": "ANA PAULA DE MESQUITA",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 96,
+      "administracaocondominio_id": 57,
+      "bloco": "2",
+      "num_unidade": "1002",
+      "cep": "22793-329",
+      "num_pasta": "261",
+      "documento_proprietario": "055229327-08",
+      "nome_proprietario": "JAQUELINE BRUGIDOU",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 97,
+      "administracaocondominio_id": 57,
+      "bloco": "2",
+      "num_unidade": "605",
+      "cep": "22793-329",
+      "num_pasta": "435",
+      "documento_proprietario": "729846517-15",
+      "nome_proprietario": "MARIA AUXILIADORA CHEBABE ANDRADE",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 98,
+      "administracaocondominio_id": 57,
+      "bloco": "1",
+      "num_unidade": "512",
+      "cep": "22793-329",
+      "num_pasta": "597",
+      "documento_proprietario": "214396052-20",
+      "nome_proprietario": "DORIA DE SOUZA LIMA",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 99,
+      "administracaocondominio_id": 57,
+      "bloco": "1",
+      "num_unidade": "608",
+      "cep": "22793-329",
+      "num_pasta": "65",
+      "documento_proprietario": "078582387-52",
+      "nome_proprietario": "GUSTAVO LEITE MACHADO",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 100,
+      "administracaocondominio_id": 58,
+      "bloco": "4",
+      "num_unidade": "310",
+      "cep": "22770-232",
+      "num_pasta": "560",
+      "documento_proprietario": "097608717-00",
+      "nome_proprietario": "BRUNO FERRAZ DE OLIVEIRA GOMES",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 101,
+      "administracaocondominio_id": 59,
+      "bloco": "1",
+      "num_unidade": "204",
+      "cep": "22745-056",
+      "num_pasta": "468",
+      "documento_proprietario": "863323927-20",
+      "nome_proprietario": "LAURA SOARES FERNANDES DE CASTRO",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 102,
+      "administracaocondominio_id": 60,
+      "bloco": "",
+      "num_unidade": "105",
+      "cep": "22795-045",
+      "num_pasta": "541",
+      "documento_proprietario": "065921397-49",
+      "nome_proprietario": "FELIZ DE CASTRO MARTINS",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 103,
+      "administracaocondominio_id": 61,
+      "bloco": "4",
+      "num_unidade": "103",
+      "cep": "22775-033",
+      "num_pasta": "107",
+      "documento_proprietario": "028823087-29",
+      "nome_proprietario": "IVAN MARCIO REIS CABRAL",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 104,
+      "administracaocondominio_id": 61,
+      "bloco": "4",
+      "num_unidade": "203",
+      "cep": "22775-033",
+      "num_pasta": "263",
+      "documento_proprietario": "028823087-29",
+      "nome_proprietario": "IVANDRO REIS CABRAL",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 105,
+      "administracaocondominio_id": 61,
+      "bloco": "4",
+      "num_unidade": "104",
+      "cep": "22775-033",
+      "num_pasta": "318",
+      "documento_proprietario": "025516837-34",
+      "nome_proprietario": "IVAN MENDES CABRAL",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 106,
+      "administracaocondominio_id": 61,
+      "bloco": "5",
+      "num_unidade": "902",
+      "cep": "22775-033",
+      "num_pasta": "699",
+      "documento_proprietario": "227329728-94",
+      "nome_proprietario": "CINTIA DINIZ DA ROCHA SILVA",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 107,
+      "administracaocondominio_id": 62,
+      "bloco": "2",
+      "num_unidade": "112",
+      "cep": "22793-081",
+      "num_pasta": "34",
+      "documento_proprietario": "010151337-20",
+      "nome_proprietario": "JOSE MARIA DE SOUSA",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 108,
+      "administracaocondominio_id": 62,
+      "bloco": "",
+      "num_unidade": "214",
+      "cep": "22793-081",
+      "num_pasta": "558",
+      "documento_proprietario": "348560999-49",
+      "nome_proprietario": "NILTON SERGIO MORO",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 109,
+      "administracaocondominio_id": 63,
+      "bloco": "2",
+      "num_unidade": "211",
+      "cep": "22783-025",
+      "num_pasta": "775",
+      "documento_proprietario": "992446247-53",
+      "nome_proprietario": "MARCIO LUIZ DO NASCIMENTO",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 110,
+      "administracaocondominio_id": 64,
+      "bloco": "3",
+      "num_unidade": "1405",
+      "cep": "22631-051",
+      "num_pasta": "229",
+      "documento_proprietario": "49558463787",
+      "nome_proprietario": "VERA LUCIA MOLLICA LIMA E SILVA",
+      "login": "49558463787",
+      "senha": "123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 111,
+      "administracaocondominio_id": 65,
+      "bloco": "1",
+      "num_unidade": "1104",
+      "cep": "22776-050",
+      "num_pasta": "67",
+      "documento_proprietario": "014179717-70",
+      "nome_proprietario": "MARCIO LUIS LOPES DOS SANTOS MELLO",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 112,
+      "administracaocondominio_id": 66,
+      "bloco": "",
+      "num_unidade": "302",
+      "cep": "22795-061",
+      "num_pasta": "625",
+      "documento_proprietario": "361629497-53",
+      "nome_proprietario": "JOAQUIM DE ARAUJO FILHO",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 113,
+      "administracaocondominio_id": 67,
+      "bloco": "3",
+      "num_unidade": "402",
+      "cep": "22710-255",
+      "num_pasta": "167",
+      "documento_proprietario": "068.388.247-36",
+      "nome_proprietario": "GISELE CARDOSO MONFORT ",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 114,
+      "administracaocondominio_id": 68,
+      "bloco": "",
+      "num_unidade": "903",
+      "cep": "22775-060",
+      "num_pasta": "244",
+      "documento_proprietario": "014812677-44",
+      "nome_proprietario": "MAURO VALPASSOS RIBEIRO",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 115,
+      "administracaocondominio_id": 68,
+      "bloco": "",
+      "num_unidade": "401",
+      "cep": "22775-060",
+      "num_pasta": "580",
+      "documento_proprietario": "781288385-04",
+      "nome_proprietario": "KELLY CRISTINA DOS SANTOS RODRIGUES",
+      "login": "11518759700",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 116,
+      "administracaocondominio_id": 69,
+      "bloco": "",
+      "num_unidade": "241",
+      "cep": "22631-004",
+      "num_pasta": "495",
+      "documento_proprietario": "012332227-83",
+      "nome_proprietario": "LUCIANA RODRIGUES DE OLIVEIRA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 117,
+      "administracaocondominio_id": 70,
+      "bloco": "1",
+      "num_unidade": "310",
+      "cep": "22745-004",
+      "num_pasta": "769",
+      "documento_proprietario": "123729147-07",
+      "nome_proprietario": "Gustavo Goldani Maciel, Luciana Goldani Maciel e Catarina Goldani Maciel",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 118,
+      "administracaocondominio_id": 71,
+      "bloco": "1",
+      "num_unidade": "103",
+      "cep": "22750-013",
+      "num_pasta": "716",
+      "documento_proprietario": "096057257-03",
+      "nome_proprietario": "THIAGO SENNA DE FIGUEIREDO ALVES",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 119,
+      "administracaocondominio_id": 72,
+      "bloco": "",
+      "num_unidade": "1408",
+      "cep": "22776-090",
+      "num_pasta": "223",
+      "documento_proprietario": "025513057-05",
+      "nome_proprietario": "MONICA LUCIA DO NASCIMENTO",
+      "login": "administrativo1@exclusiveadministradora.com.br",
+      "senha": "123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 120,
+      "administracaocondominio_id": 73,
+      "bloco": "1",
+      "num_unidade": "306",
+      "cep": "22720-002",
+      "num_pasta": "384",
+      "documento_proprietario": "11402110723",
+      "nome_proprietario": "GISELE DOS SANTOS PEREIRA",
+      "login": "GISELE",
+      "senha": "2995863375",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 121,
+      "administracaocondominio_id": 74,
+      "bloco": "4",
+      "num_unidade": "506",
+      "cep": "22765-240",
+      "num_pasta": "466",
+      "documento_proprietario": "091681517-05",
+      "nome_proprietario": "FELIPE SILVA DELGADO",
+      "login": "FELIPE",
+      "senha": "2334684975",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 122,
+      "administracaocondominio_id": 75,
+      "bloco": "4",
+      "num_unidade": "401",
+      "cep": "22783-240",
+      "num_pasta": "795",
+      "documento_proprietario": "128757187-54",
+      "nome_proprietario": "DANUBIA BALTAZAR DA CRUZ",
+      "login": "DANUBIA",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 123,
+      "administracaocondominio_id": 76,
+      "bloco": "8",
+      "num_unidade": "304",
+      "cep": "22785-240",
+      "num_pasta": "810 AD15 ",
+      "documento_proprietario": "106658557-10",
+      "nome_proprietario": "FABRICIO PAULINO DE SOUZA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 124,
+      "administracaocondominio_id": 77,
+      "bloco": "6",
+      "num_unidade": "102",
+      "cep": "22785-240",
+      "num_pasta": "824 AD13",
+      "documento_proprietario": "908245556-00",
+      "nome_proprietario": "CARLOS ALEXANDRE DE JESUS AMZALAK",
+      "login": "CARLOS",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 125,
+      "administracaocondominio_id": 78,
+      "bloco": "3",
+      "num_unidade": "303",
+      "cep": "22631-054",
+      "num_pasta": "542",
+      "documento_proprietario": "23229447/0001-32",
+      "nome_proprietario": "HOLLMAR PARTICIPA\u00c7\u00d5ES LTDA (CARLOS HESPANHOL VALEN\u00c7A)",
+      "login": "8800011",
+      "senha": "C110",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 126,
+      "administracaocondominio_id": 79,
+      "bloco": "",
+      "num_unidade": "1",
+      "cep": "22793-338",
+      "num_pasta": "548",
+      "documento_proprietario": "135656197-75",
+      "nome_proprietario": "LUCCAS NETO FERREIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 127,
+      "administracaocondominio_id": 79,
+      "bloco": "",
+      "num_unidade": "2",
+      "cep": "22793-341",
+      "num_pasta": "743",
+      "documento_proprietario": "135656197-75",
+      "nome_proprietario": "LUCCAS NETO FERREIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 128,
+      "administracaocondominio_id": 80,
+      "bloco": "",
+      "num_unidade": "175",
+      "cep": "22790-707",
+      "num_pasta": "596",
+      "documento_proprietario": "121535287-55",
+      "nome_proprietario": "PAULO HENRIQUE ROSA DE LANA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 129,
+      "administracaocondominio_id": 81,
+      "bloco": "",
+      "num_unidade": "470",
+      "cep": "22793-331",
+      "num_pasta": "575",
+      "documento_proprietario": "815812207-82",
+      "nome_proprietario": "MARCELO DE OLIVEIRA PANELA ",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 130,
+      "administracaocondominio_id": 82,
+      "bloco": "",
+      "num_unidade": "601",
+      "cep": "20550-040",
+      "num_pasta": "624",
+      "documento_proprietario": "059729497-68",
+      "nome_proprietario": "CLAUDIO GON\u00c7ALVES FILHO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 131,
+      "administracaocondominio_id": 83,
+      "bloco": "",
+      "num_unidade": "107",
+      "cep": "22743-050",
+      "num_pasta": "388",
+      "documento_proprietario": "096940927-36",
+      "nome_proprietario": "LEONARDO TEIXEIRA LEITAO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 132,
+      "administracaocondominio_id": 84,
+      "bloco": "",
+      "num_unidade": "8",
+      "cep": "22795-215",
+      "num_pasta": "288",
+      "documento_proprietario": "002518477-64",
+      "nome_proprietario": "STEWART DA PAIXAO GOMES",
+      "login": "2023900008",
+      "senha": "3718",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 133,
+      "administracaocondominio_id": 85,
+      "bloco": "",
+      "num_unidade": "202",
+      "cep": "22760-401",
+      "num_pasta": "704",
+      "documento_proprietario": "621501200-97",
+      "nome_proprietario": "MARIA MADELEN NAUMTCHYK COSTA",
+      "login": "2038000006",
+      "senha": "2868",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 134,
+      "administracaocondominio_id": 86,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "22631-000",
+      "num_pasta": "606",
+      "documento_proprietario": "600275337-00",
+      "nome_proprietario": "ALIOMAR BABINSK SARTORIO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 135,
+      "administracaocondominio_id": 87,
+      "bloco": "7",
+      "num_unidade": "103",
+      "cep": "22730-305",
+      "num_pasta": "469",
+      "documento_proprietario": "797046627-34",
+      "nome_proprietario": "PAULO SCHIAVO JUNIOR",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 136,
+      "administracaocondominio_id": 88,
+      "bloco": "",
+      "num_unidade": "306",
+      "cep": "22231-000",
+      "num_pasta": "751",
+      "documento_proprietario": "178511493-04",
+      "nome_proprietario": "LUIZ GONZAGA LEITE SILVA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 137,
+      "administracaocondominio_id": 89,
+      "bloco": "2",
+      "num_unidade": "203",
+      "cep": "22750-013",
+      "num_pasta": "705",
+      "documento_proprietario": "157855486-15",
+      "nome_proprietario": "AVELINO TEODORO GUEDES",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 138,
+      "administracaocondominio_id": 90,
+      "bloco": "1",
+      "num_unidade": "106",
+      "cep": "22750-350",
+      "num_pasta": "804",
+      "documento_proprietario": "003598767-73",
+      "nome_proprietario": "ALESSANDRA DA CRUZ MARINS",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 139,
+      "administracaocondominio_id": 91,
+      "bloco": "1",
+      "num_unidade": "208",
+      "cep": "22750-013",
+      "num_pasta": "834",
+      "documento_proprietario": "122.906.607-10",
+      "nome_proprietario": "RAQUEL FERNANDES DA SILVA CORREA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 140,
+      "administracaocondominio_id": 92,
+      "bloco": "1",
+      "num_unidade": "104",
+      "cep": "22631-380",
+      "num_pasta": "730",
+      "documento_proprietario": "025123767-29",
+      "nome_proprietario": "HELENA DE FATIMA M LUCAS",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 141,
+      "administracaocondominio_id": 93,
+      "bloco": "12",
+      "num_unidade": "",
+      "cep": "22640-105",
+      "num_pasta": "120",
+      "documento_proprietario": "090716717-98",
+      "nome_proprietario": "MELISSA SAD DA SILVA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 142,
+      "administracaocondominio_id": 93,
+      "bloco": "8",
+      "num_unidade": "209",
+      "cep": "22640-105",
+      "num_pasta": "714",
+      "documento_proprietario": "091651167-71",
+      "nome_proprietario": "MARCO ANTONIO DIAS CAMPELO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 143,
+      "administracaocondominio_id": 94,
+      "bloco": "",
+      "num_unidade": "1910",
+      "cep": "22631-350",
+      "num_pasta": "169",
+      "documento_proprietario": "332749087-20",
+      "nome_proprietario": "MARIA IVANIRA TEIXEIRA G. DE BARROS",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 144,
+      "administracaocondominio_id": 95,
+      "bloco": "",
+      "num_unidade": "504",
+      "cep": "22793-084",
+      "num_pasta": "677",
+      "documento_proprietario": "278722382-68",
+      "nome_proprietario": "ANDRE GUSTAVO DE LIMA E SILVA ALENCAR",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 145,
+      "administracaocondominio_id": 95,
+      "bloco": "",
+      "num_unidade": "106",
+      "cep": "22793-084",
+      "num_pasta": "73",
+      "documento_proprietario": "023595007-67",
+      "nome_proprietario": "GABRIELA DIECKMANM JEOLAS MATTA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 146,
+      "administracaocondominio_id": 96,
+      "bloco": "",
+      "num_unidade": "204",
+      "cep": "22795-225",
+      "num_pasta": "609",
+      "documento_proprietario": "338867177-04",
+      "nome_proprietario": "MARIA DAS DORES SILVA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 147,
+      "administracaocondominio_id": 97,
+      "bloco": "",
+      "num_unidade": "405",
+      "cep": "",
+      "num_pasta": "481",
+      "documento_proprietario": "000455027-73",
+      "nome_proprietario": "SANDRA LUCAS CARVALHO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 148,
+      "administracaocondominio_id": 98,
+      "bloco": "3",
+      "num_unidade": "107",
+      "cep": "22743-010",
+      "num_pasta": "761",
+      "documento_proprietario": "716001837-00",
+      "nome_proprietario": "FRANCISCO FERREIRA FIGUEIREDO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 149,
+      "administracaocondominio_id": 99,
+      "bloco": "8",
+      "num_unidade": "505",
+      "cep": "22790-671",
+      "num_pasta": "774",
+      "documento_proprietario": "441699907-06",
+      "nome_proprietario": "MANOEL JOSE VIEIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 150,
+      "administracaocondominio_id": 100,
+      "bloco": "2",
+      "num_unidade": "511",
+      "cep": "21051-071",
+      "num_pasta": "49",
+      "documento_proprietario": "11840588730",
+      "nome_proprietario": "LETICIA GUIMARAES SOBROZA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 151,
+      "administracaocondominio_id": 101,
+      "bloco": "1",
+      "num_unidade": "207",
+      "cep": "22620-311",
+      "num_pasta": "216",
+      "documento_proprietario": "662733907-20",
+      "nome_proprietario": "RICARDO OLIVIERI GUIMAR\u00c3ES",
+      "login": "E-mail",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 152,
+      "administracaocondominio_id": 101,
+      "bloco": "1",
+      "num_unidade": "1407",
+      "cep": "22620-311",
+      "num_pasta": "686",
+      "documento_proprietario": "012332227-83",
+      "nome_proprietario": "LUCIANA RODRIGUES DE OLIVEIRA",
+      "login": "E-mail",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 153,
+      "administracaocondominio_id": 102,
+      "bloco": "",
+      "num_unidade": "904",
+      "cep": "22221-020",
+      "num_pasta": "779",
+      "documento_proprietario": "031271726-13",
+      "nome_proprietario": "RODRIGO SILVA LOPES MACHADO",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 154,
+      "administracaocondominio_id": 103,
+      "bloco": "",
+      "num_unidade": "203",
+      "cep": "22230-001",
+      "num_pasta": "614",
+      "documento_proprietario": "002518477-64",
+      "nome_proprietario": "STEWART DA PAIXAO GOMES",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 155,
+      "administracaocondominio_id": 104,
+      "bloco": "2",
+      "num_unidade": "603",
+      "cep": "20950-006",
+      "num_pasta": "621",
+      "documento_proprietario": "094481437-96",
+      "nome_proprietario": "ANA LUIZA DE ARAUJO MARQUES",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 156,
+      "administracaocondominio_id": 105,
+      "bloco": "3",
+      "num_unidade": "",
+      "cep": "22795-077",
+      "num_pasta": "755",
+      "documento_proprietario": "016633817-63",
+      "nome_proprietario": "ALEXANDRE DA ROSA PONTES",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 157,
+      "administracaocondominio_id": 106,
+      "bloco": "3",
+      "num_unidade": "303",
+      "cep": "22631-054",
+      "num_pasta": "542",
+      "documento_proprietario": "23229447/0001-32",
+      "nome_proprietario": "HOLLMAR PARTICIPA\u00c7\u00d5ES LTDA (CARLOS HESPANHOL VALEN\u00c7A)",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 158,
+      "administracaocondominio_id": 106,
+      "bloco": "3",
+      "num_unidade": "401",
+      "cep": "22631-054",
+      "num_pasta": "644",
+      "documento_proprietario": "874068457-15",
+      "nome_proprietario": "ROSE MARY VARGAS DE MELLO ",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 159,
+      "administracaocondominio_id": 107,
+      "bloco": "2",
+      "num_unidade": "106",
+      "cep": "22783-130",
+      "num_pasta": "694",
+      "documento_proprietario": "021526967-51",
+      "nome_proprietario": "LUIZA ELENA DA SILVA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 160,
+      "administracaocondominio_id": 108,
+      "bloco": "",
+      "num_unidade": "1 - lote 2 Quadra A Pal 46935 ",
+      "cep": "22790-699",
+      "num_pasta": "679",
+      "documento_proprietario": "383867807-97",
+      "nome_proprietario": "LUIZ CARLOS DO AMARAL MELO",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 161,
+      "administracaocondominio_id": 109,
+      "bloco": "",
+      "num_unidade": "404",
+      "cep": "22710-045",
+      "num_pasta": "692",
+      "documento_proprietario": "000415907-16",
+      "nome_proprietario": "PATRICIA LEIBAO DA ROCHA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 162,
+      "administracaocondominio_id": 110,
+      "bloco": "2",
+      "num_unidade": "401",
+      "cep": "22750-012",
+      "num_pasta": "570",
+      "documento_proprietario": "8940733703",
+      "nome_proprietario": "DANIELE PIRES DEMO",
+      "login": "danielepdemo@gmail.com",
+      "senha": "Dani200782",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 163,
+      "administracaocondominio_id": 111,
+      "bloco": "3",
+      "num_unidade": "308",
+      "cep": "22710-270",
+      "num_pasta": "600",
+      "documento_proprietario": "012913617-40",
+      "nome_proprietario": "MARCELO BARBOZA DE SOUZA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 164,
+      "administracaocondominio_id": 112,
+      "bloco": "",
+      "num_unidade": "202",
+      "cep": "22795-443",
+      "num_pasta": "594",
+      "documento_proprietario": "261049977-91",
+      "nome_proprietario": "ALCENI RODRIGUES JUNQUEIRA DE SOUZA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 165,
+      "administracaocondominio_id": 113,
+      "bloco": "",
+      "num_unidade": "202",
+      "cep": "",
+      "num_pasta": "329",
+      "documento_proprietario": "667214317-34",
+      "nome_proprietario": "FERNANDA CHAGAS IGLESIAS RIBEIRO",
+      "login": "667214317-34",
+      "senha": "sidonio202",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 166,
+      "administracaocondominio_id": 114,
+      "bloco": "",
+      "num_unidade": "101",
+      "cep": "22411-001",
+      "num_pasta": "385",
+      "documento_proprietario": "776359657-00",
+      "nome_proprietario": "HEL ENE MARA BRAGA MACHADO",
+      "login": "776359657-00",
+      "senha": "shiva",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 167,
+      "administracaocondominio_id": 115,
+      "bloco": "2",
+      "num_unidade": "103",
+      "cep": "22720-011",
+      "num_pasta": "814 IA05",
+      "documento_proprietario": "407738507-59",
+      "nome_proprietario": "IVANA BORGES CERQUEIRA GAVIOLI",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 168,
+      "administracaocondominio_id": 116,
+      "bloco": "1",
+      "num_unidade": "524",
+      "cep": "22775-040",
+      "num_pasta": "809",
+      "documento_proprietario": "025242517-05",
+      "nome_proprietario": "ANDRE PALMA DA CUNHA MATTA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 169,
+      "administracaocondominio_id": 117,
+      "bloco": "2",
+      "num_unidade": "118",
+      "cep": "22775-024",
+      "num_pasta": "816 IA10",
+      "documento_proprietario": "791031207-59",
+      "nome_proprietario": "MYKE STRICKER",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 170,
+      "administracaocondominio_id": 117,
+      "bloco": "2",
+      "num_unidade": "1118",
+      "cep": "22775-024",
+      "num_pasta": "820 IA14",
+      "documento_proprietario": "101900380001-28",
+      "nome_proprietario": "LAPIS LAZULI GEST CONSULT EIRE",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 171,
+      "administracaocondominio_id": 118,
+      "bloco": "2",
+      "num_unidade": "102",
+      "cep": "20510-150",
+      "num_pasta": "289",
+      "documento_proprietario": "331612246-04",
+      "nome_proprietario": "SONIA REGINA MELO FRANCA",
+      "login": "DC00790022",
+      "senha": "549",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 172,
+      "administracaocondominio_id": 119,
+      "bloco": "",
+      "num_unidade": "507",
+      "cep": "20550-012",
+      "num_pasta": "603",
+      "documento_proprietario": "441168027-00",
+      "nome_proprietario": "VALDELICIA DA SILVA",
+      "login": "DC00680055",
+      "senha": "141",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 173,
+      "administracaocondominio_id": 120,
+      "bloco": "1",
+      "num_unidade": "311",
+      "cep": "22745-004",
+      "num_pasta": "330",
+      "documento_proprietario": "003202407-03",
+      "nome_proprietario": "HUMBERTO SANTANA MOREIRA ",
+      "login": "07690311",
+      "senha": "6699",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 174,
+      "administracaocondominio_id": 120,
+      "bloco": "2",
+      "num_unidade": "605",
+      "cep": "22745-004",
+      "num_pasta": "393",
+      "documento_proprietario": "843848327-53",
+      "nome_proprietario": "JOSE HENRIQUE SA G CARDOSO",
+      "login": "07692605",
+      "senha": "3685",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 175,
+      "administracaocondominio_id": 121,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "22765-007",
+      "num_pasta": "793",
+      "documento_proprietario": "785969987-72",
+      "nome_proprietario": "ROSE MARLY DE MORAES URSULINO",
+      "login": "092602901",
+      "senha": "8746",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 176,
+      "administracaocondominio_id": 122,
+      "bloco": "1",
+      "num_unidade": "307",
+      "cep": "22790-686",
+      "num_pasta": "534",
+      "documento_proprietario": "010020727-86",
+      "nome_proprietario": "MARCOS ALBERTO CORREIA TEIXEIRA",
+      "login": "8020307",
+      "senha": "4259",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 177,
+      "administracaocondominio_id": 123,
+      "bloco": "",
+      "num_unidade": "701",
+      "cep": "22230-061",
+      "num_pasta": "847",
+      "documento_proprietario": "551223967-87",
+      "nome_proprietario": "ROSEMARY M A SOUZA DA SILVA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 178,
+      "administracaocondominio_id": 124,
+      "bloco": "6",
+      "num_unidade": "708",
+      "cep": "22775-780",
+      "num_pasta": "320",
+      "documento_proprietario": "084505067-27",
+      "nome_proprietario": "MARIO LUIZ DE OLIVEIRA MONSORES ",
+      "login": "06916708",
+      "senha": "1751",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 179,
+      "administracaocondominio_id": 124,
+      "bloco": "3",
+      "num_unidade": "702",
+      "cep": "22775-780",
+      "num_pasta": "392",
+      "documento_proprietario": "061893636-01",
+      "nome_proprietario": "LEANDRO MOSCON GHIDETTI",
+      "login": "06913702",
+      "senha": "5858",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 180,
+      "administracaocondominio_id": 125,
+      "bloco": "2",
+      "num_unidade": "204",
+      "cep": "22750-006",
+      "num_pasta": "507",
+      "documento_proprietario": "12430451751",
+      "nome_proprietario": "FERNANDA LIMA COSTA BRITO",
+      "login": "132402204",
+      "senha": "3162",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 181,
+      "administracaocondominio_id": 126,
+      "bloco": "",
+      "num_unidade": "105",
+      "cep": "22775-039",
+      "num_pasta": "631",
+      "documento_proprietario": "098394728-79",
+      "nome_proprietario": "KAREN SANTIAGO BALBI",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 182,
+      "administracaocondominio_id": 126,
+      "bloco": "",
+      "num_unidade": "1004",
+      "cep": "22775-040",
+      "num_pasta": "763",
+      "documento_proprietario": "335274407-63",
+      "nome_proprietario": "JOAO CARLOS BAHIA ALVES",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 183,
+      "administracaocondominio_id": 127,
+      "bloco": "2",
+      "num_unidade": "113",
+      "cep": "22775-036",
+      "num_pasta": "460",
+      "documento_proprietario": "052272678-04",
+      "nome_proprietario": "VERA CASTELO BRANCO",
+      "login": "011230173",
+      "senha": "7185",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 184,
+      "administracaocondominio_id": 127,
+      "bloco": "1",
+      "num_unidade": "712",
+      "cep": "22775-036",
+      "num_pasta": "748",
+      "documento_proprietario": "299773557-20",
+      "nome_proprietario": "FREDERICO GUILHERME A COUTINHO",
+      "login": "011230108",
+      "senha": "7010",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 185,
+      "administracaocondominio_id": 128,
+      "bloco": "8",
+      "num_unidade": "103",
+      "cep": "22723-002",
+      "num_pasta": "703",
+      "documento_proprietario": "058878527-04",
+      "nome_proprietario": "CARLOS ALBERTO SOARES PINTO",
+      "login": "11350309",
+      "senha": "2114",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 186,
+      "administracaocondominio_id": 129,
+      "bloco": "",
+      "num_unidade": "103",
+      "cep": "22560-032",
+      "num_pasta": "451",
+      "documento_proprietario": "820365437-15",
+      "nome_proprietario": "ANA LUCIA SAINT CLAIR LEE",
+      "login": "010140103",
+      "senha": "8887",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 187,
+      "administracaocondominio_id": 130,
+      "bloco": "",
+      "num_unidade": "202",
+      "cep": "22743-670",
+      "num_pasta": "514",
+      "documento_proprietario": "903727867-15",
+      "nome_proprietario": "LUIZ OTAVIO PASCHOAL DA SILVA",
+      "login": "01580202",
+      "senha": "4845",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 188,
+      "administracaocondominio_id": 131,
+      "bloco": "2",
+      "num_unidade": "1406",
+      "cep": "22793-295",
+      "num_pasta": "350",
+      "documento_proprietario": "189493477-68",
+      "nome_proprietario": "TIERES RODRIGUES FILHO",
+      "login": "981021406",
+      "senha": "3811",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 189,
+      "administracaocondominio_id": 131,
+      "bloco": "2",
+      "num_unidade": "1302",
+      "cep": "22793-295",
+      "num_pasta": "373",
+      "documento_proprietario": "045500797-70",
+      "nome_proprietario": "PATRICIA MARINHO TAVARES",
+      "login": "0981021302",
+      "senha": "9276",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 190,
+      "administracaocondominio_id": 131,
+      "bloco": "2",
+      "num_unidade": "1405",
+      "cep": "22793-295",
+      "num_pasta": "671",
+      "documento_proprietario": "088772907-06",
+      "nome_proprietario": "DIOGO HENRIQUE NUNES HADDAD",
+      "login": "0981021405",
+      "senha": "3075",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 191,
+      "administracaocondominio_id": 132,
+      "bloco": "1",
+      "num_unidade": "306",
+      "cep": "22793-302",
+      "num_pasta": "808",
+      "documento_proprietario": "692352447-49",
+      "nome_proprietario": "ANTONIO FERREIRA MARTINS",
+      "login": "08170306",
+      "senha": "7958",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 192,
+      "administracaocondominio_id": 133,
+      "bloco": "10",
+      "num_unidade": "304",
+      "cep": "12307-720",
+      "num_pasta": "650",
+      "documento_proprietario": "429685648-03",
+      "nome_proprietario": "MONIQUE BRUM LOPES",
+      "login": "PE73TE6941",
+      "senha": "Adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 193,
+      "administracaocondominio_id": 134,
+      "bloco": "",
+      "num_unidade": "204",
+      "cep": "22795-465",
+      "num_pasta": "78",
+      "documento_proprietario": "076457177-00",
+      "nome_proprietario": "PAULO CHRISTIANO DE R VIEIRA",
+      "login": "05340204",
+      "senha": "3405",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 194,
+      "administracaocondominio_id": 135,
+      "bloco": "",
+      "num_unidade": "302",
+      "cep": "22790-285",
+      "num_pasta": "803",
+      "documento_proprietario": "331299597-34",
+      "nome_proprietario": "MARIA LUIZA DOMINGUES",
+      "login": "11020302",
+      "senha": "3440",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 195,
+      "administracaocondominio_id": 136,
+      "bloco": "",
+      "num_unidade": "69",
+      "cep": "22745-056",
+      "num_pasta": "602",
+      "documento_proprietario": "074535757-10",
+      "nome_proprietario": "FLAVIA DE PAULA BARBOSA",
+      "login": "04040069",
+      "senha": "1421",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 196,
+      "administracaocondominio_id": 137,
+      "bloco": "",
+      "num_unidade": "202",
+      "cep": "22620-172",
+      "num_pasta": "776",
+      "documento_proprietario": "334464237-53",
+      "nome_proprietario": "ANTONIO PIRES CAPELLA",
+      "login": "04550202",
+      "senha": "2205",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 197,
+      "administracaocondominio_id": 138,
+      "bloco": "3",
+      "num_unidade": "302",
+      "cep": "22776-050",
+      "num_pasta": "239",
+      "documento_proprietario": "000452657-04",
+      "nome_proprietario": "CLAUDIO CARNEIRO B. PINTO COELHO",
+      "login": "03630070",
+      "senha": "2134",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 198,
+      "administracaocondominio_id": 139,
+      "bloco": "",
+      "num_unidade": "1208",
+      "cep": "22743-050",
+      "num_pasta": "618",
+      "documento_proprietario": "024203947-20",
+      "nome_proprietario": "LESSANDRO DA SILVA SIGMARINGA",
+      "login": "05501208",
+      "senha": "7745",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 199,
+      "administracaocondominio_id": 140,
+      "bloco": "",
+      "num_unidade": "1002",
+      "cep": "20961-050",
+      "num_pasta": "665",
+      "documento_proprietario": "074456257-04",
+      "nome_proprietario": "ANA CRISTINA DE OLIVEIRA LIMA",
+      "login": "11130075",
+      "senha": "4633",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 200,
+      "administracaocondominio_id": 141,
+      "bloco": "1",
+      "num_unidade": "1302",
+      "cep": "",
+      "num_pasta": "273",
+      "documento_proprietario": "871277257-72",
+      "nome_proprietario": "FLAVIA RIBEIRO REBECCHI",
+      "login": "03210098",
+      "senha": "9816",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 201,
+      "administracaocondominio_id": 142,
+      "bloco": "1",
+      "num_unidade": "110",
+      "cep": "22.783 550",
+      "num_pasta": "817 AD16",
+      "documento_proprietario": "085865537-35",
+      "nome_proprietario": "IVAN TAVARES SARMENTO",
+      "login": "09001110",
+      "senha": "1105",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 202,
+      "administracaocondominio_id": 143,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "21321-440",
+      "num_pasta": "724",
+      "documento_proprietario": "549839837-91",
+      "nome_proprietario": "ELIANE IGNACIO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 203,
+      "administracaocondominio_id": 144,
+      "bloco": "6",
+      "num_unidade": "505",
+      "cep": "12305-810",
+      "num_pasta": "634",
+      "documento_proprietario": "113963318-08",
+      "nome_proprietario": "FREDERICO DANIELE DE OLIVEIRA MESSINA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 204,
+      "administracaocondominio_id": 145,
+      "bloco": "3",
+      "num_unidade": "201",
+      "cep": "22790-669",
+      "num_pasta": "71",
+      "documento_proprietario": "077336357-21",
+      "nome_proprietario": "JANAINA CAMPBELL DAS VIRGENS",
+      "login": "Solicitar via whatsapp",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 205,
+      "administracaocondominio_id": 146,
+      "bloco": "2",
+      "num_unidade": "309",
+      "cep": "22793-395",
+      "num_pasta": "433",
+      "documento_proprietario": "229806527-68",
+      "nome_proprietario": "JOSIETE GIBARA ",
+      "login": "Solicitar via whatsapp",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 206,
+      "administracaocondominio_id": 147,
+      "bloco": "2",
+      "num_unidade": "811",
+      "cep": "22790-669",
+      "num_pasta": "228",
+      "documento_proprietario": "4280144702",
+      "nome_proprietario": "ANTONIO PASQUALE MAIUOLO",
+      "login": "Solicitar via whatsapp",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 207,
+      "administracaocondominio_id": 147,
+      "bloco": "5",
+      "num_unidade": "807",
+      "cep": "22790-669",
+      "num_pasta": "654",
+      "documento_proprietario": "037713847-96",
+      "nome_proprietario": "SERGIO BRUNO PIRES JUNIOR",
+      "login": "Solicitar via whatsapp",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 208,
+      "administracaocondominio_id": 148,
+      "bloco": "2",
+      "num_unidade": "401",
+      "cep": "22790-669",
+      "num_pasta": "675",
+      "documento_proprietario": "974167387-68",
+      "nome_proprietario": "LENILDO DE SOUZA ALMEIDA",
+      "login": "Solicitar via whatsapp",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 209,
+      "administracaocondominio_id": 149,
+      "bloco": "",
+      "num_unidade": "205",
+      "cep": "22750-320",
+      "num_pasta": "322",
+      "documento_proprietario": "852322117-49",
+      "nome_proprietario": "JARLEY MACIEL VESCOVI OLIVEIRA",
+      "login": "852322117-49",
+      "senha": "A@PC852",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 210,
+      "administracaocondominio_id": 150,
+      "bloco": "7",
+      "num_unidade": "104",
+      "cep": "22755-158",
+      "num_pasta": "722",
+      "documento_proprietario": "963675807-78",
+      "nome_proprietario": "FRANCISCO JOSE DA COSTA",
+      "login": "U07-104",
+      "senha": "267643",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 211,
+      "administracaocondominio_id": 151,
+      "bloco": "8",
+      "num_unidade": "203",
+      "cep": "22755-158",
+      "num_pasta": "740",
+      "documento_proprietario": "746668437-87",
+      "nome_proprietario": "Jorge Luiz Escano Duarte",
+      "login": "U08-203",
+      "senha": "232790",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 212,
+      "administracaocondominio_id": 152,
+      "bloco": "2",
+      "num_unidade": "1005",
+      "cep": "22775-046",
+      "num_pasta": "325",
+      "documento_proprietario": "369585227-53",
+      "nome_proprietario": "JOSE RINALDO D SILVA ",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 213,
+      "administracaocondominio_id": 153,
+      "bloco": "1",
+      "num_unidade": "319",
+      "cep": "22790-702",
+      "num_pasta": "725",
+      "documento_proprietario": "405902167-91",
+      "nome_proprietario": "LELINA VERLANGIERE PAIS DE BARROS",
+      "login": "Por e-mail - Boleto",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 214,
+      "administracaocondominio_id": 154,
+      "bloco": "",
+      "num_unidade": "712",
+      "cep": "22775-028",
+      "num_pasta": "652",
+      "documento_proprietario": "0797573771-12",
+      "nome_proprietario": "LUIZ CARLOS CHAGAS DE SOUZA",
+      "login": "s\u00f3 acompanhar se o locat\u00e1rio est\u00e1 pagando",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 215,
+      "administracaocondominio_id": 155,
+      "bloco": "",
+      "num_unidade": "2",
+      "cep": "22785-010",
+      "num_pasta": "285",
+      "documento_proprietario": "025.848.527-21",
+      "nome_proprietario": "MAURICIO MACHADO BATISTA",
+      "login": "UCASA2",
+      "senha": "949149",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 216,
+      "administracaocondominio_id": 156,
+      "bloco": "2",
+      "num_unidade": "1211",
+      "cep": "22783-116",
+      "num_pasta": "746",
+      "documento_proprietario": "037435677-76",
+      "nome_proprietario": "ALESSANDRA VIEIRA MACEDO DE LIMA",
+      "login": "03743567776",
+      "senha": "12345678",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 217,
+      "administracaocondominio_id": 157,
+      "bloco": "3",
+      "num_unidade": "405",
+      "cep": "23092-002",
+      "num_pasta": "821 IA15",
+      "documento_proprietario": "035167367-98",
+      "nome_proprietario": "MARGARETH MARCONDES DA SILVA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 218,
+      "administracaocondominio_id": 158,
+      "bloco": "A",
+      "num_unidade": "708",
+      "cep": "22061-000",
+      "num_pasta": "191",
+      "documento_proprietario": "929088967-53",
+      "nome_proprietario": "CLAUDIA CONCEI\u00c7\u00c3O DE FREITAS",
+      "login": "U0708A",
+      "senha": "142257",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 219,
+      "administracaocondominio_id": 159,
+      "bloco": "",
+      "num_unidade": "A",
+      "cep": "22730-210",
+      "num_pasta": "526",
+      "documento_proprietario": "023629577-21",
+      "nome_proprietario": "MARIA CELESTE SANTANA MOREIRA",
+      "login": "Matricula - 36107-0",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 220,
+      "administracaocondominio_id": 160,
+      "bloco": "2",
+      "num_unidade": "204",
+      "cep": "22790-710",
+      "num_pasta": "256",
+      "documento_proprietario": "863639807-04",
+      "nome_proprietario": "RICARDO CAMPOS ",
+      "login": "5460/2/204",
+      "senha": "30445",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 221,
+      "administracaocondominio_id": 160,
+      "bloco": "1",
+      "num_unidade": "1205",
+      "cep": "22790-710",
+      "num_pasta": "553",
+      "documento_proprietario": "053617957-39",
+      "nome_proprietario": "MARCUS VINICIUS S B AMARAL",
+      "login": "5460/1/1205",
+      "senha": "55070",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 222,
+      "administracaocondominio_id": 161,
+      "bloco": "3",
+      "num_unidade": "108",
+      "cep": "22775-036",
+      "num_pasta": "443",
+      "documento_proprietario": "052272678-04",
+      "nome_proprietario": "VERA DE FATIMA CASTELO BRANCO",
+      "login": "7kcr",
+      "senha": "nv5x",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 223,
+      "administracaocondominio_id": 161,
+      "bloco": "3",
+      "num_unidade": "308",
+      "cep": "22775-036",
+      "num_pasta": "771",
+      "documento_proprietario": "683338708-72",
+      "nome_proprietario": "VERA DE FATIMA CASTELO BRANCO",
+      "login": "ppcr",
+      "senha": "ckr8",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 224,
+      "administracaocondominio_id": 162,
+      "bloco": "",
+      "num_unidade": "608",
+      "cep": "22050-012",
+      "num_pasta": "369",
+      "documento_proprietario": "008301006-87",
+      "nome_proprietario": "JULIETA DE SOUZA LIMA VILLELA",
+      "login": "pwww",
+      "senha": "pshs",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 225,
+      "administracaocondominio_id": 163,
+      "bloco": "1",
+      "num_unidade": "1304",
+      "cep": "22780-160",
+      "num_pasta": "792",
+      "documento_proprietario": "078571457-00",
+      "nome_proprietario": "CELIA PEREIRA SANTOS",
+      "login": "pqgp",
+      "senha": "bdak",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 226,
+      "administracaocondominio_id": 164,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "22793-316",
+      "num_pasta": "119",
+      "documento_proprietario": "938.212.207-91",
+      "nome_proprietario": "FERNADA G IGLESIAS RIBEIRO",
+      "login": "JK5Z",
+      "senha": "KYCV",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 227,
+      "administracaocondominio_id": 164,
+      "bloco": "",
+      "num_unidade": "195",
+      "cep": "22793-310",
+      "num_pasta": "738",
+      "documento_proprietario": "300045197-87",
+      "nome_proprietario": "Maria de Fatima Correa Refinetti",
+      "login": "ck5z",
+      "senha": "rycv",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 228,
+      "administracaocondominio_id": 165,
+      "bloco": "",
+      "num_unidade": "302",
+      "cep": "22795-077",
+      "num_pasta": "778",
+      "documento_proprietario": "899147247-87",
+      "nome_proprietario": "Valeria Costa",
+      "login": "gews",
+      "senha": "fsc8",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 229,
+      "administracaocondominio_id": 166,
+      "bloco": "A",
+      "num_unidade": "102",
+      "cep": "22620-062",
+      "num_pasta": "611",
+      "documento_proprietario": "204181406-34",
+      "nome_proprietario": "AFONSO LUIZ PINTO DA CUNHA",
+      "login": "bkde",
+      "senha": "tuvv",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 230,
+      "administracaocondominio_id": 167,
+      "bloco": "",
+      "num_unidade": "203",
+      "cep": "22795-465",
+      "num_pasta": "785",
+      "documento_proprietario": "045209717-72",
+      "nome_proprietario": "PAUL ANTOINE MARON GEDEON",
+      "login": "7kfg",
+      "senha": "r8dj",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 231,
+      "administracaocondominio_id": 168,
+      "bloco": "",
+      "num_unidade": "2012",
+      "cep": "22631-370",
+      "num_pasta": "508",
+      "documento_proprietario": "379466687-91",
+      "nome_proprietario": "MARIA LUCIA MEIRELLES CORREA",
+      "login": "tvw5",
+      "senha": "bfcb",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 232,
+      "administracaocondominio_id": 169,
+      "bloco": "",
+      "num_unidade": "601",
+      "cep": "22631-052",
+      "num_pasta": "207",
+      "documento_proprietario": "210351450001-06",
+      "nome_proprietario": "EXCLUSIVE ADMINISTRADORA DE IM\u00d3VEIS",
+      "login": "pbzq",
+      "senha": "4qfd",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 233,
+      "administracaocondominio_id": 169,
+      "bloco": "",
+      "num_unidade": "1101",
+      "cep": "22631-052",
+      "num_pasta": "554",
+      "documento_proprietario": "098478047-53",
+      "nome_proprietario": "JORGE G DE SOUZA",
+      "login": "pnzq",
+      "senha": "svyd",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 234,
+      "administracaocondominio_id": 170,
+      "bloco": "",
+      "num_unidade": "202",
+      "cep": "22620-032",
+      "num_pasta": "166",
+      "documento_proprietario": "855587617-68",
+      "nome_proprietario": "FATIMA CARNEIRO FERNANDES",
+      "login": "Solicitar por e-mail",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 235,
+      "administracaocondominio_id": 171,
+      "bloco": "",
+      "num_unidade": "102",
+      "cep": "20541-142",
+      "num_pasta": "425",
+      "documento_proprietario": "70354960768",
+      "nome_proprietario": "MARCIA CRISTINA NEVES",
+      "login": "U102",
+      "senha": "941482",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 236,
+      "administracaocondominio_id": 171,
+      "bloco": "",
+      "num_unidade": "502",
+      "cep": "20541-142",
+      "num_pasta": "429",
+      "documento_proprietario": "70354960768",
+      "nome_proprietario": "MARCIA CRISTINA NEVES",
+      "login": "U502",
+      "senha": "186363",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 237,
+      "administracaocondominio_id": 172,
+      "bloco": "1",
+      "num_unidade": "682 e 683 ",
+      "cep": "22.775-024",
+      "num_pasta": "848 IA12",
+      "documento_proprietario": "024111537-08",
+      "nome_proprietario": "CHEN PI DI WU",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 238,
+      "administracaocondominio_id": 173,
+      "bloco": "",
+      "num_unidade": "326, 328, 329, 330, 331, 332, 333, 334 e 335",
+      "cep": "22775-028",
+      "num_pasta": "812 IA03",
+      "documento_proprietario": "13398084/0001-05",
+      "nome_proprietario": "AFMPR GESTAO IMOBILIARIA,INCORP.,EMPREEND. E PARTICIPACOES LTDA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 239,
+      "administracaocondominio_id": 174,
+      "bloco": "",
+      "num_unidade": "204",
+      "cep": "20751-030",
+      "num_pasta": "791",
+      "documento_proprietario": "094390617-23",
+      "nome_proprietario": "VENICE MENDES Geison Rodino Tavares",
+      "login": "0144204",
+      "senha": "ZO8369",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 240,
+      "administracaocondominio_id": 175,
+      "bloco": "",
+      "num_unidade": "1105",
+      "cep": "22631-030",
+      "num_pasta": "585",
+      "documento_proprietario": "024139647-62",
+      "nome_proprietario": "MARNE CUNHA DE LUCENA",
+      "login": "00691105",
+      "senha": "VX7274",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 241,
+      "administracaocondominio_id": 176,
+      "bloco": "",
+      "num_unidade": "705",
+      "cep": "22631-052",
+      "num_pasta": "204",
+      "documento_proprietario": "22990615768",
+      "nome_proprietario": "LUIZA DE CASTRO CAMPOS",
+      "login": "0073705",
+      "senha": "AJ8465",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 242,
+      "administracaocondominio_id": 176,
+      "bloco": "",
+      "num_unidade": "1406",
+      "cep": "22631-052",
+      "num_pasta": "701",
+      "documento_proprietario": "665422357-87",
+      "nome_proprietario": "SELMA AULO DE AZEVEDO",
+      "login": "00731406",
+      "senha": "CJ5672",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 243,
+      "administracaocondominio_id": 177,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "22631-460",
+      "num_pasta": "303",
+      "documento_proprietario": "988066377-20",
+      "nome_proprietario": "MEIRY RUTH BRAGA DE CASTRO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 244,
+      "administracaocondominio_id": 178,
+      "bloco": "",
+      "num_unidade": "25",
+      "cep": "22713-470",
+      "num_pasta": "616",
+      "documento_proprietario": "075040147-88",
+      "nome_proprietario": "CARLOS ALBERTO CORREA JUNIOR",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 245,
+      "administracaocondominio_id": 179,
+      "bloco": "",
+      "num_unidade": "1106",
+      "cep": "22010-010",
+      "num_pasta": "663",
+      "documento_proprietario": "967594297-53",
+      "nome_proprietario": "SIMONE DA SILVA BESSA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 246,
+      "administracaocondominio_id": 180,
+      "bloco": "3",
+      "num_unidade": "308",
+      "cep": "22775-057",
+      "num_pasta": "668",
+      "documento_proprietario": "67054587715",
+      "nome_proprietario": "MARIA DE FATIMA ABRANTES MADEIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "byp1673",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 247,
+      "administracaocondominio_id": 181,
+      "bloco": "4",
+      "num_unidade": "104",
+      "cep": "22790-883",
+      "num_pasta": "450",
+      "documento_proprietario": "029393317-07",
+      "nome_proprietario": "ANA PAULA PONTES DA SILVA MELLO",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 248,
+      "administracaocondominio_id": 181,
+      "bloco": "6",
+      "num_unidade": "409",
+      "cep": "22790-883",
+      "num_pasta": "486",
+      "documento_proprietario": "010020727-86",
+      "nome_proprietario": "MARCOS ALBERTO CORREIA TEIXEIRA ",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 249,
+      "administracaocondominio_id": 181,
+      "bloco": "3",
+      "num_unidade": "710",
+      "cep": "22790-883",
+      "num_pasta": "681",
+      "documento_proprietario": "348800117-20",
+      "nome_proprietario": "SERGIO DE SOUZA ARAUJO ",
+      "login": "32179787",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 250,
+      "administracaocondominio_id": 182,
+      "bloco": "1",
+      "num_unidade": "103",
+      "cep": "24800-770",
+      "num_pasta": "796",
+      "documento_proprietario": "032409587-24",
+      "nome_proprietario": "ALESSANDRA DA SILVA CARDOSO",
+      "login": "",
+      "senha": "llzsp",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 251,
+      "administracaocondominio_id": 183,
+      "bloco": "22",
+      "num_unidade": "102",
+      "cep": "24800-770",
+      "num_pasta": "723",
+      "documento_proprietario": "124697227-13",
+      "nome_proprietario": "JAIZA SOUZA ROSETTI",
+      "login": "124697227-13",
+      "senha": "llzsp",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 252,
+      "administracaocondominio_id": 184,
+      "bloco": "1",
+      "num_unidade": "405",
+      "cep": "22783-025",
+      "num_pasta": "669",
+      "documento_proprietario": "053363197-16",
+      "nome_proprietario": "MARCELLE CRISTINE DA SILVA  FARIAS",
+      "login": "053363197-16",
+      "senha": "llzsp",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 253,
+      "administracaocondominio_id": 185,
+      "bloco": "4",
+      "num_unidade": "504",
+      "cep": "21820-097",
+      "num_pasta": "661",
+      "documento_proprietario": "441018137-87",
+      "nome_proprietario": "ROBERTO LUCIO MAR\u00c7AL",
+      "login": "441018137-87",
+      "senha": "llzsp",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 254,
+      "administracaocondominio_id": 186,
+      "bloco": "4",
+      "num_unidade": "702",
+      "cep": "22793-380",
+      "num_pasta": "479",
+      "documento_proprietario": "26081792749",
+      "nome_proprietario": "FERNANDO CELSO REGO LYRA ",
+      "login": "Administramosimoveis",
+      "senha": "adm123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 255,
+      "administracaocondominio_id": 187,
+      "bloco": "",
+      "num_unidade": "201",
+      "cep": "22795-090",
+      "num_pasta": "822 IA16 ",
+      "documento_proprietario": "048.507.548-21",
+      "nome_proprietario": "MAURO CESAR BAPTISTA DA SILVA",
+      "login": "UDM201",
+      "senha": "952671",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 256,
+      "administracaocondominio_id": 188,
+      "bloco": "1",
+      "num_unidade": "707",
+      "cep": "22793-312",
+      "num_pasta": "739",
+      "documento_proprietario": "042814527-29",
+      "nome_proprietario": "ALESSANDRA VERONICA B. DAMASCENO",
+      "login": "DO47JO7163",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 257,
+      "administracaocondominio_id": 189,
+      "bloco": "1",
+      "num_unidade": "205",
+      "cep": "20756-050",
+      "num_pasta": "766",
+      "documento_proprietario": "105883727-30",
+      "nome_proprietario": "MAURO DA COSTA FELIZARDO JUNIOR",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 258,
+      "administracaocondominio_id": 190,
+      "bloco": "",
+      "num_unidade": "119",
+      "cep": "22793-082",
+      "num_pasta": "522",
+      "documento_proprietario": "055229377-69",
+      "nome_proprietario": "RENAUD BRUGIDOU",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 259,
+      "administracaocondominio_id": 190,
+      "bloco": "",
+      "num_unidade": "120",
+      "cep": "22793-082",
+      "num_pasta": "532",
+      "documento_proprietario": "055229377-69",
+      "nome_proprietario": "RENAUD BRUGIDOU",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 260,
+      "administracaocondominio_id": 191,
+      "bloco": "",
+      "num_unidade": "4",
+      "cep": "28960-000",
+      "num_pasta": "805",
+      "documento_proprietario": "05975513/0001-31",
+      "nome_proprietario": "Debret Participa\u00e7\u00f5es LTDA ME",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 261,
+      "administracaocondominio_id": 192,
+      "bloco": "3",
+      "num_unidade": "301",
+      "cep": "22755-002",
+      "num_pasta": "313",
+      "documento_proprietario": "352330287-00",
+      "nome_proprietario": "SHEILA ZISMAN",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 262,
+      "administracaocondominio_id": 192,
+      "bloco": "2",
+      "num_unidade": "201",
+      "cep": "22755-002",
+      "num_pasta": "599",
+      "documento_proprietario": "466506797-04",
+      "nome_proprietario": "AFONSO EMANUEL LAGES DA SILVA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 263,
+      "administracaocondominio_id": 193,
+      "bloco": "1",
+      "num_unidade": "1001",
+      "cep": "22793-295",
+      "num_pasta": "242",
+      "documento_proprietario": "031307567-01",
+      "nome_proprietario": "LAYNA MELO BASTOS",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 264,
+      "administracaocondominio_id": 193,
+      "bloco": "1",
+      "num_unidade": "604",
+      "cep": "22793-295",
+      "num_pasta": "326",
+      "documento_proprietario": "09458581/0001-84",
+      "nome_proprietario": "CECY MENDES GONCALVES SCHIMIDT ",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 265,
+      "administracaocondominio_id": 193,
+      "bloco": "2",
+      "num_unidade": "306",
+      "cep": "22793-295",
+      "num_pasta": "768",
+      "documento_proprietario": "441699907-06",
+      "nome_proprietario": "MANUEL JOSE VIEIRA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm123456",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 266,
+      "administracaocondominio_id": 194,
+      "bloco": "A",
+      "num_unidade": "201",
+      "cep": "20270-231",
+      "num_pasta": "752",
+      "documento_proprietario": "029487387-25",
+      "nome_proprietario": "JULIANA BOONE JACOBSEN CARVALHO SAVIOLI",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 267,
+      "administracaocondominio_id": 195,
+      "bloco": "",
+      "num_unidade": "610",
+      "cep": "22620-240",
+      "num_pasta": "676",
+      "documento_proprietario": "047479927-15",
+      "nome_proprietario": "ELBA FARIAS DE LACERDA",
+      "login": "U142610",
+      "senha": "194869",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 268,
+      "administracaocondominio_id": 196,
+      "bloco": "2",
+      "num_unidade": "102",
+      "cep": "22755-170",
+      "num_pasta": "517",
+      "documento_proprietario": "003604437-70",
+      "nome_proprietario": "JANE LUCIA BATISTA DA COSTA",
+      "login": "6351/2/102",
+      "senha": "039586",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 269,
+      "administracaocondominio_id": 197,
+      "bloco": "2",
+      "num_unidade": "501",
+      "cep": "22793-050",
+      "num_pasta": "278",
+      "documento_proprietario": "677402357-68",
+      "nome_proprietario": "MARCOS DOS SANTOS ROCHA",
+      "login": "5169/2/501",
+      "senha": "036751",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 270,
+      "administracaocondominio_id": 198,
+      "bloco": "3",
+      "num_unidade": "102",
+      "cep": "21061-021",
+      "num_pasta": "715",
+      "documento_proprietario": "160761157-00",
+      "nome_proprietario": "ULY MENDES PAES",
+      "login": "por -email",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 271,
+      "administracaocondominio_id": 199,
+      "bloco": "1",
+      "num_unidade": "106",
+      "cep": "22713-004",
+      "num_pasta": "807",
+      "documento_proprietario": "095566377-61",
+      "nome_proprietario": "ANDERSON MENDONSA DA SILVA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 272,
+      "administracaocondominio_id": 200,
+      "bloco": "2",
+      "num_unidade": "604",
+      "cep": "22743-660",
+      "num_pasta": "344",
+      "documento_proprietario": "088571597-79",
+      "nome_proprietario": "RODRIGO DA SILVEIRA BRIVIO ",
+      "login": "TO88SI7004",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 273,
+      "administracaocondominio_id": 200,
+      "bloco": "2",
+      "num_unidade": "509",
+      "cep": "22743-660",
+      "num_pasta": "565",
+      "documento_proprietario": "030161929-85",
+      "nome_proprietario": "JULIO CESAR DE OLIVEIRA ",
+      "login": "TO88SI7004",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 274,
+      "administracaocondominio_id": 201,
+      "bloco": "",
+      "num_unidade": "1508",
+      "cep": "22793-670",
+      "num_pasta": "269",
+      "documento_proprietario": "025.961.807-15",
+      "nome_proprietario": "ESPOLIO DE CEZAR DIBLAZIO",
+      "login": "Solicitar por e-mail",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 275,
+      "administracaocondominio_id": 202,
+      "bloco": "",
+      "num_unidade": "102",
+      "cep": "22220-040",
+      "num_pasta": "571",
+      "documento_proprietario": "067840037-72",
+      "nome_proprietario": "ILKA CARDOSO BRAZIL",
+      "login": "0108/102",
+      "senha": "033704",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 276,
+      "administracaocondominio_id": 203,
+      "bloco": "",
+      "num_unidade": "69",
+      "cep": "22783-325",
+      "num_pasta": "29",
+      "documento_proprietario": "103676167-34",
+      "nome_proprietario": "GERALDO OLIVEIRA ",
+      "login": "0728/69",
+      "senha": "031695",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 277,
+      "administracaocondominio_id": 204,
+      "bloco": "",
+      "num_unidade": "403",
+      "cep": "22290-240",
+      "num_pasta": "801",
+      "documento_proprietario": "043012487-22",
+      "nome_proprietario": "DEBORA GRINER VEL ROTNES",
+      "login": "2041100015",
+      "senha": "6416",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 278,
+      "administracaocondominio_id": 205,
+      "bloco": "",
+      "num_unidade": "1006",
+      "cep": "22050-011",
+      "num_pasta": "545",
+      "documento_proprietario": "002991549-04",
+      "nome_proprietario": "NORMA AMARAL ",
+      "login": "2044900076",
+      "senha": "1760",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 279,
+      "administracaocondominio_id": 205,
+      "bloco": "",
+      "num_unidade": "505",
+      "cep": "22050-011",
+      "num_pasta": "573",
+      "documento_proprietario": "028774149-49",
+      "nome_proprietario": "CARLOS LIMA DOS SANTOS ",
+      "login": "2044900035",
+      "senha": "9337",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 280,
+      "administracaocondominio_id": 206,
+      "bloco": "2",
+      "num_unidade": "1103",
+      "cep": "22641-003",
+      "num_pasta": "162",
+      "documento_proprietario": "012034227-84",
+      "nome_proprietario": "MARCELO BITTENCOURT ALCURE",
+      "login": "2089200110",
+      "senha": "5907",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 281,
+      "administracaocondominio_id": 207,
+      "bloco": "16",
+      "num_unidade": "105",
+      "cep": "22743-670",
+      "num_pasta": "386",
+      "documento_proprietario": "1436022762",
+      "nome_proprietario": "MARCIO LIMA DE FREITAS ",
+      "login": "relacionamento@exclusiveadministradora.com.br",
+      "senha": "exclusive",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 282,
+      "administracaocondominio_id": 207,
+      "bloco": "3 - lote 03 ",
+      "num_unidade": "103",
+      "cep": "22743-670",
+      "num_pasta": "620",
+      "documento_proprietario": "33854563/0001-04",
+      "nome_proprietario": "GLOBO CONSTRUCOES E TERRAPLANAGEM LTDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 283,
+      "administracaocondominio_id": 207,
+      "bloco": "5 - lote 03 ",
+      "num_unidade": "107",
+      "cep": "22743-670",
+      "num_pasta": "623",
+      "documento_proprietario": "33854563/0001-04",
+      "nome_proprietario": "GLOBO CONSTRUCOES E TERRAPLANAGEM LTDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 284,
+      "administracaocondominio_id": 207,
+      "bloco": "3 - lote 03 ",
+      "num_unidade": "105",
+      "cep": "22743-670",
+      "num_pasta": "626",
+      "documento_proprietario": "33854563/0001-04",
+      "nome_proprietario": "GLOBO CONSTRUCOES E TERRAPLANAGEM LTDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 285,
+      "administracaocondominio_id": 207,
+      "bloco": "1 - lote 02",
+      "num_unidade": "106",
+      "cep": "22743-670",
+      "num_pasta": "628",
+      "documento_proprietario": "33854563/0001-04",
+      "nome_proprietario": "GLOBO CONSTRUCOES E TERRAPLANAGEM LTDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 286,
+      "administracaocondominio_id": 207,
+      "bloco": "2 - lote 03 ",
+      "num_unidade": "104",
+      "cep": "22743-670",
+      "num_pasta": "630",
+      "documento_proprietario": "33854563/0001-04",
+      "nome_proprietario": "GLOBO CONSTRUCOES E TERRAPLANAGEM LTDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 287,
+      "administracaocondominio_id": 207,
+      "bloco": "1 - lote 02",
+      "num_unidade": "102",
+      "cep": "22743-670",
+      "num_pasta": "709",
+      "documento_proprietario": "33854563/0001-04",
+      "nome_proprietario": "GLOBO CONSTRUCOES E TERRAPLANAGEM LTDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 288,
+      "administracaocondominio_id": 207,
+      "bloco": "1 - lote 03",
+      "num_unidade": "108",
+      "cep": "22743-670",
+      "num_pasta": "712",
+      "documento_proprietario": "33854563/0001-04",
+      "nome_proprietario": "GLOBO CONSTRUCOES E TERRAPLANAGEM LTDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 289,
+      "administracaocondominio_id": 207,
+      "bloco": "6 - lote 03 ",
+      "num_unidade": "112",
+      "cep": "22743-670",
+      "num_pasta": "728",
+      "documento_proprietario": "373701627-53",
+      "nome_proprietario": "REGINA COELI FUNDAO RAMADE BORDALLO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "adm123",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 290,
+      "administracaocondominio_id": 208,
+      "bloco": "1",
+      "num_unidade": "703",
+      "cep": "22770-102",
+      "num_pasta": "378",
+      "documento_proprietario": "13353582/0001-31",
+      "nome_proprietario": "DOB EMPREEND IMOBILIARIOS LTDA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 291,
+      "administracaocondominio_id": 208,
+      "bloco": "2",
+      "num_unidade": "709",
+      "cep": "22770-102",
+      "num_pasta": "389",
+      "documento_proprietario": "13353582/0001-31",
+      "nome_proprietario": "DOB EMPREENDIMENTOS IMOBILIARIOS EIRELI",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 292,
+      "administracaocondominio_id": 208,
+      "bloco": "2",
+      "num_unidade": "508",
+      "cep": "22770-102",
+      "num_pasta": "394",
+      "documento_proprietario": "13353582/0001-31",
+      "nome_proprietario": "DOB EMPREENDIMENTOS IMOBILIARIOS EIRELI",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 293,
+      "administracaocondominio_id": 208,
+      "bloco": "2",
+      "num_unidade": "612",
+      "cep": "22770-102",
+      "num_pasta": "398",
+      "documento_proprietario": "13353582/0001-31",
+      "nome_proprietario": "DOB EMPREENDIMENTOS IMOBILIARIOS EIRELI",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 294,
+      "administracaocondominio_id": 209,
+      "bloco": "",
+      "num_unidade": "610",
+      "cep": "22745-012",
+      "num_pasta": "765",
+      "documento_proprietario": "913496217-49",
+      "nome_proprietario": "JOSUE ROSA DOS SANTOS",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 295,
+      "administracaocondominio_id": 210,
+      "bloco": "",
+      "num_unidade": "1003",
+      "cep": "22793-081",
+      "num_pasta": "370",
+      "documento_proprietario": "487463127-49",
+      "nome_proprietario": "MARCUS MAURELL MONTEIRO",
+      "login": "2007100147",
+      "senha": "6951",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 296,
+      "administracaocondominio_id": 210,
+      "bloco": "",
+      "num_unidade": "1004",
+      "cep": "22793-081",
+      "num_pasta": "370",
+      "documento_proprietario": "487463127-49",
+      "nome_proprietario": "MARCUS MAURELL MONTEIRO",
+      "login": "2007100148",
+      "senha": "6951",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 297,
+      "administracaocondominio_id": 210,
+      "bloco": "",
+      "num_unidade": "1005",
+      "cep": "22793-081",
+      "num_pasta": "417",
+      "documento_proprietario": "36243051749",
+      "nome_proprietario": "SERGIO FERREIRA DE SOUZA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 298,
+      "administracaocondominio_id": 210,
+      "bloco": "",
+      "num_unidade": "1006",
+      "cep": "22793-081",
+      "num_pasta": "417",
+      "documento_proprietario": "36243051749",
+      "nome_proprietario": "SERGIO FERREIRA DE SOUZA",
+      "login": "administrativo2@administramosimoveis.com.br",
+      "senha": "adm1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 299,
+      "administracaocondominio_id": 211,
+      "bloco": "3",
+      "num_unidade": "802",
+      "cep": "22790-669",
+      "num_pasta": "411",
+      "documento_proprietario": "104287367-42",
+      "nome_proprietario": "LUIZ GUILHERME C. DA S. KUNIHOSHI E S/M",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 300,
+      "administracaocondominio_id": 211,
+      "bloco": "3",
+      "num_unidade": "901",
+      "cep": "22790-669",
+      "num_pasta": "519",
+      "documento_proprietario": "020897037-17",
+      "nome_proprietario": "CARINE VIEIRA LAGE RIBEIRO",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 301,
+      "administracaocondominio_id": 211,
+      "bloco": "1",
+      "num_unidade": "101",
+      "cep": "22790-669",
+      "num_pasta": "537",
+      "documento_proprietario": "879764473",
+      "nome_proprietario": "TIAGO CAMPELO DE MEDEIROS",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 302,
+      "administracaocondominio_id": 211,
+      "bloco": "3",
+      "num_unidade": "303",
+      "cep": "22790-669",
+      "num_pasta": "698",
+      "documento_proprietario": "033874327-80",
+      "nome_proprietario": "ALINE CONCEI\u00c7AO DE OLIVEIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 303,
+      "administracaocondominio_id": 211,
+      "bloco": "4",
+      "num_unidade": "303",
+      "cep": "22790-669",
+      "num_pasta": "719",
+      "documento_proprietario": "606713867-00",
+      "nome_proprietario": "FABIO ESPERAN\u00c7A",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 304,
+      "administracaocondominio_id": 212,
+      "bloco": "4",
+      "num_unidade": "207",
+      "cep": "27775-003",
+      "num_pasta": "500",
+      "documento_proprietario": "18311533865",
+      "nome_proprietario": "FABIANA GOUVEIA XAVIER",
+      "login": "2018100216",
+      "senha": "4851",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 305,
+      "administracaocondominio_id": 213,
+      "bloco": "",
+      "num_unidade": "502",
+      "cep": "22790-877",
+      "num_pasta": "380",
+      "documento_proprietario": "54458617753",
+      "nome_proprietario": "JOSE ROBERTO DE ROSE SOUZA",
+      "login": "2020700130",
+      "senha": "9193",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 306,
+      "administracaocondominio_id": 214,
+      "bloco": "2",
+      "num_unidade": "1004",
+      "cep": "22776-000",
+      "num_pasta": "41",
+      "documento_proprietario": "67613713768",
+      "nome_proprietario": "NELSON DURVAL FERREIRA GOMES DE MATTOS",
+      "login": "4337021004",
+      "senha": "7137",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 307,
+      "administracaocondominio_id": 214,
+      "bloco": "1",
+      "num_unidade": "704",
+      "cep": "22776-000",
+      "num_pasta": "96",
+      "documento_proprietario": "491971187-53",
+      "nome_proprietario": "FERNANDO CARLOS LEAO DE BARROS ",
+      "login": "4337010704",
+      "senha": "1156",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 308,
+      "administracaocondominio_id": 215,
+      "bloco": "4",
+      "num_unidade": "104",
+      "cep": "22790-705",
+      "num_pasta": "767",
+      "documento_proprietario": "849268307-44",
+      "nome_proprietario": "ROSA ESMERALDA PIMENTA NETO",
+      "login": "256604010400",
+      "senha": "3866",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 309,
+      "administracaocondominio_id": 216,
+      "bloco": "",
+      "num_unidade": "1014",
+      "cep": "22631-003",
+      "num_pasta": "476",
+      "documento_proprietario": "606955877-49",
+      "nome_proprietario": "FERNANDO DE AMORIM MATTOS",
+      "login": "300201101400",
+      "senha": "1489",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 310,
+      "administracaocondominio_id": 217,
+      "bloco": "1",
+      "num_unidade": "103",
+      "cep": "22790-686",
+      "num_pasta": "649",
+      "documento_proprietario": "074251848-50",
+      "nome_proprietario": "ROGERIO RIBEIRO DA SILVEIRA",
+      "login": "229901010300",
+      "senha": "1915",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 311,
+      "administracaocondominio_id": 218,
+      "bloco": "1",
+      "num_unidade": "306",
+      "cep": "22710-255",
+      "num_pasta": "230",
+      "documento_proprietario": "863416506-04",
+      "nome_proprietario": "CRISTINA TEODORO DA SILVA ",
+      "login": "173201030600",
+      "senha": "1359",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 312,
+      "administracaocondominio_id": 219,
+      "bloco": "1",
+      "num_unidade": "604",
+      "cep": "22775-045",
+      "num_pasta": "470",
+      "documento_proprietario": "369585227-53",
+      "nome_proprietario": "JOSE R DAQ SILVA / MARIA L G DA SILVA ",
+      "login": "050501060400",
+      "senha": "0865",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 313,
+      "administracaocondominio_id": 219,
+      "bloco": "2",
+      "num_unidade": "408",
+      "cep": "22775-045",
+      "num_pasta": "498",
+      "documento_proprietario": "805.938.526-72",
+      "nome_proprietario": "AMERICO TEIXEIRA MARQUES",
+      "login": "050502040800",
+      "senha": "0368",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 314,
+      "administracaocondominio_id": 219,
+      "bloco": "1",
+      "num_unidade": "803",
+      "cep": "22775-045",
+      "num_pasta": "689",
+      "documento_proprietario": "68874707720",
+      "nome_proprietario": "LIGIA BEATRIZ SOLER MONTALVO",
+      "login": "050501080300",
+      "senha": "0066",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 315,
+      "administracaocondominio_id": 220,
+      "bloco": "ala B   ",
+      "num_unidade": "1310",
+      "cep": "22775-090",
+      "num_pasta": "645",
+      "documento_proprietario": "056299657-51",
+      "nome_proprietario": "SERGIO LUIZ SERAFIM",
+      "login": "4145011310",
+      "senha": "6024",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 316,
+      "administracaocondominio_id": 220,
+      "bloco": "ala A",
+      "num_unidade": "1012",
+      "cep": "22775-090",
+      "num_pasta": "651",
+      "documento_proprietario": "056299657-51",
+      "nome_proprietario": "SERGIO LUIZ SERAFIM",
+      "login": "4145011012",
+      "senha": "5772",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 317,
+      "administracaocondominio_id": 221,
+      "bloco": "6",
+      "num_unidade": "406",
+      "cep": "22790-880",
+      "num_pasta": "819 AD17",
+      "documento_proprietario": "410871866-68",
+      "nome_proprietario": "IVAN TAVARES SARMENTO",
+      "login": "256806040600",
+      "senha": "2263",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 318,
+      "administracaocondominio_id": 222,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "",
+      "num_pasta": "818 AD14",
+      "documento_proprietario": "628491667-15",
+      "nome_proprietario": "MARCO AURELIO PUREZA COTRIM JUNIOR",
+      "login": "22150A050800",
+      "senha": "6701",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 319,
+      "administracaocondominio_id": 223,
+      "bloco": "1",
+      "num_unidade": "504",
+      "cep": "22630-012",
+      "num_pasta": "734",
+      "documento_proprietario": "3359034791",
+      "nome_proprietario": "RONNIE DE ARAUJO",
+      "login": "211501050400",
+      "senha": "9668",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 320,
+      "administracaocondominio_id": 224,
+      "bloco": "1",
+      "num_unidade": "1001",
+      "cep": "22775-045",
+      "num_pasta": "258",
+      "documento_proprietario": "217636237-34",
+      "nome_proprietario": "CHAN TA PENG",
+      "login": "3963011001",
+      "senha": "3805",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 321,
+      "administracaocondominio_id": 224,
+      "bloco": "2",
+      "num_unidade": "501",
+      "cep": "22775-045",
+      "num_pasta": "461",
+      "documento_proprietario": "843438187-72",
+      "nome_proprietario": "DEYSE MORENO",
+      "login": "3963020501",
+      "senha": "3428",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 322,
+      "administracaocondominio_id": 224,
+      "bloco": "2",
+      "num_unidade": "302",
+      "cep": "22775-045",
+      "num_pasta": "513",
+      "documento_proprietario": "888979747-91",
+      "nome_proprietario": "ELIENAE GENESIA CORREA PEREIRA",
+      "login": "3963020302",
+      "senha": "7149",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 323,
+      "administracaocondominio_id": 225,
+      "bloco": "2",
+      "num_unidade": "1205",
+      "cep": "22775-170",
+      "num_pasta": "607",
+      "documento_proprietario": "070445737-70",
+      "nome_proprietario": "ALINE LOPES DA SILVA",
+      "login": "194602120500 ",
+      "senha": "5339",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 324,
+      "administracaocondominio_id": 226,
+      "bloco": "1",
+      "num_unidade": "205",
+      "cep": "22775-046",
+      "num_pasta": "659",
+      "documento_proprietario": "907251157-34",
+      "nome_proprietario": "ALEXANDRE HADDAD CARDOSO",
+      "login": "091001020500",
+      "senha": "0088",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 325,
+      "administracaocondominio_id": 226,
+      "bloco": "2",
+      "num_unidade": "101",
+      "cep": "22775-046",
+      "num_pasta": "667",
+      "documento_proprietario": "108841977-19",
+      "nome_proprietario": "ANA CAROLINA DE P. SANTOS E GUILHERME G. LIMA",
+      "login": "091002010100",
+      "senha": "0078",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 326,
+      "administracaocondominio_id": 227,
+      "bloco": "",
+      "num_unidade": "308",
+      "cep": "22795-008",
+      "num_pasta": "340",
+      "documento_proprietario": "487463127-49",
+      "nome_proprietario": "MARCUS MAURELL MONTEIRO",
+      "login": "238601030800",
+      "senha": "4064",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 327,
+      "administracaocondominio_id": 228,
+      "bloco": "2",
+      "num_unidade": "312",
+      "cep": "22783-115",
+      "num_pasta": "782",
+      "documento_proprietario": "016806037-01",
+      "nome_proprietario": "NAISY SAAR BREGOLATO",
+      "login": "1653020312",
+      "senha": "3543",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 328,
+      "administracaocondominio_id": 229,
+      "bloco": "",
+      "num_unidade": "801",
+      "cep": "22010-000",
+      "num_pasta": "194",
+      "documento_proprietario": "9599119797",
+      "nome_proprietario": "FERNANDO HERMONT BLOWER PASSOS",
+      "login": "2000800015",
+      "senha": "8496",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 329,
+      "administracaocondominio_id": 230,
+      "bloco": "",
+      "num_unidade": "414",
+      "cep": "22793-084",
+      "num_pasta": "266",
+      "documento_proprietario": "696045687-87",
+      "nome_proprietario": "TEREZA CRISTINA BARBOZA GAMA ",
+      "login": "2070400074",
+      "senha": "9842",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 330,
+      "administracaocondominio_id": 230,
+      "bloco": "",
+      "num_unidade": "319",
+      "cep": "22793-084",
+      "num_pasta": "374",
+      "documento_proprietario": "765.506.997-20",
+      "nome_proprietario": "DENISE LEAL SANTOS",
+      "login": "2070400059",
+      "senha": "2307",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 331,
+      "administracaocondominio_id": 231,
+      "bloco": "1",
+      "num_unidade": "304",
+      "cep": "22793-105",
+      "num_pasta": "232",
+      "documento_proprietario": "029431197-17",
+      "nome_proprietario": "KATIA DA COSTA ROCHA ",
+      "login": "2274200020",
+      "senha": "7369",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 332,
+      "administracaocondominio_id": 232,
+      "bloco": "2",
+      "num_unidade": "402",
+      "cep": "22783-127",
+      "num_pasta": "54",
+      "documento_proprietario": "880455367-72",
+      "nome_proprietario": "MONICA LACERDA SIQUEIRA",
+      "login": "2280300190",
+      "senha": "2656",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 333,
+      "administracaocondominio_id": 233,
+      "bloco": "5",
+      "num_unidade": "106",
+      "cep": "22720-000",
+      "num_pasta": "802",
+      "documento_proprietario": "095537217-88",
+      "nome_proprietario": "JOENIR GARCIA ALVIM JUNIOR",
+      "login": "2281500258",
+      "senha": "2801",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 334,
+      "administracaocondominio_id": 234,
+      "bloco": "",
+      "num_unidade": "503",
+      "cep": "22230-061",
+      "num_pasta": "598",
+      "documento_proprietario": "044033607-59",
+      "nome_proprietario": "IVAN CURY",
+      "login": "2185700029",
+      "senha": "5353",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 335,
+      "administracaocondominio_id": 235,
+      "bloco": "1",
+      "num_unidade": "1504",
+      "cep": "",
+      "num_pasta": "301",
+      "documento_proprietario": "886808517-87",
+      "nome_proprietario": "Fernanda Abranches Araujo Silva",
+      "login": "2054900172",
+      "senha": "6685",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 336,
+      "administracaocondominio_id": 235,
+      "bloco": "1",
+      "num_unidade": "1806",
+      "cep": "22793-380",
+      "num_pasta": "664",
+      "documento_proprietario": "003400378-90",
+      "nome_proprietario": "RITA MARIA BRUDNIEWSKI GRANATO",
+      "login": "2054900210",
+      "senha": "8812",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 337,
+      "administracaocondominio_id": 236,
+      "bloco": "1",
+      "num_unidade": "1806",
+      "cep": "",
+      "num_pasta": "690",
+      "documento_proprietario": "14948060740",
+      "nome_proprietario": "JOSE MARIA GARCIA GERPE",
+      "login": "2011500047",
+      "senha": "6858",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 338,
+      "administracaocondominio_id": 237,
+      "bloco": "2",
+      "num_unidade": "310",
+      "cep": "",
+      "num_pasta": "309",
+      "documento_proprietario": "092882057-21",
+      "nome_proprietario": "FABIANA ALMEIDA MAGALH\u00c3ES ",
+      "login": "2286400108",
+      "senha": "3853",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 339,
+      "administracaocondominio_id": 237,
+      "bloco": "2",
+      "num_unidade": "511",
+      "cep": "22770-102",
+      "num_pasta": "760",
+      "documento_proprietario": "095151267-62",
+      "nome_proprietario": "FABIO VIEGAS GOMES",
+      "login": "2286400123",
+      "senha": "4017",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 340,
+      "administracaocondominio_id": 238,
+      "bloco": "",
+      "num_unidade": "1",
+      "cep": "22790-826",
+      "num_pasta": "568",
+      "documento_proprietario": "121535287-55",
+      "nome_proprietario": "PAULO HENRIQUE ROSA DE LANA ",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 341,
+      "administracaocondominio_id": 239,
+      "bloco": "2",
+      "num_unidade": "1611",
+      "cep": "22631-052",
+      "num_pasta": "299",
+      "documento_proprietario": "356315037-00",
+      "nome_proprietario": "EDUARDO DA SILVA VAZ",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 342,
+      "administracaocondominio_id": 239,
+      "bloco": "2",
+      "num_unidade": "2105",
+      "cep": "22631-052",
+      "num_pasta": "333",
+      "documento_proprietario": "404268827-68",
+      "nome_proprietario": "LUCIENE ZANOLINI DUBA",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 343,
+      "administracaocondominio_id": 239,
+      "bloco": "1",
+      "num_unidade": "810",
+      "cep": "22631-052",
+      "num_pasta": "424",
+      "documento_proprietario": "785297357-49",
+      "nome_proprietario": "MARIA ELISA DA COSTA MUNHOZ",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 344,
+      "administracaocondominio_id": 239,
+      "bloco": "2",
+      "num_unidade": "1912",
+      "cep": "22631-052",
+      "num_pasta": "51",
+      "documento_proprietario": "029105237-13",
+      "nome_proprietario": "ANA PAULA FRAGOSO CASTELLO BRANCO",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 345,
+      "administracaocondominio_id": 239,
+      "bloco": "1",
+      "num_unidade": "304",
+      "cep": "22631-052",
+      "num_pasta": "535",
+      "documento_proprietario": "082609037-09",
+      "nome_proprietario": "CLAUDIA DE OLIVEIRA PAIX\u00c3O ",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 346,
+      "administracaocondominio_id": 239,
+      "bloco": "2",
+      "num_unidade": "1802",
+      "cep": "22631-052",
+      "num_pasta": "588",
+      "documento_proprietario": "041478446-42",
+      "nome_proprietario": "PATRICK MAURANNI GUIMARAES DE MENEZES",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 347,
+      "administracaocondominio_id": 239,
+      "bloco": "2",
+      "num_unidade": "1711",
+      "cep": "22631-052",
+      "num_pasta": "685",
+      "documento_proprietario": "884837627-49",
+      "nome_proprietario": "CELIO FERREIRA DA F FILHO",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 348,
+      "administracaocondominio_id": 239,
+      "bloco": "2",
+      "num_unidade": "608",
+      "cep": "22631-052",
+      "num_pasta": "700",
+      "documento_proprietario": "767060797-15",
+      "nome_proprietario": "JOSE CARLOS AVILA VILARDO",
+      "login": "administrativo@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 349,
+      "administracaocondominio_id": 240,
+      "bloco": "",
+      "num_unidade": "105",
+      "cep": "22750-230",
+      "num_pasta": "259",
+      "documento_proprietario": "905644647-91",
+      "nome_proprietario": "POLI TAVARES DE ALMEIDA ",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 350,
+      "administracaocondominio_id": 241,
+      "bloco": "3",
+      "num_unidade": "1103",
+      "cep": "22775-060",
+      "num_pasta": "375",
+      "documento_proprietario": "836598207-25",
+      "nome_proprietario": "JORGINA PINTO MAGALHAES ",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 351,
+      "administracaocondominio_id": 242,
+      "bloco": "1",
+      "num_unidade": "305",
+      "cep": "22750-310",
+      "num_pasta": "474",
+      "documento_proprietario": "93855613753",
+      "nome_proprietario": "PAULO HENRIQUE DA SILVA PINTO",
+      "login": "administrativo1@exclusiveadministradora.com.br",
+      "senha": "Exclusive315",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 352,
+      "administracaocondominio_id": 242,
+      "bloco": "2",
+      "num_unidade": "204",
+      "cep": "22750-310",
+      "num_pasta": "586",
+      "documento_proprietario": "012065507-16",
+      "nome_proprietario": "MARIA DE FATIMA GUIMARAES MOURA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Exclusive315",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 353,
+      "administracaocondominio_id": 243,
+      "bloco": "",
+      "num_unidade": "1004",
+      "cep": "22040-041",
+      "num_pasta": "489",
+      "documento_proprietario": "003823966-34",
+      "nome_proprietario": "HELOISA SOUZA LIMA VILELLA",
+      "login": "C1391C41",
+      "senha": "85AX58L5",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 354,
+      "administracaocondominio_id": 244,
+      "bloco": "",
+      "num_unidade": "1003",
+      "cep": "22230-001",
+      "num_pasta": "538",
+      "documento_proprietario": "00291442/0001-34",
+      "nome_proprietario": "EUNICE ROSSI",
+      "login": "C1551C67",
+      "senha": "858858PT",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 355,
+      "administracaocondominio_id": 244,
+      "bloco": "",
+      "num_unidade": "1001",
+      "cep": "22230-000",
+      "num_pasta": "582",
+      "documento_proprietario": "058961007-44",
+      "nome_proprietario": "YOLANDA ROSSI E LUIS FILIPE",
+      "login": "C1551C65",
+      "senha": "858858P8",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 356,
+      "administracaocondominio_id": 245,
+      "bloco": "",
+      "num_unidade": "1122",
+      "cep": "20031-204",
+      "num_pasta": "135",
+      "documento_proprietario": "014.669.287-00",
+      "nome_proprietario": "LEONARDO E TAIANA DE ALMEIDA SCOFANO",
+      "login": "USALA 1122/00471",
+      "senha": "365545",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 357,
+      "administracaocondominio_id": 245,
+      "bloco": "",
+      "num_unidade": "811",
+      "cep": "20031-204",
+      "num_pasta": "520",
+      "documento_proprietario": "062750447-72",
+      "nome_proprietario": "NENILE ALVES FARIAS",
+      "login": "USALA 0811/00325",
+      "senha": "571430",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 358,
+      "administracaocondominio_id": 246,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "23020-110",
+      "num_pasta": "773",
+      "documento_proprietario": "661738417-20",
+      "nome_proprietario": "OLIVEIRA FERREIRA SILVA",
+      "login": "Sem Condom\u00ednio",
+      "senha": "Sem Cond",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 359,
+      "administracaocondominio_id": 247,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "22611-080",
+      "num_pasta": "798",
+      "documento_proprietario": "025096527-53",
+      "nome_proprietario": "DYON DE ALMEIDA",
+      "login": "Sem Condom\u00ednio",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 360,
+      "administracaocondominio_id": 248,
+      "bloco": "2",
+      "num_unidade": "511",
+      "cep": "22745-004",
+      "num_pasta": "359",
+      "documento_proprietario": "090880297-84",
+      "nome_proprietario": "VIRGINIA CAROLLO DA COSTA DIAS ",
+      "login": "2.511",
+      "senha": "d59296",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 361,
+      "administracaocondominio_id": 249,
+      "bloco": "Malaga",
+      "num_unidade": "1001",
+      "cep": "",
+      "num_pasta": "154",
+      "documento_proprietario": "041.085.777-79",
+      "nome_proprietario": "GABRIEL ABIRAMIA ISMEIRO MADEIRA",
+      "login": "exclusive",
+      "senha": "f7f155",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 362,
+      "administracaocondominio_id": 250,
+      "bloco": "",
+      "num_unidade": "105",
+      "cep": "22795-006",
+      "num_pasta": "68",
+      "documento_proprietario": "486367703",
+      "nome_proprietario": "JOAQUIM MARCELO DE OLIVEIRA",
+      "login": "contato.exclusiveadm@gmail.com",
+      "senha": "8000105",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 363,
+      "administracaocondominio_id": 251,
+      "bloco": "",
+      "num_unidade": "26",
+      "cep": "22763-197",
+      "num_pasta": "243",
+      "documento_proprietario": "005962607-09",
+      "nome_proprietario": "CELI REGINA M SOUZA ",
+      "login": "contato.exclusiveadm@gmail.com",
+      "senha": "8000105",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 364,
+      "administracaocondominio_id": 252,
+      "bloco": "1",
+      "num_unidade": "404",
+      "cep": "22790-702",
+      "num_pasta": "672",
+      "documento_proprietario": "1300144785",
+      "nome_proprietario": "CRISTIANE RODRIGUES DE ANDRADES",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 365,
+      "administracaocondominio_id": 252,
+      "bloco": "1",
+      "num_unidade": "301",
+      "cep": "22790-701",
+      "num_pasta": "783",
+      "documento_proprietario": "160048847-15",
+      "nome_proprietario": "GILVAN QUEIROZ TAVARES",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 366,
+      "administracaocondominio_id": 253,
+      "bloco": "1",
+      "num_unidade": "1008",
+      "cep": "21250-391",
+      "num_pasta": "753",
+      "documento_proprietario": "037526987-80",
+      "nome_proprietario": "WILBER PEREIRA DA SILVA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 367,
+      "administracaocondominio_id": 254,
+      "bloco": "",
+      "num_unidade": "509",
+      "cep": "22631-040",
+      "num_pasta": "126",
+      "documento_proprietario": "023693047-82",
+      "nome_proprietario": "JEFFERSON DE DECCO TEIXEIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 368,
+      "administracaocondominio_id": 255,
+      "bloco": "",
+      "num_unidade": "511",
+      "cep": "22790-682",
+      "num_pasta": "145",
+      "documento_proprietario": "023693047-82",
+      "nome_proprietario": "JEFFERSON DE DECCO TEIXEIRA",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Seletto311",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 369,
+      "administracaocondominio_id": 256,
+      "bloco": "",
+      "num_unidade": "",
+      "cep": "20511-260",
+      "num_pasta": "426",
+      "documento_proprietario": "703549607-68",
+      "nome_proprietario": "Marcia Cristina Neves",
+      "login": "709",
+      "senha": "1531",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 370,
+      "administracaocondominio_id": 257,
+      "bloco": "1",
+      "num_unidade": "405",
+      "cep": "22790-702",
+      "num_pasta": "402",
+      "documento_proprietario": "973494617-04",
+      "nome_proprietario": "ELIZABETH FERNANDES DE SOUZA",
+      "login": "bethfernandes.imoveis@yahoo.com.br ",
+      "senha": "Upper2021",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 371,
+      "administracaocondominio_id": 258,
+      "bloco": "4",
+      "num_unidade": "401",
+      "cep": "22750-008",
+      "num_pasta": "452",
+      "documento_proprietario": "028840997-35",
+      "nome_proprietario": "FABIANE SOARES FISCILETTI",
+      "login": "U008/BL 04 401",
+      "senha": "304118",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 372,
+      "administracaocondominio_id": 259,
+      "bloco": "",
+      "num_unidade": "2",
+      "cep": "22793-325",
+      "num_pasta": "170",
+      "documento_proprietario": "70354960768",
+      "nome_proprietario": "MARCIA CRISTINA NEVES",
+      "login": "administrativo1@administramosimoveis.com.br",
+      "senha": "Adm#1234",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 373,
+      "administracaocondominio_id": 260,
+      "bloco": "",
+      "num_unidade": "391",
+      "cep": "22793-081",
+      "num_pasta": "691",
+      "documento_proprietario": "016681897-63",
+      "nome_proprietario": "EDUARDO WANTUIL FAVERO DE FREITAS JUNIOR",
+      "login": "Por e-mail ou Whatsapp",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 374,
+      "administracaocondominio_id": 261,
+      "bloco": "1",
+      "num_unidade": "524",
+      "cep": "22775-040",
+      "num_pasta": "809",
+      "documento_proprietario": "025242517-05",
+      "nome_proprietario": "ANDRE PALMA DA CUNHA MATTA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 375,
+      "administracaocondominio_id": 262,
+      "bloco": "2",
+      "num_unidade": "1004",
+      "cep": "22775-046",
+      "num_pasta": "332",
+      "documento_proprietario": "010232947-88",
+      "nome_proprietario": "ROGERIO CRISTOVAM DOS SANTOS",
+      "login": "rogerio.cristovam",
+      "senha": "Exclusive315",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 376,
+      "administracaocondominio_id": 263,
+      "bloco": "4",
+      "num_unidade": "901",
+      "cep": "22775-090",
+      "num_pasta": "601",
+      "documento_proprietario": "056299657-51",
+      "nome_proprietario": "SERGIO LUIZ SERAFIM",
+      "login": "sergio.l",
+      "senha": "Adm12345",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 377,
+      "administracaocondominio_id": 263,
+      "bloco": "1",
+      "num_unidade": "1005",
+      "cep": "22775-090",
+      "num_pasta": "612",
+      "documento_proprietario": "145293387-11",
+      "nome_proprietario": "RAISSA F N DE OLIVEIRA/MARCELO T Q DE SOUZA",
+      "login": "leandro.da",
+      "senha": "Adm12345",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 378,
+      "administracaocondominio_id": 263,
+      "bloco": "4",
+      "num_unidade": "204",
+      "cep": "22775-090",
+      "num_pasta": "629",
+      "documento_proprietario": "496198457-49",
+      "nome_proprietario": "ALBERTO GARCIA GOMES",
+      "login": "alberto.garcia",
+      "senha": "Adm12345",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 379,
+      "administracaocondominio_id": 263,
+      "bloco": "4",
+      "num_unidade": "802",
+      "cep": "22775-090",
+      "num_pasta": "643",
+      "documento_proprietario": "056299657-51",
+      "nome_proprietario": "SERGIO LUIZ SERAFIM",
+      "login": "sergio.l",
+      "senha": "Adm12345",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 380,
+      "administracaocondominio_id": 263,
+      "bloco": "1",
+      "num_unidade": "1109",
+      "cep": "22775-090",
+      "num_pasta": "708",
+      "documento_proprietario": "082050377-01",
+      "nome_proprietario": "ANDRE ALEXANDRE FERNANDES SOUTO",
+      "login": "andre.alexandre",
+      "senha": "Adm12345",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 381,
+      "administracaocondominio_id": 264,
+      "bloco": "1",
+      "num_unidade": "702",
+      "cep": "22793-329",
+      "num_pasta": "420",
+      "documento_proprietario": "26292831787",
+      "nome_proprietario": "Regina Celia Bastos de Carvalho",
+      "login": "exclusive.administradora",
+      "senha": "Exclusive315",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 382,
+      "administracaocondominio_id": 265,
+      "bloco": "1",
+      "num_unidade": "216",
+      "cep": "22775-039",
+      "num_pasta": "236",
+      "documento_proprietario": "183681077-68",
+      "nome_proprietario": "WALDYR MONTEIRO GARCIA FILHO ",
+      "login": "waldyr.monteiro",
+      "senha": "M6Y532",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 383,
+      "administracaocondominio_id": 266,
+      "bloco": "",
+      "num_unidade": "105",
+      "cep": "22250-060",
+      "num_pasta": "253",
+      "documento_proprietario": "258028527-04",
+      "nome_proprietario": "ENEIDA LEAL GUEIROS/HUMBERTO DA SILVA GUEIROS",
+      "login": "70105",
+      "senha": "\u00a0105",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 384,
+      "administracaocondominio_id": 267,
+      "bloco": "",
+      "num_unidade": "2013",
+      "cep": "22790-790",
+      "num_pasta": "590",
+      "documento_proprietario": "398236877-49",
+      "nome_proprietario": "SUELI JORGE SILVA DA COSTA",
+      "login": "1032013",
+      "senha": "2013",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 385,
+      "administracaocondominio_id": 268,
+      "bloco": "1",
+      "num_unidade": "104",
+      "cep": "22631-380",
+      "num_pasta": "730",
+      "documento_proprietario": "025123767-29",
+      "nome_proprietario": "HELENA DE FATIMA M LUCAS",
+      "login": "31170004",
+      "senha": "259",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 386,
+      "administracaocondominio_id": 269,
+      "bloco": "",
+      "num_unidade": "401",
+      "cep": "22461-152",
+      "num_pasta": "427",
+      "documento_proprietario": "703549607-68",
+      "nome_proprietario": "ELY PEREIRA NEVES",
+      "login": "2696100010",
+      "senha": "8810",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 387,
+      "administracaocondominio_id": 270,
+      "bloco": "",
+      "num_unidade": "103",
+      "cep": "22795-306",
+      "num_pasta": "113",
+      "documento_proprietario": "030242407-56",
+      "nome_proprietario": "FABIO ALVES CABRAL ",
+      "login": "2651300003",
+      "senha": "2220",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 388,
+      "administracaocondominio_id": 270,
+      "bloco": "",
+      "num_unidade": "304",
+      "cep": "22795-306",
+      "num_pasta": "76",
+      "documento_proprietario": "091000677-68",
+      "nome_proprietario": "CARLOS ALBERTO RIBEIRO BOUERI",
+      "login": "2651300020",
+      "senha": "4779",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 389,
+      "administracaocondominio_id": 271,
+      "bloco": "",
+      "num_unidade": "202",
+      "cep": "22795-465",
+      "num_pasta": "92",
+      "documento_proprietario": "296379537-87",
+      "nome_proprietario": "HENRIQUE MARQUES LISBOA",
+      "login": "256310006",
+      "senha": "2931",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 390,
+      "administracaocondominio_id": 272,
+      "bloco": "",
+      "num_unidade": "406",
+      "cep": "22740-300",
+      "num_pasta": "566",
+      "documento_proprietario": "023017537-60",
+      "nome_proprietario": "NAIR PORTO DE NOBREGA",
+      "login": "2621700030",
+      "senha": "5348",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 391,
+      "administracaocondominio_id": 273,
+      "bloco": "",
+      "num_unidade": "301",
+      "cep": "22795-035",
+      "num_pasta": "823 IA19",
+      "documento_proprietario": "009403727-20",
+      "nome_proprietario": "EUGENIO AGOSTINI NETTO",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  },
+  {
+    "model": "unidadecondominios",
+    "fields": {
+      "id": 392,
+      "administracaocondominio_id": 274,
+      "bloco": "",
+      "num_unidade": "204",
+      "cep": "22790-430",
+      "num_pasta": "786",
+      "documento_proprietario": "29997338/0001-41",
+      "nome_proprietario": "ORIGINAL BRASIL COM. PROD. OPTICOS LTDA",
+      "login": "",
+      "senha": "",
+      "created": "2025-02-25T16:23:47",
+      "updated": "2025-02-25T16:23:47"
+    }
+  }
+]

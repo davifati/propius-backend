@@ -1,0 +1,170 @@
+[
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 1,
+      "num_pasta": "41",
+      "endereco_imovel": "Av das Acacias da Peninsula, Barra da Tijuca,  540, CEP: 22776-000 ",
+      "data_vencimento": "2024-12-10",
+      "vlr_boleto": "3505.06",
+      "linha_digitavel": "34191090084044361293884756840009699260000350506",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_4e6a135519064b72bffb6b2ed8b0bde2.pdf",
+      "created": "2024-11-26T19:36:41"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 2,
+      "num_pasta": "476",
+      "endereco_imovel": "Av das Americas, Barra da Tijuca,  3333, CEP: 22631-003",
+      "data_vencimento": "2024-12-05",
+      "vlr_boleto": "2198.99",
+      "linha_digitavel": "34191093625354975293884515290009899210000219899",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_a1dff0cc27654b90b8dc25c68e2b502c.pdf",
+      "created": "2024-11-26T19:37:24"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 3,
+      "num_pasta": "649",
+      "endereco_imovel": "Rua Jose Mindlin, Recreio dos Bandeirantes,  320, CEP: 22790-686",
+      "data_vencimento": "2024-12-05",
+      "vlr_boleto": "1694.94",
+      "linha_digitavel": "34191093625377723293484510990009399210000169494",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_1c8cf6ef1c064eabba0524767e87b7b9.pdf",
+      "created": "2024-11-26T19:38:08"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 4,
+      "num_pasta": "230",
+      "endereco_imovel": "Rua Mapendi, Taquara,  730, CEP: 22710-255",
+      "data_vencimento": "2024-12-05",
+      "vlr_boleto": "823.97",
+      "linha_digitavel": "34191093625323097293684500260009399210000082397",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_9ab1f0d28f414613995ccb55d1c12d07.pdf",
+      "created": "2024-11-26T19:38:51"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 5,
+      "num_pasta": "523",
+      "endereco_imovel": "Av Alfredo Baltazar da Silveira, Recreio dos Bandeirantes ,  419, CEP: 22790-710",
+      "data_vencimento": "2024-12-05",
+      "vlr_boleto": "1720.13",
+      "linha_digitavel": "34191093625399397293384513210009899210000172013",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_0b3530b4436e445d8f9c8dc7b3c6a77d.pdf",
+      "created": "2024-11-26T19:40:28"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 6,
+      "num_pasta": "645",
+      "endereco_imovel": "Estrada Coronel Pedro Correa, Jacarepagua,  130, CEP: 22775-090",
+      "data_vencimento": "2024-12-10",
+      "vlr_boleto": "549.36",
+      "linha_digitavel": "34191090084025378293884756840009999260000054936",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_f377d778067e47c08336b1a78605c91a.pdf",
+      "created": "2024-11-26T19:41:09"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 7,
+      "num_pasta": "651",
+      "endereco_imovel": "Estrada Coronel Pedro Correa, Jacarepagua,  130, CEP: 22775-090",
+      "data_vencimento": "2024-12-10",
+      "vlr_boleto": "643.28",
+      "linha_digitavel": "34191090084025030293884756840009299260000064328",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_4226bb88b2c54b8e828d64b931275c3d.pdf",
+      "created": "2024-11-26T19:41:48"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 8,
+      "num_pasta": "461",
+      "endereco_imovel": "Rua Alfredo Ceschiatti, Jacarepagua,  155, CEP: 22775-045",
+      "data_vencimento": "2024-12-10",
+      "vlr_boleto": "1786.46",
+      "linha_digitavel": "34191090084040179293884756840009199260000178646",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_72f86c149493468a92059ed01118cf55.pdf",
+      "created": "2024-11-26T19:43:13"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 9,
+      "num_pasta": "513",
+      "endereco_imovel": "Rua Alfredo Ceschiatti, Jacarepagua,  155, CEP: 22775-045",
+      "data_vencimento": "2024-12-10",
+      "vlr_boleto": "1679.89",
+      "linha_digitavel": "34191090084039981293884756840009199260000167989",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_5c287fe0cd284ce6a1d5e7e39eb2792b.pdf",
+      "created": "2024-11-26T19:43:52"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 10,
+      "num_pasta": "607",
+      "endereco_imovel": "Rua Queiroz Junior, Jacarepagua,  201, CEP: 22775-170",
+      "data_vencimento": "2024-12-10",
+      "vlr_boleto": "2165.81",
+      "linha_digitavel": "34191093625490361293284510730009799260000216581",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_a56e85279eaf431ab17bd483f3ead4ae.pdf",
+      "created": "2024-11-26T19:44:36"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 11,
+      "num_pasta": "340",
+      "endereco_imovel": "Av Lucio Costa, Recreio dos Bandeirantes,  16010, CEP: 22795-008",
+      "data_vencimento": "2024-12-10",
+      "vlr_boleto": "1595.67",
+      "linha_digitavel": "BOLETOEMD\u00c9BITOAUTOM\u00c1TICOBancoSantander",
+      "nome_administradora": "protel",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_e2e1ea47011849cbb8c6a2b3d79b186d.pdf",
+      "created": "2024-11-26T19:45:54"
+    }
+  },
+  {
+    "model": "scrapercondominios",
+    "fields": {
+      "id": 12,
+      "num_pasta": "510",
+      "endereco_imovel": "Rua Alfredo Ceschiatti, Jacarepagua,  150, CEP: 22775-045",
+      "data_vencimento": "2024-12-10",
+      "vlr_boleto": "1686.94",
+      "linha_digitavel": "34191.09651 72837.998581 60187.750009 1 99260000168694",
+      "nome_administradora": "quality house",
+      "link_pdf_boleto": "http://212.56.42.99:5000/files/boleto_bd86eb7d7f614897b582a7a0cb2d5ff1.png",
+      "created": "2024-11-26T19:54:36"
+    }
+  }
+]
