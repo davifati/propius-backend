@@ -3,18 +3,62 @@ from rest_framework.response import Response
 from rest_framework import status
 from django.utils.timezone import now, timedelta
 from django.db.models import Max
-from datetime import timedelta
+from datetime import datetime, timedelta
 
 from imoveis.models.administradora import Administradora
 from monitoramento.models.boleto import Boleto
+from imoveis.models.unidade import Unidade
 from drf_spectacular.utils import extend_schema
+
+
+extend_schema(
+    tags=["Monitoramento de Cronograma de Execução"],
+    summary="cronograma de execução dos bots",
+)
+
+
+class CronogramaExecucaoBotsView(APIView):
+    def get(self, request):
+        hoje = datetime.now()
+        ultima_execucao = hoje - timedelta(days=15)
+        proxima_execucao = hoje + timedelta(days=15)
+
+        # Relaciona boletos a unidades para buscar condominio e administradora
+        boletos = Boleto.objects.select_related(None).all()
+
+        data = []
+        for boleto in boletos:
+            try:
+                unidade = Unidade.objects.select_related(
+                    "condominio__administradora"
+                ).get(pasta=str(boleto.pasta))
+                condominio = unidade.condominio
+                administradora = condominio.administradora if condominio else None
+
+                data.append(
+                    {
+                        "administradora": administradora.nome.upper(),
+                        "condominio": condominio.nome.upper(),
+                        "ultima_execucao": ultima_execucao.isoformat(),
+                        "proxima_execucao": proxima_execucao.isoformat(),
+                        "status": boleto.status.title(),
+                        "valor": f"R$ {boleto.valor:,.2f}".replace(",", "v")
+                        .replace(".", ",")
+                        .replace("v", "."),
+                        "data_vencimento": boleto.data_vencimento.strftime("%d/%m/%Y"),
+                    }
+                )
+            except Unidade.DoesNotExist:
+                continue  # pula boletos sem unidade relacionada
+
+        return Response(data)
 
 
 @extend_schema(
     tags=["Monitoramento de Cronograma de Execução"],
     summary="Mock de cronograma de execução dos bots",
 )
-class CronogramaExecucaoBotsView(APIView):
+class CronogramaExecucaoBotsView_MOCK(APIView):
     def get(self, request):
         mock_data = [
             {
