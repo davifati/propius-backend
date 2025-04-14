@@ -7,6 +7,17 @@ from imoveis.models.condominio import Condominio
 from utils.abstract_model import BaseModelTimeStamped
 
 
+class RemessasBancaria(models.Model):
+    mes = models.CharField(max_length=7)  # formato: YYYY-MM
+    conteudo = models.TextField()
+    arquivo = models.FileField(upload_to="remessas_bancarias/")
+    quantidade_unidades = models.IntegerField()
+    data_criacao = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"Remessa {self.mes} ({self.quantidade_unidades} unidades)"
+
+
 class RemessaBancaria(BaseModelTimeStamped):
     """
     Model representing a bank remittance (remessa bancária).
